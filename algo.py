@@ -6,11 +6,13 @@ import helpers
 
 from nltk.corpus import wordnet as wn
 from nltk.corpus import stopwords
+from nltk.stem.snowball import SnowballStemmer
 
 ngram_freq_folder = 'C:/Users/anjovis/desktop/nlp2017_group3/data/letters/'
 xml_test_data = 'C:/Users/anjovis/Desktop/nlp2017_group3/data/corpora/english-group-lex-sample/train/corpus_small.xml'
 
 stop = set(stopwords.words('english'))
+stemmer = SnowballStemmer('english')
 
 # the stopwords
 '''
@@ -30,7 +32,7 @@ stop = set(stopwords.words('english'))
 '''
 
 
-def disambiguate_word(disambiguated_word, context):
+def disambiguate_word(disambiguated_word, context, verbose=False):
     # form the files that are to be searched
     files = helpers.get_files(ngram_freq_folder)
     first_two_letters = disambiguated_word[:2]  # apparently every pair of letters exists
@@ -55,10 +57,11 @@ def disambiguate_word(disambiguated_word, context):
         # just concatenate the definition and all the examples
         signature = definition + examples
 
-        # TODO form lemmas from words to get better accuracy
         # TODO remove marks and paragraphs from the context and signature.
         marks = '(){}[];.'
 
+        # stem the words in signature
+        signature = [stemmer.stem(w) for w in signature]
 
         # remove defined stopwords
         signature = [i for i in signature if i not in stop]
@@ -66,7 +69,9 @@ def disambiguate_word(disambiguated_word, context):
 
         # form overlap between the context and the current sense
         overlap = [word for word in context if word in signature]
-        #print('Overlap: ', overlap)
+        if verbose:
+
+            print('Sense: ', sense, 'Overlap: ', overlap)
 
         # form score from the overlapped words
         score = 0
@@ -97,20 +102,24 @@ def get_word_occurrences(word1, word2, files):
     '''
 
     cooccurrences = 0
-    # https://stackoverflow.com/questions/12468179/unicodedecodeerror-utf8-codec-cant-decode-byte-0x9c
     for filename in files:
-        f = open(ngram_freq_folder + filename, 'r', encoding='utf-8', errors='ignore')
-        for line in f.readlines():
-            tokens = line.rstrip().split('\t')
-            # TODO remove POS-tag from the words in ngram-files
-            if tokens[0] == word1 and tokens[1] == word2:
-                #cooccurrences = int(tokens[2])
-                # print(word1, word2, cooccurrences)
-                # only one instance of a word pair in a file
-                f.close()
-                return cooccurrences
+        try:
+            f = open(ngram_freq_folder + filename, 'r', encoding='utf-8', errors='ignore')
+        except:
+            print('Check path.')
+            f.close()
+            return
+        finally:
+            for line in f.readlines():
+                tokens = line.rstrip().split('\t')
+                # TODO remove POS-tag from the words in ngram-files
+                if tokens[0] == word1 and tokens[1] == word2:
+                    cooccurrences = int(tokens[2])
+                    # print(word1, word2, cooccurrences)
+                    # only one instance of a word pair in a file
+                    f.close()
+                    return cooccurrences
     return cooccurrences
-
 
 
 
@@ -118,19 +127,8 @@ if __name__ == "__main__":
 
     test_dict = helpers.parse_xml(xml_test_data)
 
-    # word to be disambiguated
-    #print(test_dict['corpus']['lexelt'][0]['instance'][0]['context']['head'])
-    # the text of the context
-    #print(test_dict['corpus']['lexelt']['instance'][0]['context']['#text'])
-    # the correct senseid from WordNet of the context
-    #print(test_dict['corpus']['lexelt']['instance'][0]['answer']['@senseid'])
-
-    #for instance in test_dict['corpus'].items():
-    #    print(instance['context'])
-
     # loop the every word from xml file
     for word in test_dict['corpus']['lexelt']:
-
         # loop every instance in the current lexeme
         for instance in word['instance']:
             word_to_be_disambiguated = instance['context']['head']
@@ -138,17 +136,22 @@ if __name__ == "__main__":
             correct_sense = instance['answer']['@senseid']
 
             # TODO remove tags and quotes from context
-            # make context into a list
+            # format context to a list and stem the words
             context = context.split(' ')
+            context = [stemmer.stem(w) for w in context]
+
+            # remove stopwords
             context = [i for i in context if i not in stop]
             #print('context', context)
 
             predicted_sense = disambiguate_word(word_to_be_disambiguated, context)
 
+            print('word_to_be_disambiguated: ', word_to_be_disambiguated)
             print('predicted_sense:', predicted_sense)
             print('correct_sense:', correct_sense)
             print('')
 
+            # TODO write results to csv
 
 
 
