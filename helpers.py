@@ -1,4 +1,5 @@
 import os
+import xmltodict
 
 def get_files(folder_location):
     ''' Return all files in a list in file location in reference to current directory. '''
@@ -14,3 +15,14 @@ def get_files(folder_location):
         print('No applicable data in the folder.')
 
     return files
+
+def parse_xml(file):
+    # Parse the xml-file to
+    try:
+        fd = open(file)
+        doc = xmltodict.parse(fd.read())
+    except IOError:
+        print('Couldn\'t find the test data')
+    finally:
+        fd.close()
+        return doc

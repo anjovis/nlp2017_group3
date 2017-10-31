@@ -3,80 +3,17 @@
 
 import sys
 import helpers
+
 from nltk.corpus import wordnet as wn
 from nltk.corpus import stopwords
 
+ngram_freq_folder = 'C:/Users/anjovis/desktop/nlp2017_group3/data/letters/'
+xml_test_data = 'C:/Users/anjovis/Desktop/nlp2017_group3/data/corpora/english-group-lex-sample/train/corpus_small.xml'
 
 stop = set(stopwords.words('english'))
-# the folder where the files are
-#data_folder = 'F:/google-bigram-cooccurrence/downloads/google_ngrams/letters/'
-data_folder = 'C:/Users/anjovis/desktop/nlp2017_group3/data/letters/'
 
-def get_word_occurrences(word1, word2, files):
-    '''
-    Format in files: yourself_ADJ	Calm_ADJ	47
-                     context        disambiguated   co-occurrences
-    '''
-
-    cooccurrences = 0
-    # https://stackoverflow.com/questions/12468179/unicodedecodeerror-utf8-codec-cant-decode-byte-0x9c
-    for filename in files:
-        f = open(data_folder + filename, 'r', encoding='utf-8', errors='ignore')
-        for line in f.readlines():
-            tokens = line.rstrip().split('\t')
-            # TODO remove POS-tag from the words in ngram-files
-            if tokens[0] == word1 and tokens[1] == word2:
-                cooccurrences = int(tokens[2])
-                print(word1, word2, cooccurrences)
-                # only one instance of a word pair in a file
-                f.close()
-                return cooccurrences
-    return cooccurrences
-
-
-if __name__ == "__main__":
-
-    # TODO parse context and disabiguated word from the eng-lex-sample.training.xml aka. training file
-    disambiguated_word = 'art'
-    context = "Their multiscreen projections of slides and film loops have featured in orbital parties, at the Astoria and Heaven, in Rifat Ozbek's 1988/89 fashion shows, and at Energy's recent Docklands all-dayer. \
-    From their residency at the Fridge during the first summer of love, Halo used slide and film projectors to throw up a collage of op-art patterns, film loops of dancers like E-Boy and Wumni, and unique fractals derived from video feedback. \
-    &bquo;We're not aware of creating a visual identify for the house scene, because we're right in there. \
-    We see a dancer at a rave, film him later that week, and project him at the next rave.&equo; \
-    [hi]Ben Lewis [/hi] Halo can be contacted on 071 738 3248. [ptr][/p] [caption] \
-    <head>Art</head>you can dance to from the creative group called Halo "
-    #context = ['engine', 'buy', 'something', 'formula', 'money']
-
-    context = context.split(' ')
-    context = [i for i in context if i not in stop]
-    print('context', context)
-
-
-    files = helpers.get_files(data_folder)
-    first_two_letters = disambiguated_word[:2]  # apparently every pair of letters exists
-    # search only the relevant files
-    # from 'googlebooks-eng-all-2gram-20120701-do.gz_1' to 'do'
-    files = [file for file in files if file.split('-')[-1].split('.')[0] == first_two_letters]  #  from 'googlebooks-eng-all-2gram-20120701-do.gz_1' to do
-    #print('Files to be processed:', files)
-
-
-    # Sense with the highest score is considered best.
-    scores = []
-    # get every word sense from WordNet
-    for sense in wn.synsets(disambiguated_word):
-        print(' ')
-        print(sense)
-        examples = []
-        for example in sense.examples():
-            examples + example.split(' ')
-        #print(sense.definition())
-        definition = sense.definition().split(' ')
-        # just concatenate the definition and all the examples
-        signature = definition + examples
-
-        # TODO form lemmas from words to get better accuracy
-        # TODO remove marks and paragraphs from the context and signature.
-        marks = '(){}[];.'
-        '''
+# the stopwords
+'''
         stop = 
         {'the', 'these', 'where', 'both', 'but', 'nor', 'just', 'wasn', 'itself', 'hadn', 'their', 'or', 'so', 'then', 
         'isn', 'when', 'me', 'she', 'all', 'having', 'ours', 'on', 'he', 'has', 'am', 'are', 'mustn', 'again', 'own', 
@@ -89,16 +26,47 @@ if __name__ == "__main__":
         'your', 'himself', 'don', 'been', 't', 'with', 'o', 'more', 'because', 'and', 'will', 'how', 'do', 'them', 
         'any', 'myself', 'no', 'an', 'about', 'ain', 'weren', 'there', 'between', 'doesn', 'against', 'this', 'some', 
         'very', 'its', 'hers', 'under', 'while', 'had', 'haven', 'that', 'shouldn', 'which', 'my', 'd', 'does', 'him'}
-        
-        '''
+
+'''
+
+
+def disambiguate_word(disambiguated_word, context):
+    # form the files that are to be searched
+    files = helpers.get_files(ngram_freq_folder)
+    first_two_letters = disambiguated_word[:2]  # apparently every pair of letters exists
+    # search only the relevant files
+    # from 'googlebooks-eng-all-2gram-20120701-do.gz_1' to 'do'
+    files = [file for file in files if file.split('-')[-1].split('.')[
+        0] == first_two_letters]  # from 'googlebooks-eng-all-2gram-20120701-do.gz_1' to do
+    # print('Files to be processed:', files)
+
+
+    # Sense with the highest score is considered best.
+    scores = []
+    # get every word sense from WordNet
+    for sense in wn.synsets(disambiguated_word):
+        #print(' ')
+        #print(sense)
+        examples = []
+        for example in sense.examples():
+            examples + example.split(' ')
+        # print(sense.definition())
+        definition = sense.definition().split(' ')
+        # just concatenate the definition and all the examples
+        signature = definition + examples
+
+        # TODO form lemmas from words to get better accuracy
+        # TODO remove marks and paragraphs from the context and signature.
+        marks = '(){}[];.'
+
 
         # remove defined stopwords
         signature = [i for i in signature if i not in stop]
-        print('signature: ', signature)
+        #print('signature: ', signature)
 
         # form overlap between the context and the current sense
         overlap = [word for word in context if word in signature]
-        print('Overlap: ', overlap)
+        #print('Overlap: ', overlap)
 
         # form score from the overlapped words
         score = 0
@@ -109,13 +77,81 @@ if __name__ == "__main__":
 
         scores.append([score, sense])
 
-        print(scores)
+        #print(scores)
 
     # loop through the scores to get the maximum
-    correct_sense = [0, 'Initial string here']
+    predicted_sense = [0, 'Initial string here']
     for i in scores:
-        if i[0] > correct_sense[0]:
-            correct_sense = i
+        if i[0] > predicted_sense[0]:
+            predicted_sense = i
 
-    print('Final sense: ', correct_sense)
+    #print('Final sense: ', predicted_sense)
+
+    return predicted_sense
+
+
+def get_word_occurrences(word1, word2, files):
+    '''
+    Format in files: yourself_ADJ	Calm_ADJ	47
+                     context        disambiguated   co-occurrences
+    '''
+
+    cooccurrences = 0
+    # https://stackoverflow.com/questions/12468179/unicodedecodeerror-utf8-codec-cant-decode-byte-0x9c
+    for filename in files:
+        f = open(ngram_freq_folder + filename, 'r', encoding='utf-8', errors='ignore')
+        for line in f.readlines():
+            tokens = line.rstrip().split('\t')
+            # TODO remove POS-tag from the words in ngram-files
+            if tokens[0] == word1 and tokens[1] == word2:
+                #cooccurrences = int(tokens[2])
+                # print(word1, word2, cooccurrences)
+                # only one instance of a word pair in a file
+                f.close()
+                return cooccurrences
+    return cooccurrences
+
+
+
+
+if __name__ == "__main__":
+
+    test_dict = helpers.parse_xml(xml_test_data)
+
+    # word to be disambiguated
+    #print(test_dict['corpus']['lexelt'][0]['instance'][0]['context']['head'])
+    # the text of the context
+    #print(test_dict['corpus']['lexelt']['instance'][0]['context']['#text'])
+    # the correct senseid from WordNet of the context
+    #print(test_dict['corpus']['lexelt']['instance'][0]['answer']['@senseid'])
+
+    #for instance in test_dict['corpus'].items():
+    #    print(instance['context'])
+
+    # loop the every word from xml file
+    for word in test_dict['corpus']['lexelt']:
+
+        # loop every instance in the current lexeme
+        for instance in word['instance']:
+            word_to_be_disambiguated = instance['context']['head']
+            context = instance['context']['#text']
+            correct_sense = instance['answer']['@senseid']
+
+            # TODO remove tags and quotes from context
+            # make context into a list
+            context = context.split(' ')
+            context = [i for i in context if i not in stop]
+            #print('context', context)
+
+            predicted_sense = disambiguate_word(word_to_be_disambiguated, context)
+
+            print('predicted_sense:', predicted_sense)
+            print('correct_sense:', correct_sense)
+            print('')
+
+
+
+
+
+
 
