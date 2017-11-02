@@ -6,13 +6,17 @@ import helpers
 
 from nltk.corpus import wordnet as wn
 from nltk.corpus import stopwords
+#from nltk import tokenizer.tokenize
+from nltk.tokenize import RegexpTokenizer
 from nltk.stem.snowball import SnowballStemmer
 
 ngram_freq_folder = 'C:/Users/anjovis/desktop/nlp2017_group3/data/letters/'
 xml_test_data = 'C:/Users/anjovis/Desktop/nlp2017_group3/data/corpora/english-group-lex-sample/train/corpus_small.xml'
 
+# initialize nltk language processing functions
 stop = set(stopwords.words('english'))
 stemmer = SnowballStemmer('english')
+tokenizer = RegexpTokenizer(r'\w+')  # remove all punctuation
 
 # the stopwords
 '''
@@ -51,26 +55,42 @@ def disambiguate_word(disambiguated_word, context, verbose=False):
         #print(sense)
         examples = []
         for example in sense.examples():
-            examples + example.split(' ')
+            examples += tokenizer.tokenize(example)
         # print(sense.definition())
-        definition = sense.definition().split(' ')
-        # just concatenate the definition and all the examples
-        signature = definition + examples
+        definition = tokenizer.tokenize(sense.definition())
 
-        # TODO remove marks and paragraphs from the context and signature.
-        marks = '(){}[];.'
+        # get hyponyms and hypernyms for the sense to get larger overlap
+
+        hypernyms = []
+        for hypernym in sense.hypernyms():
+            hypernyms += tokenizer.tokenize(hypernym.definition())
+            for example in hypernym.examples():
+                hypernyms += tokenizer.tokenize(example)
+
+        #print('hypernyms: ', hypernyms)
+
+        hyponyms = []
+        for hyponym in sense.hyponyms():
+            hyponyms += tokenizer.tokenize(hyponym.definition())
+            for example in hyponym.examples():
+                hyponyms += tokenizer.tokenize(example)
+
+        #print('hyponyms: ', hyponyms)
+
+        # just concatenate the definition and all the examples
+        signature = definition + examples  + hypernyms + hyponyms
+        #print('signature: ', signature)
 
         # stem the words in signature
         signature = [stemmer.stem(w) for w in signature]
 
         # remove defined stopwords
         signature = [i for i in signature if i not in stop]
-        #print('signature: ', signature)
+        # print('signature: ', signature)
 
         # form overlap between the context and the current sense
         overlap = [word for word in context if word in signature]
         if verbose:
-
             print('Sense: ', sense, 'Overlap: ', overlap)
 
         # form score from the overlapped words
@@ -82,7 +102,7 @@ def disambiguate_word(disambiguated_word, context, verbose=False):
 
         scores.append([score, sense])
 
-        #print(scores)
+        # print(scores)
 
     # loop through the scores to get the maximum
     predicted_sense = [0, 'Initial string here']
@@ -122,7 +142,6 @@ def get_word_occurrences(word1, word2, files):
     return cooccurrences
 
 
-
 if __name__ == "__main__":
 
     test_dict = helpers.parse_xml(xml_test_data)
@@ -137,14 +156,14 @@ if __name__ == "__main__":
 
             # TODO remove tags and quotes from context
             # format context to a list and stem the words
-            context = context.split(' ')
+            context = tokenizer.tokenize(context)
             context = [stemmer.stem(w) for w in context]
 
             # remove stopwords
             context = [i for i in context if i not in stop]
             #print('context', context)
 
-            predicted_sense = disambiguate_word(word_to_be_disambiguated, context)
+            predicted_sense = disambiguate_word(word_to_be_disambiguated, context, verbose=True)
 
             print('word_to_be_disambiguated: ', word_to_be_disambiguated)
             print('predicted_sense:', predicted_sense)
