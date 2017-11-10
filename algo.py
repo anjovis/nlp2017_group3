@@ -10,9 +10,10 @@ from nltk.corpus import stopwords
 from nltk.tokenize import RegexpTokenizer
 from nltk.stem.snowball import SnowballStemmer
 
-ngram_freq_folder = 'C:/Users/anjovis/desktop/nlp2017_group3/data/letters/'
-xml_test_data = 'C:/Users/anjovis/Desktop/nlp2017_group3/data/corpora/english-group-lex-sample/train/corpus_small.xml'
-
+#ngram_freq_folder = 'C:/Users/anjovis/desktop/nlp2017_group3/data/letters/'
+ngram_freq_folder = 'F:/google-bigram-cooccurrence/downloads/google_ngrams/letters/'
+#xml_test_data = 'C:/Users/anjovis/Desktop/nlp2017_group3/data/corpora/english-group-lex-sample/train/corpus_small.xml'
+xml_test_data = 'C:/Users/eemel/Desktop/nlp2017_group3/corpus_small.xml'
 # initialize nltk language processing functions
 stop = set(stopwords.words('english'))
 stemmer = SnowballStemmer('english')
@@ -155,6 +156,8 @@ if __name__ == "__main__":
             correct_sense = instance['answer']['@senseid']
 
             # TODO remove tags and quotes from context
+            # TODO remove disambiguated word from context: doesn't provide any information,
+            # can be produce errors by giving weigth to senses that happen to have the keyword
             # format context to a list and stem the words
             context = tokenizer.tokenize(context)
             context = [stemmer.stem(w) for w in context]
