@@ -11,10 +11,10 @@ from nltk.tokenize import RegexpTokenizer
 from nltk.stem.snowball import SnowballStemmer
 
 #ngram_freq_folder = 'C:/Users/anjovis/desktop/nlp2017_group3/data/letters/'
-ngram_freq_folder = 'D:/data/letters/'
+ngram_freq_folder = 'D:/data/letters_pos_removed/'
 #ngram_freq_folder = 'F:/google-bigram-cooccurrence/downloads/google_ngrams/letters/'
-#xml_test_data = 'C:/Users/anjovis/Desktop/nlp2017_group3/data/corpora/english-group-lex-sample/train/corpus_small.xml'
-xml_test_data = 'C:/Users/eemel/Desktop/nlp2017_group3/corpus_small.xml'
+xml_test_data = 'C:/Users/anjovis/Desktop/nlp2017_group3/corpus_small.xml'
+#xml_test_data = 'C:/Users/eemel/Desktop/nlp2017_group3/corpus_small.xml'
 # initialize nltk language processing functions
 stop = set(stopwords.words('english'))
 stemmer = SnowballStemmer('english')
@@ -80,18 +80,44 @@ def disambiguate_word(disambiguated_word, context, verbose=False):
         #print('hyponyms: ', hyponyms)
 
         # just concatenate the definition and all the examples
-        signature = definition + examples  + hypernyms + hyponyms
+        signature = definition + examples + hypernyms + hyponyms
         #print('signature: ', signature)
 
+        # retain the information of the original word in stemming
+        # signature format: [(stem1, word1), (stem2, word2)...]
         # stem the words in signature
-        signature = [stemmer.stem(w) for w in signature]
+        signature = [(stemmer.stem(word), word) for word in signature]
 
-        # remove defined stopwords
-        signature = [i for i in signature if i not in stop]
-        # print('signature: ', signature)
+
+        #for index, pair in signature:
+        #    for w in stop:
+        #        if w == pair[0]:
+        #            continue
+        #    signature[index] = pair
+
+        # remove defined stopwords based on the stemmed word
+        without_stopwords = []  # helper variable
+        for pair in signature:
+            if pair[0] in stop:
+                continue
+            else:
+                without_stopwords.append(pair)
+
+        signature = without_stopwords
+
+        #print('signature: ', signature)
 
         # form overlap between the context and the current sense
-        overlap = [word for word in context if word in signature]
+        overlap = []
+        for w1 in context:
+            for w2 in signature:
+                # TODO handle
+                if w1[0] == w2[0]:
+                    # Append the original non-stemmed word. Words are not stemmed in ngram-coocurence data.
+                    overlap.append(w1[1])  # Use context base-word on default.
+
+        #overlap = [word for word in context if word in signature]
+
         if verbose:
             print('Sense: ', sense, 'Overlap: ', overlap)
 
@@ -134,7 +160,6 @@ def get_word_occurrences(word1, word2, files):
         finally:
             for line in f.readlines():
                 tokens = line.rstrip().split('\t')
-                # TODO remove POS-tag from the words in ngram-files
                 if tokens[0] == word1 and tokens[1] == word2:
                     cooccurrences = int(tokens[2])
                     # print(word1, word2, cooccurrences)
@@ -157,14 +182,27 @@ if __name__ == "__main__":
             correct_sense = instance['answer']['@senseid']
 
             # TODO remove tags and quotes from context
-            # TODO remove disambiguated word from context: doesn't provide any information,
             # can be produce errors by giving weigth to senses that happen to have the keyword
-            # format context to a list and stem the words
+            # format context to a list
             context = tokenizer.tokenize(context)
-            context = [stemmer.stem(w) for w in context]
 
-            # remove stopwords
-            context = [i for i in context if i not in stop]
+            # remove the word to be disambiguated: it doesn't provide any information for the context
+            context = [w for w in context if w not in [word_to_be_disambiguated, word_to_be_disambiguated.lower()]]
+
+            # stem the words but retain the information of the original word
+            context = [(stemmer.stem(word), word) for word in context]
+
+            #print(context)
+            # remove defined stopwords based on the stemmed word
+            without_stopwords = []  # helper variable
+            for pair in context:
+                if pair[0] in stop:
+                    continue
+                else:
+                    without_stopwords.append(pair)
+
+            context = without_stopwords
+
             #print('context', context)
 
             predicted_sense = disambiguate_word(word_to_be_disambiguated, context, verbose=True)

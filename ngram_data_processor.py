@@ -58,4 +58,4 @@ def sum_occurencies(input_folder, files, output_folder='./output/'):
 if __name__ == "__main__":
     files = helpers.get_files(input_folder)
 
-    remove_pos_tag(input_folder, files, output_folder='D:/data/letter_pos_removed/')
+    remove_pos_tag(input_folder, files, output_folder='D:/data/letters_pos_removed/')

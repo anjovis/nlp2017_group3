@@ -26,3 +26,4 @@ def parse_xml(file):
     finally:
         fd.close()
         return doc
+
