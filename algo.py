@@ -11,7 +11,8 @@ from nltk.tokenize import RegexpTokenizer
 from nltk.stem.snowball import SnowballStemmer
 
 #ngram_freq_folder = 'C:/Users/anjovis/desktop/nlp2017_group3/data/letters/'
-ngram_freq_folder = 'F:/google-bigram-cooccurrence/downloads/google_ngrams/letters/'
+ngram_freq_folder = 'D:/data/letters/'
+#ngram_freq_folder = 'F:/google-bigram-cooccurrence/downloads/google_ngrams/letters/'
 #xml_test_data = 'C:/Users/anjovis/Desktop/nlp2017_group3/data/corpora/english-group-lex-sample/train/corpus_small.xml'
 xml_test_data = 'C:/Users/eemel/Desktop/nlp2017_group3/corpus_small.xml'
 # initialize nltk language processing functions
