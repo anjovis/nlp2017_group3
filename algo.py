@@ -41,7 +41,7 @@ tokenizer = RegexpTokenizer(r'\w+')  # remove all punctuation
 def disambiguate_word(disambiguated_word, context, verbose=False):
     # form the files that are to be searched
     files = helpers.get_files(ngram_freq_folder)
-    first_two_letters = disambiguated_word[:2]  # apparently every pair of letters exists
+    first_two_letters = disambiguated_word.lower()[:2]  # apparently every pair of letters exists
     # search only the relevant files
     # from 'googlebooks-eng-all-2gram-20120701-do.gz_1' to 'do'
     files = [file for file in files if file.split('-')[-1].split('.')[
@@ -81,6 +81,10 @@ def disambiguate_word(disambiguated_word, context, verbose=False):
 
         # just concatenate the definition and all the examples
         signature = definition + examples + hypernyms + hyponyms
+
+        # allow only one same word in the signature
+        signature = list(set(signature))
+
         #print('signature: ', signature)
 
         # retain the information of the original word in stemming
@@ -121,6 +125,7 @@ def disambiguate_word(disambiguated_word, context, verbose=False):
         if verbose:
             print('Sense: ', sense, 'Overlap: ', overlap)
 
+
         # form score from the overlapped words
         score = 0
         for word in overlap:
@@ -133,7 +138,8 @@ def disambiguate_word(disambiguated_word, context, verbose=False):
         # print(scores)
 
     # loop through the scores to get the maximum
-    predicted_sense = [0, 'Initial string here']
+
+    predicted_sense = [0, 'Frequencies weren\'t found.']
     for i in scores:
         if i[0] > predicted_sense[0]:
             predicted_sense = i
@@ -160,6 +166,7 @@ def get_word_occurrences(word1, word2, files):
         finally:
             for line in f.readlines():
                 tokens = line.rstrip().split('\t')
+
                 if tokens[0] == word1 and tokens[1] == word2:
                     cooccurrences = int(tokens[2])
                     # print(word1, word2, cooccurrences)
