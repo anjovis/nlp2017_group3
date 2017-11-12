@@ -1,4 +1,5 @@
-
+# Written only once to the output file
+file_text = 'Cooccurences from the list of overlap are summed to count the score.'
 
 wn17_to_wn30 = {
     'bar-0': 'barroom.n.01',  # the place where you drink

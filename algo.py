@@ -4,6 +4,7 @@
 import sys
 import helpers
 import config
+import time
 
 from nltk.corpus import wordnet as wn
 from nltk.corpus import stopwords
@@ -20,6 +21,16 @@ xml_test_data = 'C:/Users/anjovis/Desktop/nlp2017_group3/corpus_modified.xml'
 stop = set(stopwords.words('english'))
 stemmer = SnowballStemmer('english')
 tokenizer = RegexpTokenizer(r'\w+')  # remove all punctuation
+
+
+ltime = time.localtime()
+output_file = 'output_on_{}_{}_{}_at_{}_{}_{}.txt'.format(ltime.tm_mday, ltime.tm_mon,
+                                                   ltime.tm_year,
+                                                   ltime.tm_hour, ltime.tm_min, ltime.tm_sec)
+
+data_dump = 'dump_on_{}_{}_{}_at_{}_{}_{}.txt'.format(ltime.tm_mday, ltime.tm_mon,
+                                                   ltime.tm_year,
+                                                   ltime.tm_hour, ltime.tm_min, ltime.tm_sec)
 
 # the stopwords
 '''
@@ -58,22 +69,17 @@ def disambiguate_word(disambiguated_word, context, verbose=False):
         definition = tokenizer.tokenize(sense.definition())
 
         # get hyponyms and hypernyms for the sense to get larger overlap
-
         hypernyms = []
         for hypernym in sense.hypernyms():
             hypernyms += tokenizer.tokenize(hypernym.definition())
             for example in hypernym.examples():
                 hypernyms += tokenizer.tokenize(example)
 
-        #print('hypernyms: ', hypernyms)
-
         hyponyms = []
         for hyponym in sense.hyponyms():
             hyponyms += tokenizer.tokenize(hyponym.definition())
             for example in hyponym.examples():
                 hyponyms += tokenizer.tokenize(example)
-
-        #print('hyponyms: ', hyponyms)
 
         # just concatenate the definition and all the examples
         signature = definition + examples + hypernyms + hyponyms
@@ -115,7 +121,6 @@ def disambiguate_word(disambiguated_word, context, verbose=False):
         if verbose:
             print('Sense: ', sense, 'Overlap: ', overlap)
 
-
         # form score from the overlapped words
         score = 0
         for word in overlap:
@@ -124,6 +129,10 @@ def disambiguate_word(disambiguated_word, context, verbose=False):
             score = score + get_word_occurrences(word, disambiguated_word, files)
 
         scores.append([score, sense])
+
+        with open(data_dump, 'a') as dump:
+            data = 'Sense:  {}\nOverlap: {}\nScore: {}\n'. format(sense, overlap, score)
+            dump.write(data)
 
         # print(scores)
 
@@ -199,13 +208,13 @@ if __name__ == "__main__":
     all_senses = 0
     results = []
 
+    with open(output_file, 'a') as results:
+        results.write(config.file_text + '\n')
+
     # loop the every word from xml file
     for word in test_dict['corpus']['lexelt']:
         # loop every instance in the current lexeme
         for instance in word['instance']:
-
-            if all_senses > 3:  # used to run smaller patches
-                break
 
             try:
                 correct_sense = instance['answer']['@senseid']
@@ -219,7 +228,11 @@ if __name__ == "__main__":
             word_to_be_disambiguated = instance['context']['head']
 
             context = instance['context']['#text']
+
             print(instance['answer']['@instance'])
+            with open(data_dump, 'a') as dump:
+                data = instance['answer']['@instance'] + '\n'
+                dump.write(data)
 
             # TODO remove tags and quotes from context. Not so relevant because they won't be in the signature anyway.
             # can be produce errors by giving weight to senses that happen to have the keyword
@@ -236,7 +249,7 @@ if __name__ == "__main__":
             # remove the word to be disambiguated: it doesn't provide any information for the context
             context = [w for w in context if w not in combinations]
 
-            signature = [w for w in context if w not in config.stop_extended]  # these stopwords not stemmed
+            context = [w for w in context if w not in config.stop_extended]  # these stopwords not stemmed
 
             # stem the words but retain the information of the original word
             context = [(stemmer.stem(word), word) for word in context]
@@ -267,10 +280,22 @@ if __name__ == "__main__":
             print('current progress: ', all_senses)
             print('')
 
-            # TODO write results to csv. The correct sense, predicted sense, overlap, score, (cooccurrence?).
+            data = '{}; predicted_sense: {}; correct_sense: {};\n\n'.format(instance['answer']['@instance'],
+                                                                            predicted_sense, correct_sense)
+            with open(data_dump, 'a') as dump:
+                dump.write(data)
+                dump.write('Accuracy: {} ; {} / {}'.format(correct_senses / all_senses, correct_senses, all_senses))
+                dump.write('__________________________________________________________________________________\n')
+
+            with open(output_file, 'a') as results:
+                results.write(data)
 
     print(correct_senses, '/', all_senses, 'correct')
     print('Accuracy: ', correct_senses / all_senses)
+
+    with open(output_file, 'a') as results:
+        data = 'Accuracy: {} ; {} / {}'.format(correct_senses / all_senses, correct_senses, all_senses)
+        results.write(data)
 
 
 
