@@ -1,5 +1,7 @@
 import os
 import xmltodict
+import csv
+import time
 
 def get_files(folder_location):
     ''' Return all files in a list in file location in reference to current directory. '''
@@ -26,4 +28,24 @@ def parse_xml(file):
     finally:
         fd.close()
         return doc
+
+
+def write_results(data, folder='./', test_type='general'):
+    ltime = time.localtime()
+
+
+    filename = '{}_on_{}_{}_{}_at_{}_{}_{}.csv'.format(test_type, ltime.tm_mday, ltime.tm_mon,
+                                                              ltime.tm_year,
+                                                              ltime.tm_hour, ltime.tm_min, ltime.tm_sec)
+
+
+
+    print(filename)
+
+    with open(filename, 'w') as results:
+        log_file = csv.writer(results, delimiter=' ',
+                                quotechar='|', quoting=csv.QUOTE_MINIMAL)
+
+        for datarow in data:
+            log_file.writerow(datarow)
 

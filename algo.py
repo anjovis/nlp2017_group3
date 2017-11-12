@@ -3,6 +3,7 @@
 
 import sys
 import helpers
+import config
 
 from nltk.corpus import wordnet as wn
 from nltk.corpus import stopwords
@@ -13,7 +14,7 @@ from nltk.stem.snowball import SnowballStemmer
 #ngram_freq_folder = 'C:/Users/anjovis/desktop/nlp2017_group3/data/letters/'
 ngram_freq_folder = 'D:/data/letters/'
 #ngram_freq_folder = 'F:/google-bigram-cooccurrence/downloads/google_ngrams/letters/'
-xml_test_data = 'C:/Users/anjovis/Desktop/nlp2017_group3/corpus_small.xml'
+xml_test_data = 'C:/Users/anjovis/Desktop/nlp2017_group3/corpus_modified.xml'
 #xml_test_data = 'C:/Users/eemel/Desktop/nlp2017_group3/corpus_small.xml'
 # initialize nltk language processing functions
 stop = set(stopwords.words('english'))
@@ -23,18 +24,19 @@ tokenizer = RegexpTokenizer(r'\w+')  # remove all punctuation
 # the stopwords
 '''
         stop = 
-        {'the', 'these', 'where', 'both', 'but', 'nor', 'just', 'wasn', 'itself', 'hadn', 'their', 'or', 'so', 'then', 
-        'isn', 'when', 'me', 'she', 'all', 'having', 'ours', 'on', 'he', 'has', 'am', 'are', 'mustn', 'again', 'own', 
-        'who', 's', 'at', 'theirs', 'wouldn', 'needn', 'being', 'was', 'we', 'only', 'up', 'in', 'by', 'most', 'from', 
-        'once', 'into', 'now', 'a', 'you', 'out', 'below', 'it', 'i', 'over', 'were', 'hasn', 'further', 'after', 
-        'before', 'off', 'herself', 'is', 'll', 'during', 'through', 'such', 'y', 'as', 'here', 'of', 'same', 'for', 
-        'couldn', 'ma', 'until', 'yourselves', 'other', 'those', 'yours', 'aren', 'mightn', 'what', 'why', 're', 'our', 
-        'have', 'ourselves', 'her', 'if', 'won', 'few', 'm', 'didn', 'shan', 'be', 'should', 'his', 'whom', 'than', 
-        'yourself', 'above', 'to', 'too', 'down', 've', 'themselves', 'can', 'doing', 'did', 'each', 'not', 'they', 
-        'your', 'himself', 'don', 'been', 't', 'with', 'o', 'more', 'because', 'and', 'will', 'how', 'do', 'them', 
-        'any', 'myself', 'no', 'an', 'about', 'ain', 'weren', 'there', 'between', 'doesn', 'against', 'this', 'some', 
-        'very', 'its', 'hers', 'under', 'while', 'had', 'haven', 'that', 'shouldn', 'which', 'my', 'd', 'does', 'him'}
-
+        {'yourself', 'again', 'should', 'over', 'with', 'd', 'the', 'once', 'ours', 't', 'herself', 'those', 'o', 'ain',
+         'how', 'into', 'on', 'be', 'but', 'is', 'other', 'a', 'which', 's', 'mightn', 'here', 'by', 'some', 'no', 
+         'between', 'its', 'up', 'below', 'only', 'aren', 'mustn', 'it', 'her', 'own', 'been', 'while', 'further', 
+         'weren', 'yourselves', 'our', 'did', 'not', 'both', 'after', 'we', 'has', 'of', 'y', 'out', 'so', 'under', 
+         'theirs', 'during', 'don', 'in', 'isn', 'this', 'me', 'down', 'then', 'too', 'if', 'before', 'about', 'where', 
+         'any', 'these', 'such', 'against', 'most', 'when', 'hasn', 'being', 'or', 'for', 'same', 'than', 'few', 
+         'because', 'them', 'just', 'until', 'won', 'haven', 'didn', 'myself', 'why', 'an', 'am', 'i', 'through', 'nor', 
+         'needn', 'who', 'does', 'couldn', 'shan', 'yours', 'hadn', 'do', 'will', 'they', 'itself', 'doesn', 're', 
+         'his', 'wasn', 'wouldn', 'you', 'above', 'very', 'my', 'were', 'at', 'ma', 'him', 'whom', 'there', 'she', 
+         'that', 'ourselves', 'from', 'shouldn', 'now', 'have', 'doing', 'what', 'and', 'll', 'your', 'hers', 'was', 
+         'as', 'all', 've', 'themselves', 'he', 'more', 'can', 'having', 'himself', 'their', 'to', 'each', 'm', 'off', 
+         'are', 'had'}
+# no would
 '''
 
 
@@ -79,6 +81,9 @@ def disambiguate_word(disambiguated_word, context, verbose=False):
         # allow only one same word in the signature
         signature = list(set(signature))
 
+        signature = [w for w in signature if w not in config.stop_extended]  # these stopwords not stemmed
+
+
         #print('signature: ', signature)
 
         # retain the information of the original word in stemming
@@ -89,7 +94,7 @@ def disambiguate_word(disambiguated_word, context, verbose=False):
         # remove defined stopwords based on the stemmed word
         without_stopwords = []  # helper variable
         for pair in signature:
-            if pair[0] in stop:
+            if pair[0].lower() in stop:
                 continue
             else:
                 without_stopwords.append(pair)
@@ -188,46 +193,88 @@ if __name__ == "__main__":
 
     test_dict = helpers.parse_xml(xml_test_data)
 
+    possible_senses = config.wn17_to_wn30
+
+    correct_senses = 0
+    all_senses = 0
+    results = []
+
     # loop the every word from xml file
     for word in test_dict['corpus']['lexelt']:
         # loop every instance in the current lexeme
         for instance in word['instance']:
+
+            if all_senses > 3:  # used to run smaller patches
+                break
+
+            try:
+                correct_sense = instance['answer']['@senseid']
+            except TypeError:  # skip instances with multiple answers
+                continue
+
+            # don't count words that we don't know the senses for, only 3 possible senses, see config.py
+            if correct_sense not in config.wn17_to_wn30:
+                continue
+
             word_to_be_disambiguated = instance['context']['head']
+
             context = instance['context']['#text']
-            correct_sense = instance['answer']['@senseid']
+            print(instance['answer']['@instance'])
 
             # TODO remove tags and quotes from context. Not so relevant because they won't be in the signature anyway.
-            # can be produce errors by giving weigth to senses that happen to have the keyword
+            # can be produce errors by giving weight to senses that happen to have the keyword
             # format context to a list
             context = tokenizer.tokenize(context)
 
+            if word_to_be_disambiguated in config.plurals:
+                word_to_be_disambiguated = word_to_be_disambiguated[:-1]  # remove the last letter
+
+            combinations = [word_to_be_disambiguated, word_to_be_disambiguated.lower(), word_to_be_disambiguated.capitalize(),
+                            word_to_be_disambiguated + 's', word_to_be_disambiguated.lower() + 's',
+                            word_to_be_disambiguated.capitalize() + 's']
+
             # remove the word to be disambiguated: it doesn't provide any information for the context
-            context = [w for w in context if w not in [word_to_be_disambiguated, word_to_be_disambiguated.lower()]]
+            context = [w for w in context if w not in combinations]
+
+            signature = [w for w in context if w not in config.stop_extended]  # these stopwords not stemmed
 
             # stem the words but retain the information of the original word
             context = [(stemmer.stem(word), word) for word in context]
 
-            #print(context)
             # remove defined stopwords based on the stemmed word
             without_stopwords = []  # helper variable
             for pair in context:
-                if pair[0] in stop:
+                if pair[0].lower() in stop:
                     continue
                 else:
                     without_stopwords.append(pair)
 
             context = without_stopwords
 
-            #print('context', context)
-
             predicted_sense = disambiguate_word(word_to_be_disambiguated, context, verbose=True)
 
             print('word_to_be_disambiguated: ', word_to_be_disambiguated)
             print('predicted_sense:', predicted_sense)
             print('correct_sense:', correct_sense)
+
+
+            print('predicted_sense[1].name()', predicted_sense[1].name())
+            print('config.wn17_to_wn30[correct_sense]', config.wn17_to_wn30[correct_sense])
+            if predicted_sense[1].name() == config.wn17_to_wn30[correct_sense]:
+                print('correct sense')
+                correct_senses += 1
+            all_senses += 1
+            print('current progress: ', all_senses)
             print('')
 
             # TODO write results to csv. The correct sense, predicted sense, overlap, score, (cooccurrence?).
+
+    print(correct_senses, '/', all_senses, 'correct')
+    print('Accuracy: ', correct_senses / all_senses)
+
+
+
+
 
 
 
