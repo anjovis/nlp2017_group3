@@ -1,0 +1,1339 @@
+bar.40004
+Sense:  Synset('barroom.n.01')
+Overlap: ['drink', 'drink', 'drinking', 'drinking']
+Score: 16938
+Sense:  Synset('bar.n.02')
+Overlap: ['drink', 'drink', 'drinking', 'drinking']
+Score: 16938
+Sense:  Synset('bar.n.03')
+Overlap: ['soft', 'cars', 'fingers', 'end']
+Score: 5806
+Sense:  Synset('measure.n.07')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.n.05')
+Overlap: ['hitting']
+Score: 119
+Sense:  Synset('prevention.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.n.07')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.n.08')
+Overlap: []
+Score: 0
+Sense:  Synset('legal_profession.n.01')
+Overlap: ['particular']
+Score: 4047
+Sense:  Synset('stripe.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('cake.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('browning_automatic_rifle.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.n.13')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.n.14')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.n.15')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.v.01')
+Overlap: ['lately', 'night']
+Score: 3244
+Sense:  Synset('barricade.v.01')
+Overlap: []
+Score: 0
+Sense:  Synset('banish.v.03')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.v.04')
+Overlap: []
+Score: 0
+bar.40004; predicted_sense: [16938, Synset('barroom.n.01')]; correct_sense: bar-0;
+
+Accuracy: 1.0 ; 1 / 1__________________________________________________________________________________
+bar.40008
+Sense:  Synset('barroom.n.01')
+Overlap: ['VIEWING', 'restaurant']
+Score: 2417
+Sense:  Synset('bar.n.02')
+Overlap: ['restaurant']
+Score: 2417
+Sense:  Synset('bar.n.03')
+Overlap: []
+Score: 0
+Sense:  Synset('measure.n.07')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.n.05')
+Overlap: ['difficult']
+Score: 558
+Sense:  Synset('prevention.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.n.07')
+Overlap: ['million', 'million']
+Score: 392
+Sense:  Synset('bar.n.08')
+Overlap: []
+Score: 0
+Sense:  Synset('legal_profession.n.01')
+Overlap: ['people', 'admits']
+Score: 2144
+Sense:  Synset('stripe.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('cake.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('browning_automatic_rifle.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.n.13')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.n.14')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.n.15')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.v.01')
+Overlap: []
+Score: 0
+Sense:  Synset('barricade.v.01')
+Overlap: ['Street']
+Score: 1925
+Sense:  Synset('banish.v.03')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.v.04')
+Overlap: []
+Score: 0
+bar.40008; predicted_sense: [2417, Synset('barroom.n.01')]; correct_sense: bar-0;
+
+Accuracy: 1.0 ; 2 / 2__________________________________________________________________________________
+bar.40012
+Sense:  Synset('barroom.n.01')
+Overlap: ['restaurants', 'rooms', 'rooms', 'restaurants', 'hotel']
+Score: 36254
+Sense:  Synset('bar.n.02')
+Overlap: ['restaurants', 'restaurants']
+Score: 250
+Sense:  Synset('bar.n.03')
+Overlap: ['Close', 'Close']
+Score: 796
+Sense:  Synset('measure.n.07')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.n.05')
+Overlap: ['place']
+Score: 659
+Sense:  Synset('prevention.n.01')
+Overlap: ['Close', 'opposite']
+Score: 3772
+Sense:  Synset('bar.n.07')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.n.08')
+Overlap: []
+Score: 0
+Sense:  Synset('legal_profession.n.01')
+Overlap: ['people']
+Score: 1954
+Sense:  Synset('stripe.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('cake.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('browning_automatic_rifle.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.n.13')
+Overlap: ['place']
+Score: 659
+Sense:  Synset('bar.n.14')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.n.15')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.v.01')
+Overlap: ['Club', 'Club', 'Club']
+Score: 8544
+Sense:  Synset('barricade.v.01')
+Overlap: ['Close']
+Score: 398
+Sense:  Synset('banish.v.03')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.v.04')
+Overlap: []
+Score: 0
+bar.40012; predicted_sense: [36254, Synset('barroom.n.01')]; correct_sense: bar-0;
+
+Accuracy: 1.0 ; 3 / 3__________________________________________________________________________________
+bar.40015
+Sense:  Synset('barroom.n.01')
+Overlap: ['small', 'building']
+Score: 39866
+Sense:  Synset('bar.n.02')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.n.03')
+Overlap: ['pitch', 'notes', 'notes', 'small']
+Score: 39907
+Sense:  Synset('measure.n.07')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('prevention.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.n.07')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.n.08')
+Overlap: ['parts', 'parts']
+Score: 622
+Sense:  Synset('legal_profession.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('stripe.n.05')
+Overlap: ['small']
+Score: 39227
+Sense:  Synset('cake.n.01')
+Overlap: ['small']
+Score: 39227
+Sense:  Synset('browning_automatic_rifle.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.n.13')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.n.14')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.n.15')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.v.01')
+Overlap: []
+Score: 0
+Sense:  Synset('barricade.v.01')
+Overlap: []
+Score: 0
+Sense:  Synset('banish.v.03')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.v.04')
+Overlap: []
+Score: 0
+bar.40015; predicted_sense: [39907, Synset('bar.n.03')]; correct_sense: bar-3;
+
+Accuracy: 0.75 ; 3 / 4__________________________________________________________________________________
+bar.40020
+Sense:  Synset('barroom.n.01')
+Overlap: ['floor', 'area', 'small', 'areas', 'areas', 'building']
+Score: 72919
+Sense:  Synset('bar.n.02')
+Overlap: ['food', 'preparation', 'obtained']
+Score: 9853
+Sense:  Synset('bar.n.03')
+Overlap: ['provided', 'noted', 'small']
+Score: 41501
+Sense:  Synset('measure.n.07')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.n.05')
+Overlap: ['structural']
+Score: 273
+Sense:  Synset('prevention.n.01')
+Overlap: ['public']
+Score: 18757
+Sense:  Synset('bar.n.07')
+Overlap: ['unit', 'units', 'area', 'areas', 'units', 'areas']
+Score: 38677
+Sense:  Synset('bar.n.08')
+Overlap: []
+Score: 0
+Sense:  Synset('legal_profession.n.01')
+Overlap: ['individual']
+Score: 2172
+Sense:  Synset('stripe.n.05')
+Overlap: ['small']
+Score: 39227
+Sense:  Synset('cake.n.01')
+Overlap: ['small']
+Score: 39227
+Sense:  Synset('browning_automatic_rifle.n.01')
+Overlap: ['operations', 'unit', 'units', 'units']
+Score: 9954
+Sense:  Synset('bar.n.13')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.n.14')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.n.15')
+Overlap: ['case']
+Score: 1160
+Sense:  Synset('bar.v.01')
+Overlap: ['plans', 'plans']
+Score: 174
+Sense:  Synset('barricade.v.01')
+Overlap: []
+Score: 0
+Sense:  Synset('banish.v.03')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.v.04')
+Overlap: []
+Score: 0
+bar.40020; predicted_sense: [72919, Synset('barroom.n.01')]; correct_sense: bar-0;
+
+Accuracy: 0.8 ; 4 / 5__________________________________________________________________________________
+bar.40021
+Sense:  Synset('barroom.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.n.02')
+Overlap: ['way', 'usually']
+Score: 3705
+Sense:  Synset('bar.n.03')
+Overlap: ['usually']
+Score: 2497
+Sense:  Synset('measure.n.07')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.n.05')
+Overlap: ['usually']
+Score: 2497
+Sense:  Synset('prevention.n.01')
+Overlap: ['got', 'money', 'money', 'money']
+Score: 2689
+Sense:  Synset('bar.n.07')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.n.08')
+Overlap: []
+Score: 0
+Sense:  Synset('legal_profession.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('stripe.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('cake.n.01')
+Overlap: ['usually']
+Score: 2497
+Sense:  Synset('browning_automatic_rifle.n.01')
+Overlap: ['state']
+Score: 48711
+Sense:  Synset('bar.n.13')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.n.14')
+Overlap: ['rang']
+Score: 460
+Sense:  Synset('bar.n.15')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.v.01')
+Overlap: []
+Score: 0
+Sense:  Synset('barricade.v.01')
+Overlap: ['way']
+Score: 1208
+Sense:  Synset('banish.v.03')
+Overlap: ['way']
+Score: 1208
+Sense:  Synset('bar.v.04')
+Overlap: []
+Score: 0
+bar.40021; predicted_sense: [48711, Synset('browning_automatic_rifle.n.01')]; correct_sense: bar-0;
+
+Accuracy: 0.6666666666666666 ; 4 / 6__________________________________________________________________________________
+bar.40024
+Sense:  Synset('barroom.n.01')
+Overlap: ['serve', 'area', 'buildings', 'building']
+Score: 25842
+Sense:  Synset('bar.n.02')
+Overlap: ['serve', 'serve']
+Score: 1280
+Sense:  Synset('bar.n.03')
+Overlap: ['open', 'pieces', 'uses', 'serve']
+Score: 23080
+Sense:  Synset('measure.n.07')
+Overlap: ['uses']
+Score: 1349
+Sense:  Synset('bar.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('prevention.n.01')
+Overlap: ['authorities']
+Score: 708
+Sense:  Synset('bar.n.07')
+Overlap: ['uses', 'area']
+Score: 25811
+Sense:  Synset('bar.n.08')
+Overlap: ['serve']
+Score: 640
+Sense:  Synset('legal_profession.n.01')
+Overlap: ['particularly', 'new']
+Score: 12859
+Sense:  Synset('stripe.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('cake.n.01')
+Overlap: ['pieces']
+Score: 321
+Sense:  Synset('browning_automatic_rifle.n.01')
+Overlap: ['uses']
+Score: 1349
+Sense:  Synset('bar.n.13')
+Overlap: ['serve']
+Score: 640
+Sense:  Synset('bar.n.14')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.n.15')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.v.01')
+Overlap: []
+Score: 0
+Sense:  Synset('barricade.v.01')
+Overlap: []
+Score: 0
+Sense:  Synset('banish.v.03')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.v.04')
+Overlap: []
+Score: 0
+bar.40024; predicted_sense: [25842, Synset('barroom.n.01')]; correct_sense: bar-0;
+
+Accuracy: 0.7142857142857143 ; 5 / 7__________________________________________________________________________________
+bar.40029
+Sense:  Synset('barroom.n.01')
+Overlap: ['rooms', 'rooms', 'HOTEL', 'hotel', 'room', 'room', 'served', 'restaurant', 'small', 'drink', 'drink']
+Score: 113084
+Sense:  Synset('bar.n.02')
+Overlap: ['run', 'served', 'served', 'restaurant', 'drink', 'drink']
+Score: 9143
+Sense:  Synset('bar.n.03')
+Overlap: ['close', 'close', 'served', 'small']
+Score: 46333
+Sense:  Synset('measure.n.07')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('prevention.n.01')
+Overlap: ['close']
+Score: 2898
+Sense:  Synset('bar.n.07')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.n.08')
+Overlap: ['served']
+Score: 1310
+Sense:  Synset('legal_profession.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('stripe.n.05')
+Overlap: ['small']
+Score: 39227
+Sense:  Synset('cake.n.01')
+Overlap: ['small']
+Score: 39227
+Sense:  Synset('browning_automatic_rifle.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.n.13')
+Overlap: ['served']
+Score: 1310
+Sense:  Synset('bar.n.14')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.n.15')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.v.01')
+Overlap: []
+Score: 0
+Sense:  Synset('barricade.v.01')
+Overlap: ['close']
+Score: 2898
+Sense:  Synset('banish.v.03')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.v.04')
+Overlap: []
+Score: 0
+bar.40029; predicted_sense: [113084, Synset('barroom.n.01')]; correct_sense: bar-0;
+
+Accuracy: 0.75 ; 6 / 8__________________________________________________________________________________
+bar.40030
+Sense:  Synset('barroom.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.n.02')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.n.03')
+Overlap: ['use', 'string', 'shapes', 'musical', 'end']
+Score: 13440
+Sense:  Synset('measure.n.07')
+Overlap: ['use', 'musical', 'musical', 'repeat']
+Score: 9758
+Sense:  Synset('bar.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('prevention.n.01')
+Overlap: ['mean', 'means']
+Score: 2972
+Sense:  Synset('bar.n.07')
+Overlap: ['use']
+Score: 6445
+Sense:  Synset('bar.n.08')
+Overlap: []
+Score: 0
+Sense:  Synset('legal_profession.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('stripe.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('cake.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('browning_automatic_rifle.n.01')
+Overlap: ['use']
+Score: 6445
+Sense:  Synset('bar.n.13')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.n.14')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.n.15')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.v.01')
+Overlap: []
+Score: 0
+Sense:  Synset('barricade.v.01')
+Overlap: ['passage']
+Score: 2536
+Sense:  Synset('banish.v.03')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.v.04')
+Overlap: []
+Score: 0
+bar.40030; predicted_sense: [13440, Synset('bar.n.03')]; correct_sense: bar-3;
+
+Accuracy: 0.6666666666666666 ; 6 / 9__________________________________________________________________________________
+bar.40033
+Sense:  Synset('barroom.n.01')
+Overlap: ['small', 'room', 'room']
+Score: 71457
+Sense:  Synset('bar.n.02')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.n.03')
+Overlap: ['music', 'shaped', 'small', 'window']
+Score: 53633
+Sense:  Synset('measure.n.07')
+Overlap: ['music', 'music']
+Score: 3936
+Sense:  Synset('bar.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('prevention.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.n.07')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.n.08')
+Overlap: []
+Score: 0
+Sense:  Synset('legal_profession.n.01')
+Overlap: ['formed', 'People']
+Score: 2720
+Sense:  Synset('stripe.n.05')
+Overlap: ['small']
+Score: 39227
+Sense:  Synset('cake.n.01')
+Overlap: ['small']
+Score: 39227
+Sense:  Synset('browning_automatic_rifle.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.n.13')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.n.14')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.n.15')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.v.01')
+Overlap: ['Club']
+Score: 2848
+Sense:  Synset('barricade.v.01')
+Overlap: ['shut']
+Score: 312
+Sense:  Synset('banish.v.03')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.v.04')
+Overlap: []
+Score: 0
+bar.40033; predicted_sense: [71457, Synset('barroom.n.01')]; correct_sense: bar-0;
+
+Accuracy: 0.7 ; 7 / 10__________________________________________________________________________________
+bar.40035
+Sense:  Synset('barroom.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.n.02')
+Overlap: ['way', 'glass']
+Score: 4035
+Sense:  Synset('bar.n.03')
+Overlap: ['pipe', 'window']
+Score: 4897
+Sense:  Synset('measure.n.07')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('prevention.n.01')
+Overlap: ['act']
+Score: 692
+Sense:  Synset('bar.n.07')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.n.08')
+Overlap: []
+Score: 0
+Sense:  Synset('legal_profession.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('stripe.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('cake.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('browning_automatic_rifle.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.n.13')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.n.14')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.n.15')
+Overlap: ['sitting']
+Score: 528
+Sense:  Synset('bar.v.01')
+Overlap: []
+Score: 0
+Sense:  Synset('barricade.v.01')
+Overlap: ['way', 'Road']
+Score: 1373
+Sense:  Synset('banish.v.03')
+Overlap: ['way']
+Score: 1208
+Sense:  Synset('bar.v.04')
+Overlap: ['doors', 'man']
+Score: 3520
+bar.40035; predicted_sense: [4897, Synset('bar.n.03')]; correct_sense: bar-0;
+
+Accuracy: 0.6363636363636364 ; 7 / 11__________________________________________________________________________________
+bar.40039
+Sense:  Synset('barroom.n.01')
+Overlap: ['hotel']
+Score: 29460
+Sense:  Synset('bar.n.02')
+Overlap: ['dogs']
+Score: 75
+Sense:  Synset('bar.n.03')
+Overlap: ['used', 'end', 'uses', 'used', 'stopped']
+Score: 23882
+Sense:  Synset('measure.n.07')
+Overlap: ['used', 'uses', 'used']
+Score: 18641
+Sense:  Synset('bar.n.05')
+Overlap: ['place']
+Score: 659
+Sense:  Synset('prevention.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.n.07')
+Overlap: ['used', 'uses', 'used']
+Score: 18641
+Sense:  Synset('bar.n.08')
+Overlap: []
+Score: 0
+Sense:  Synset('legal_profession.n.01')
+Overlap: ['admit']
+Score: 0
+Sense:  Synset('stripe.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('cake.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('browning_automatic_rifle.n.01')
+Overlap: ['used', 'uses', 'used']
+Score: 18641
+Sense:  Synset('bar.n.13')
+Overlap: ['place']
+Score: 659
+Sense:  Synset('bar.n.14')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.n.15')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.v.01')
+Overlap: ['nights']
+Score: 329
+Sense:  Synset('barricade.v.01')
+Overlap: ['stopped']
+Score: 707
+Sense:  Synset('banish.v.03')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.v.04')
+Overlap: []
+Score: 0
+bar.40039; predicted_sense: [29460, Synset('barroom.n.01')]; correct_sense: bar-0;
+
+Accuracy: 0.6666666666666666 ; 8 / 12__________________________________________________________________________________
+bar.40044
+Sense:  Synset('barroom.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.n.02')
+Overlap: ['way']
+Score: 1208
+Sense:  Synset('bar.n.03')
+Overlap: ['shapes', 'straight', 'railway', 'passed', 'passed']
+Score: 21070
+Sense:  Synset('measure.n.07')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('prevention.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.n.07')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.n.08')
+Overlap: ['ran']
+Score: 2208
+Sense:  Synset('legal_profession.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('stripe.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('cake.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('browning_automatic_rifle.n.01')
+Overlap: ['gas']
+Score: 774
+Sense:  Synset('bar.n.13')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.n.14')
+Overlap: ['Heat', 'Heat']
+Score: 216
+Sense:  Synset('bar.n.15')
+Overlap: ['past']
+Score: 790
+Sense:  Synset('bar.v.01')
+Overlap: ['night', 'entered']
+Score: 3544
+Sense:  Synset('barricade.v.01')
+Overlap: ['way', 'street', 'street']
+Score: 2468
+Sense:  Synset('banish.v.03')
+Overlap: ['way']
+Score: 1208
+Sense:  Synset('bar.v.04')
+Overlap: []
+Score: 0
+bar.40044; predicted_sense: [21070, Synset('bar.n.03')]; correct_sense: bar-0;
+
+Accuracy: 0.6153846153846154 ; 8 / 13__________________________________________________________________________________
+bar.40050
+Sense:  Synset('barroom.n.01')
+Overlap: ['room', 'room']
+Score: 32230
+Sense:  Synset('bar.n.02')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.n.03')
+Overlap: ['goes', 'making', 'end']
+Score: 9384
+Sense:  Synset('measure.n.07')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.n.05')
+Overlap: ['making', 'place']
+Score: 3802
+Sense:  Synset('prevention.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.n.07')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.n.08')
+Overlap: []
+Score: 0
+Sense:  Synset('legal_profession.n.01')
+Overlap: ['learn']
+Score: 63
+Sense:  Synset('stripe.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('cake.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('browning_automatic_rifle.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.n.13')
+Overlap: ['place']
+Score: 659
+Sense:  Synset('bar.n.14')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.n.15')
+Overlap: ['trying']
+Score: 1039
+Sense:  Synset('bar.v.01')
+Overlap: []
+Score: 0
+Sense:  Synset('barricade.v.01')
+Overlap: []
+Score: 0
+Sense:  Synset('banish.v.03')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.v.04')
+Overlap: []
+Score: 0
+bar.40050; predicted_sense: [32230, Synset('barroom.n.01')]; correct_sense: bar-0;
+
+Accuracy: 0.6428571428571429 ; 9 / 14__________________________________________________________________________________
+bar.40053
+Sense:  Synset('barroom.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.n.02')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.n.03')
+Overlap: ['opened']
+Score: 2996
+Sense:  Synset('measure.n.07')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('prevention.n.01')
+Overlap: ['officer']
+Score: 97
+Sense:  Synset('bar.n.07')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.n.08')
+Overlap: []
+Score: 0
+Sense:  Synset('legal_profession.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('stripe.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('cake.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('browning_automatic_rifle.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.n.13')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.n.14')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.n.15')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.v.01')
+Overlap: []
+Score: 0
+Sense:  Synset('barricade.v.01')
+Overlap: ['Street']
+Score: 1925
+Sense:  Synset('banish.v.03')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.v.04')
+Overlap: ['door']
+Score: 4254
+bar.40053; predicted_sense: [4254, Synset('bar.v.04')]; correct_sense: bar-0;
+
+Accuracy: 0.6 ; 9 / 15__________________________________________________________________________________
+bar.40060
+Sense:  Synset('barroom.n.01')
+Overlap: ['walls', 'covered', 'Floors', 'walls', 'covered', 'area', 'views']
+Score: 30341
+Sense:  Synset('bar.n.02')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.n.03')
+Overlap: ['walls', 'walls', 'strong', 'lighting', 'lighting']
+Score: 6456
+Sense:  Synset('measure.n.07')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('prevention.n.01')
+Overlap: ['Public']
+Score: 269
+Sense:  Synset('bar.n.07')
+Overlap: ['area']
+Score: 24462
+Sense:  Synset('bar.n.08')
+Overlap: []
+Score: 0
+Sense:  Synset('legal_profession.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('stripe.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('cake.n.01')
+Overlap: ['stone']
+Score: 1320
+Sense:  Synset('browning_automatic_rifle.n.01')
+Overlap: ['lighting', 'lighting']
+Score: 836
+Sense:  Synset('bar.n.13')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.n.14')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.n.15')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.v.01')
+Overlap: []
+Score: 0
+Sense:  Synset('barricade.v.01')
+Overlap: ['Street']
+Score: 1925
+Sense:  Synset('banish.v.03')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.v.04')
+Overlap: []
+Score: 0
+bar.40060; predicted_sense: [30341, Synset('barroom.n.01')]; correct_sense: bar-0;
+
+Accuracy: 0.625 ; 10 / 16__________________________________________________________________________________
+bar.40064
+Sense:  Synset('barroom.n.01')
+Overlap: ['saloon']
+Score: 11487
+Sense:  Synset('bar.n.02')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.n.03')
+Overlap: ['pipe', 'making']
+Score: 3548
+Sense:  Synset('measure.n.07')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.n.05')
+Overlap: ['making']
+Score: 3143
+Sense:  Synset('prevention.n.01')
+Overlap: ['putting', 'got']
+Score: 1634
+Sense:  Synset('bar.n.07')
+Overlap: ['pressure']
+Score: 12279
+Sense:  Synset('bar.n.08')
+Overlap: ['long']
+Score: 32950
+Sense:  Synset('legal_profession.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('stripe.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('cake.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('browning_automatic_rifle.n.01')
+Overlap: ['machine', 'pressure']
+Score: 14049
+Sense:  Synset('bar.n.13')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.n.14')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.n.15')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.v.01')
+Overlap: []
+Score: 0
+Sense:  Synset('barricade.v.01')
+Overlap: []
+Score: 0
+Sense:  Synset('banish.v.03')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.v.04')
+Overlap: ['man']
+Score: 2317
+bar.40064; predicted_sense: [32950, Synset('bar.n.08')]; correct_sense: bar-0;
+
+Accuracy: 0.5882352941176471 ; 10 / 17__________________________________________________________________________________
+bar.40067
+Sense:  Synset('barroom.n.01')
+Overlap: ['area']
+Score: 24462
+Sense:  Synset('bar.n.02')
+Overlap: ['usual', 'table']
+Score: 5039
+Sense:  Synset('bar.n.03')
+Overlap: ['usual', 'engaged', 'Stopping', 'window']
+Score: 6328
+Sense:  Synset('measure.n.07')
+Overlap: ['musicians']
+Score: 57
+Sense:  Synset('bar.n.05')
+Overlap: ['difficult', 'difficult', 'usual']
+Score: 2623
+Sense:  Synset('prevention.n.01')
+Overlap: ['responsible', 'offices']
+Score: 57
+Sense:  Synset('bar.n.07')
+Overlap: ['area']
+Score: 24462
+Sense:  Synset('bar.n.08')
+Overlap: ['long']
+Score: 32950
+Sense:  Synset('legal_profession.n.01')
+Overlap: ['people', 'New']
+Score: 2643
+Sense:  Synset('stripe.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('cake.n.01')
+Overlap: ['usual']
+Score: 1507
+Sense:  Synset('browning_automatic_rifle.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.n.13')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.n.14')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.n.15')
+Overlap: ['trying']
+Score: 1039
+Sense:  Synset('bar.v.01')
+Overlap: []
+Score: 0
+Sense:  Synset('barricade.v.01')
+Overlap: ['road', 'Stopping']
+Score: 216
+Sense:  Synset('banish.v.03')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.v.04')
+Overlap: []
+Score: 0
+bar.40067; predicted_sense: [32950, Synset('bar.n.08')]; correct_sense: bar-0;
+
+Accuracy: 0.5555555555555556 ; 10 / 18__________________________________________________________________________________
+bar.40069
+Sense:  Synset('barroom.n.01')
+Overlap: ['drinks', 'drinks']
+Score: 3260
+Sense:  Synset('bar.n.02')
+Overlap: ['purchaser', 'usually', 'purchase', 'purchase', 'drinks', 'drinks']
+Score: 6141
+Sense:  Synset('bar.n.03')
+Overlap: ['usually', 'soft', 'make', 'lighting']
+Score: 6423
+Sense:  Synset('measure.n.07')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.n.05')
+Overlap: ['usually', 'make']
+Score: 5339
+Sense:  Synset('prevention.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.n.07')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.n.08')
+Overlap: []
+Score: 0
+Sense:  Synset('legal_profession.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('stripe.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('cake.n.01')
+Overlap: ['usually']
+Score: 2497
+Sense:  Synset('browning_automatic_rifle.n.01')
+Overlap: ['lighting']
+Score: 418
+Sense:  Synset('bar.n.13')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.n.14')
+Overlap: ['range', 'heating', 'heating']
+Score: 3351
+Sense:  Synset('bar.n.15')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.v.01')
+Overlap: []
+Score: 0
+Sense:  Synset('barricade.v.01')
+Overlap: []
+Score: 0
+Sense:  Synset('banish.v.03')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.v.04')
+Overlap: []
+Score: 0
+bar.40069; predicted_sense: [6423, Synset('bar.n.03')]; correct_sense: bar-0;
+
+Accuracy: 0.5263157894736842 ; 10 / 19__________________________________________________________________________________
+bar.40070
+Sense:  Synset('barroom.n.01')
+Overlap: ['cover']
+Score: 542
+Sense:  Synset('bar.n.02')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.n.03')
+Overlap: ['use', 'finger', 'strings', 'strings', 'finger', 'string', 'holding', 'fingers', 'use', 'string', 'shapes', 'musical']
+Score: 20496
+Sense:  Synset('measure.n.07')
+Overlap: ['use', 'use', 'musical', 'musical', 'repeat']
+Score: 16203
+Sense:  Synset('bar.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('prevention.n.01')
+Overlap: ['holding', 'mean']
+Score: 3577
+Sense:  Synset('bar.n.07')
+Overlap: ['use', 'use']
+Score: 12890
+Sense:  Synset('bar.n.08')
+Overlap: []
+Score: 0
+Sense:  Synset('legal_profession.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('stripe.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('cake.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('browning_automatic_rifle.n.01')
+Overlap: ['use', 'use']
+Score: 12890
+Sense:  Synset('bar.n.13')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.n.14')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.n.15')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.v.01')
+Overlap: []
+Score: 0
+Sense:  Synset('barricade.v.01')
+Overlap: ['passage']
+Score: 2536
+Sense:  Synset('banish.v.03')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.v.04')
+Overlap: []
+Score: 0
+bar.40070; predicted_sense: [20496, Synset('bar.n.03')]; correct_sense: bar-3;
+
+Accuracy: 0.5 ; 10 / 20__________________________________________________________________________________
+bar.40073
+Sense:  Synset('barroom.n.01')
+Overlap: ['room', 'room']
+Score: 32230
+Sense:  Synset('bar.n.02')
+Overlap: ['salad']
+Score: 39461
+Sense:  Synset('bar.n.03')
+Overlap: ['open']
+Score: 20770
+Sense:  Synset('measure.n.07')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('prevention.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.n.07')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.n.08')
+Overlap: []
+Score: 0
+Sense:  Synset('legal_profession.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('stripe.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('cake.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('browning_automatic_rifle.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.n.13')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.n.14')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.n.15')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.v.01')
+Overlap: ['plan']
+Score: 310
+Sense:  Synset('barricade.v.01')
+Overlap: []
+Score: 0
+Sense:  Synset('banish.v.03')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.v.04')
+Overlap: ['firm']
+Score: 246
+bar.40073; predicted_sense: [39461, Synset('bar.n.02')]; correct_sense: bar-0;
+
+Accuracy: 0.47619047619047616 ; 10 / 21__________________________________________________________________________________
+bar.40075
+Sense:  Synset('barroom.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.n.02')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.n.03')
+Overlap: []
+Score: 0
+Sense:  Synset('measure.n.07')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('prevention.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.n.07')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.n.08')
+Overlap: []
+Score: 0
+Sense:  Synset('legal_profession.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('stripe.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('cake.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('browning_automatic_rifle.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.n.13')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.n.14')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.n.15')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.v.01')
+Overlap: []
+Score: 0
+Sense:  Synset('barricade.v.01')
+Overlap: []
+Score: 0
+Sense:  Synset('banish.v.03')
+Overlap: []
+Score: 0
+Sense:  Synset('bar.v.04')
+Overlap: []
+Score: 0

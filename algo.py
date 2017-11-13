@@ -266,6 +266,10 @@ if __name__ == "__main__":
 
             predicted_sense = disambiguate_word(word_to_be_disambiguated, context, verbose=True)
 
+            all_senses += 1
+            if predicted_sense == [0, 'Frequencies weren\'t found.']:
+                continue
+
             print('word_to_be_disambiguated: ', word_to_be_disambiguated)
             print('predicted_sense:', predicted_sense)
             print('correct_sense:', correct_sense)
@@ -276,7 +280,7 @@ if __name__ == "__main__":
             if predicted_sense[1].name() == config.wn17_to_wn30[correct_sense]:
                 print('correct sense')
                 correct_senses += 1
-            all_senses += 1
+
             print('current progress: ', all_senses)
             print('')
 
@@ -285,7 +289,7 @@ if __name__ == "__main__":
             with open(data_dump, 'a') as dump:
                 dump.write(data)
                 dump.write('Accuracy: {} ; {} / {}'.format(correct_senses / all_senses, correct_senses, all_senses))
-                dump.write('__________________________________________________________________________________\n')
+                dump.write('\n__________________________________________________________________________________\n')
 
             with open(output_file, 'a') as results:
                 results.write(data)

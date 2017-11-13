@@ -5,7 +5,7 @@
 
 
 <lexelt item="bar.n">
-
+<!--
 <instance id="bar.40001" docsrc="bnc_CGC_62">
 <answer instance="bar.40001" senseid="U"/>
 <context>
@@ -615,7 +615,7 @@ Beautifully decorated inside and out, the Maria offers a good standard of accomm
 The pension has a cosy TV lounge and rustic <head>bar</head> .
 </context>
 </instance>
-
+-->
 <instance id="bar.40075" docsrc="bnc_ASD_2464">
 <answer instance="bar.40075" senseid="bar-0"/>
 <context>

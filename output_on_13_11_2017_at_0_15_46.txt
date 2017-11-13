@@ -1,0 +1,43 @@
+Cooccurences from the list of overlap are summed to count the score.
+bar.40004; predicted_sense: [16938, Synset('barroom.n.01')]; correct_sense: bar-0;
+
+bar.40008; predicted_sense: [2417, Synset('barroom.n.01')]; correct_sense: bar-0;
+
+bar.40012; predicted_sense: [36254, Synset('barroom.n.01')]; correct_sense: bar-0;
+
+bar.40015; predicted_sense: [39907, Synset('bar.n.03')]; correct_sense: bar-3;
+
+bar.40020; predicted_sense: [72919, Synset('barroom.n.01')]; correct_sense: bar-0;
+
+bar.40021; predicted_sense: [48711, Synset('browning_automatic_rifle.n.01')]; correct_sense: bar-0;
+
+bar.40024; predicted_sense: [25842, Synset('barroom.n.01')]; correct_sense: bar-0;
+
+bar.40029; predicted_sense: [113084, Synset('barroom.n.01')]; correct_sense: bar-0;
+
+bar.40030; predicted_sense: [13440, Synset('bar.n.03')]; correct_sense: bar-3;
+
+bar.40033; predicted_sense: [71457, Synset('barroom.n.01')]; correct_sense: bar-0;
+
+bar.40035; predicted_sense: [4897, Synset('bar.n.03')]; correct_sense: bar-0;
+
+bar.40039; predicted_sense: [29460, Synset('barroom.n.01')]; correct_sense: bar-0;
+
+bar.40044; predicted_sense: [21070, Synset('bar.n.03')]; correct_sense: bar-0;
+
+bar.40050; predicted_sense: [32230, Synset('barroom.n.01')]; correct_sense: bar-0;
+
+bar.40053; predicted_sense: [4254, Synset('bar.v.04')]; correct_sense: bar-0;
+
+bar.40060; predicted_sense: [30341, Synset('barroom.n.01')]; correct_sense: bar-0;
+
+bar.40064; predicted_sense: [32950, Synset('bar.n.08')]; correct_sense: bar-0;
+
+bar.40067; predicted_sense: [32950, Synset('bar.n.08')]; correct_sense: bar-0;
+
+bar.40069; predicted_sense: [6423, Synset('bar.n.03')]; correct_sense: bar-0;
+
+bar.40070; predicted_sense: [20496, Synset('bar.n.03')]; correct_sense: bar-3;
+
+bar.40073; predicted_sense: [39461, Synset('bar.n.02')]; correct_sense: bar-0;
+
