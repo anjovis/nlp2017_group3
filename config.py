@@ -1,5 +1,5 @@
 # Written only once to the output file
-file_text = 'Cooccurences from the list of overlap are summed to count the score.'
+file_text = 'Only chairs, signature and context sets'
 
 wn17_to_wn30 = {
     'bar-0': 'barroom.n.01',  # the place where you drink
@@ -14,6 +14,10 @@ wn30_to_wn17 = {
     'measure.n.07': 'bar-3',  # a unit for pressure
     'bar.n.07': 'bar-5',  # bar in music, indicates time
     'chair.n.01': 'chair-0'  # the thing where you sit on
+}
+
+wn17_to_wikipedia = {
+    'chair-0': 'chair-furniture'
 }
 
 

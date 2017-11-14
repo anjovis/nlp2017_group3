@@ -1,0 +1,384 @@
+Hypernyms and hyponyms not included
+bar.40004; predicted_sense: [8469, Synset('barroom.n.01')]; correct_sense: bar-0;
+
+bar.40008; predicted_sense: [1925, Synset('barricade.v.01')]; correct_sense: bar-0;
+
+bar.40012; predicted_sense: [8544, Synset('bar.v.01')]; correct_sense: bar-0;
+
+bar.40015; predicted_sense: [39227, Synset('stripe.n.05')]; correct_sense: bar-3;
+
+bar.40020; predicted_sense: [39227, Synset('stripe.n.05')]; correct_sense: bar-0;
+
+bar.40021; predicted_sense: [48711, Synset('browning_automatic_rifle.n.01')]; correct_sense: bar-0;
+
+bar.40024; predicted_sense: [12859, Synset('legal_profession.n.01')]; correct_sense: bar-0;
+
+bar.40029; predicted_sense: [39227, Synset('stripe.n.05')]; correct_sense: bar-0;
+
+bar.40030; predicted_sense: [6445, Synset('bar.n.03')]; correct_sense: bar-3;
+
+bar.40033; predicted_sense: [39227, Synset('stripe.n.05')]; correct_sense: bar-0;
+
+bar.40035; predicted_sense: [4492, Synset('bar.n.03')]; correct_sense: bar-0;
+
+bar.40039; predicted_sense: [18641, Synset('bar.n.03')]; correct_sense: bar-0;
+
+bar.40044; predicted_sense: [2468, Synset('barricade.v.01')]; correct_sense: bar-0;
+
+bar.40050; predicted_sense: [16115, Synset('barroom.n.01')]; correct_sense: bar-0;
+
+bar.40053; predicted_sense: [4254, Synset('bar.v.04')]; correct_sense: bar-0;
+
+bar.40060; predicted_sense: [1925, Synset('barricade.v.01')]; correct_sense: bar-0;
+
+bar.40064; predicted_sense: [12279, Synset('bar.n.07')]; correct_sense: bar-0;
+
+bar.40067; predicted_sense: [5999, Synset('bar.n.03')]; correct_sense: bar-0;
+
+bar.40069; predicted_sense: [2497, Synset('bar.n.03')]; correct_sense: bar-0;
+
+bar.40070; predicted_sense: [12890, Synset('bar.n.03')]; correct_sense: bar-3;
+
+bar.40073; predicted_sense: [16115, Synset('barroom.n.01')]; correct_sense: bar-0;
+
+bar.40081; predicted_sense: [29021, Synset('bar.n.07')]; correct_sense: bar-3;
+
+bar.40084; predicted_sense: [3133, Synset('barricade.v.01')]; correct_sense: bar-0;
+
+bar.40085; predicted_sense: [8508, Synset('bar.v.04')]; correct_sense: bar-0;
+
+bar.40092; predicted_sense: [1390, Synset('measure.n.07')]; correct_sense: bar-0;
+
+bar.40096; predicted_sense: [8469, Synset('barroom.n.01')]; correct_sense: bar-0;
+
+bar.40099; predicted_sense: [12560, Synset('legal_profession.n.01')]; correct_sense: bar-0;
+
+bar.40102; predicted_sense: [2755, Synset('barricade.v.01')]; correct_sense: bar-0;
+
+bar.40105; predicted_sense: [8646, Synset('bar.n.03')]; correct_sense: bar-0;
+
+bar.40120; predicted_sense: [9752, Synset('browning_automatic_rifle.n.01')]; correct_sense: bar-5;
+
+bar.40123; predicted_sense: [944, Synset('prevention.n.01')]; correct_sense: bar-0;
+
+bar.40126; predicted_sense: [12560, Synset('legal_profession.n.01')]; correct_sense: bar-0;
+
+bar.40127; predicted_sense: [1208, Synset('barricade.v.01')]; correct_sense: bar-0;
+
+bar.40130; predicted_sense: [948, Synset('barroom.n.01')]; correct_sense: bar-0;
+
+bar.40135; predicted_sense: [485, Synset('browning_automatic_rifle.n.01')]; correct_sense: bar-0;
+
+bar.40136; predicted_sense: [7111, Synset('bar.v.01')]; correct_sense: bar-0;
+
+bar.40146; predicted_sense: [22659, Synset('barroom.n.01')]; correct_sense: bar-0;
+
+bar.40147; predicted_sense: [7521, Synset('bar.n.08')]; correct_sense: bar-0;
+
+bar.40149; predicted_sense: [7521, Synset('barroom.n.01')]; correct_sense: bar-0;
+
+bar.40150; predicted_sense: [27292, Synset('legal_profession.n.01')]; correct_sense: bar-0;
+
+bar.40152; predicted_sense: [1159, Synset('browning_automatic_rifle.n.01')]; correct_sense: bar-0;
+
+bar.40161; predicted_sense: [216, Synset('barricade.v.01')]; correct_sense: bar-0;
+
+bar.40164; predicted_sense: [2025, Synset('stripe.n.05')]; correct_sense: bar-0;
+
+bar.40168; predicted_sense: [2186, Synset('bar.n.02')]; correct_sense: bar-0;
+
+bar.40169; predicted_sense: [95, Synset('barricade.v.01')]; correct_sense: bar-0;
+
+bar.40174; predicted_sense: [39227, Synset('stripe.n.05')]; correct_sense: bar-0;
+
+bar.40175; predicted_sense: [16115, Synset('barroom.n.01')]; correct_sense: bar-0;
+
+bar.40177; predicted_sense: [4360, Synset('bar.v.04')]; correct_sense: bar-0;
+
+bar.40181; predicted_sense: [8918, Synset('bar.n.03')]; correct_sense: bar-0;
+
+bar.40186; predicted_sense: [16115, Synset('barroom.n.01')]; correct_sense: bar-0;
+
+bar.40187; predicted_sense: [37680, Synset('legal_profession.n.01')]; correct_sense: bar-0;
+
+bar.40189; predicted_sense: [16115, Synset('barroom.n.01')]; correct_sense: bar-0;
+
+bar.40193; predicted_sense: [19387, Synset('barroom.n.01')]; correct_sense: bar-0;
+
+bar.40195; predicted_sense: [948, Synset('barroom.n.01')]; correct_sense: bar-0;
+
+bar.40196; predicted_sense: [1968, Synset('measure.n.07')]; correct_sense: bar-0;
+
+bar.40208; predicted_sense: [32230, Synset('barroom.n.01')]; correct_sense: bar-0;
+
+bar.40211; predicted_sense: [8646, Synset('bar.n.03')]; correct_sense: bar-0;
+
+bar.40214; predicted_sense: [17063, Synset('barroom.n.01')]; correct_sense: bar-0;
+
+bar.40216; predicted_sense: [16115, Synset('barroom.n.01')]; correct_sense: bar-0;
+
+bar.40217; predicted_sense: [948, Synset('barroom.n.01')]; correct_sense: bar-0;
+
+bar.40221; predicted_sense: [17063, Synset('barroom.n.01')]; correct_sense: bar-0;
+
+bar.40226; predicted_sense: [941, Synset('barroom.n.01')]; correct_sense: bar-0;
+
+bar.40229; predicted_sense: [43585, Synset('stripe.n.05')]; correct_sense: bar-0;
+
+bar.40234; predicted_sense: [7111, Synset('bar.v.01')]; correct_sense: bar-0;
+
+bar.40250; predicted_sense: [25133, Synset('stripe.n.05')]; correct_sense: bar-0;
+
+bar.40252; predicted_sense: [16755, Synset('barroom.n.01')]; correct_sense: bar-0;
+
+bar.40253; predicted_sense: [119, Synset('browning_automatic_rifle.n.01')]; correct_sense: bar-0;
+
+bar.40255; predicted_sense: [42046, Synset('barroom.n.01')]; correct_sense: bar-0;
+
+bar.40259; predicted_sense: [880, Synset('browning_automatic_rifle.n.01')]; correct_sense: bar-3;
+
+bar.40261; predicted_sense: [2806, Synset('browning_automatic_rifle.n.01')]; correct_sense: bar-0;
+
+bar.40264; predicted_sense: [566, Synset('bar.n.03')]; correct_sense: bar-3;
+
+bar.40267; predicted_sense: [4254, Synset('bar.v.04')]; correct_sense: bar-0;
+
+bar.40270; predicted_sense: [4752, Synset('bar.n.13')]; correct_sense: bar-0;
+
+bar.40271; predicted_sense: [39227, Synset('stripe.n.05')]; correct_sense: bar-0;
+
+bar.40273; predicted_sense: [17063, Synset('barroom.n.01')]; correct_sense: bar-0;
+
+bar.40274; predicted_sense: [6804, Synset('bar.n.05')]; correct_sense: bar-0;
+
+bar.40277; predicted_sense: [32230, Synset('barroom.n.01')]; correct_sense: bar-0;
+
+bar.40279; predicted_sense: [35502, Synset('barroom.n.01')]; correct_sense: bar-0;
+
+bar.40283; predicted_sense: [921, Synset('browning_automatic_rifle.n.01')]; correct_sense: bar-0;
+
+bar.40286; predicted_sense: [39227, Synset('stripe.n.05')]; correct_sense: bar-0;
+
+bar.40288; predicted_sense: [948, Synset('barroom.n.01')]; correct_sense: bar-0;
+
+bar.40289; predicted_sense: [7872, Synset('measure.n.07')]; correct_sense: bar-3;
+
+bar.40292; predicted_sense: [39227, Synset('stripe.n.05')]; correct_sense: bar-0;
+
+bar.40294; predicted_sense: [948, Synset('barroom.n.01')]; correct_sense: bar-0;
+
+bar.40295; predicted_sense: [4220, Synset('barroom.n.01')]; correct_sense: bar-0;
+
+bar.40298; predicted_sense: [6445, Synset('bar.n.03')]; correct_sense: bar-0;
+
+bar.40300; predicted_sense: [2570, Synset('bar.n.15')]; correct_sense: bar-3;
+
+bar.40303; predicted_sense: [9135, Synset('bar.n.07')]; correct_sense: bar-0;
+
+bar.40304; predicted_sense: [5493, Synset('bar.v.01')]; correct_sense: bar-0;
+
+bar.40313; predicted_sense: [4647, Synset('bar.n.03')]; correct_sense: bar-0;
+
+bar.40314; predicted_sense: [169, Synset('bar.n.08')]; correct_sense: bar-0;
+
+bar.40316; predicted_sense: [689, Synset('legal_profession.n.01')]; correct_sense: bar-0;
+
+bar.40320; predicted_sense: [3737, Synset('barricade.v.01')]; correct_sense: bar-0;
+
+bar.40323; predicted_sense: [9959, Synset('bar.v.01')]; correct_sense: bar-0;
+
+bar.40328; predicted_sense: [1630, Synset('barroom.n.01')]; correct_sense: bar-0;
+
+bar.40331; predicted_sense: [3133, Synset('barricade.v.01')]; correct_sense: bar-0;
+
+bar.40332; predicted_sense: [6445, Synset('bar.n.03')]; correct_sense: bar-0;
+
+bar.40335; predicted_sense: [7521, Synset('barroom.n.01')]; correct_sense: bar-0;
+
+bar.40341; predicted_sense: [1208, Synset('barricade.v.01')]; correct_sense: bar-0;
+
+bar.40347; predicted_sense: [3317, Synset('barroom.n.01')]; correct_sense: bar-0;
+
+bar.40349; predicted_sense: [3089, Synset('stripe.n.05')]; correct_sense: bar-0;
+
+bar.40350; predicted_sense: [40067, Synset('stripe.n.05')]; correct_sense: bar-0;
+
+bar.40358; predicted_sense: [16115, Synset('barroom.n.01')]; correct_sense: bar-0;
+
+bar.40360; predicted_sense: [9959, Synset('bar.v.01')]; correct_sense: bar-0;
+
+bar.40363; predicted_sense: [40967, Synset('stripe.n.05')]; correct_sense: bar-0;
+
+bar.40367; predicted_sense: [12762, Synset('bar.v.04')]; correct_sense: bar-0;
+
+bar.40369; predicted_sense: [17292, Synset('bar.n.03')]; correct_sense: bar-3;
+
+bar.40372; predicted_sense: [566, Synset('bar.n.03')]; correct_sense: bar-3;
+
+bar.40373; predicted_sense: [12262, Synset('barroom.n.01')]; correct_sense: bar-0;
+
+bar.40381; predicted_sense: [12279, Synset('bar.n.07')]; correct_sense: bar-5;
+
+bar.40382; predicted_sense: [1925, Synset('barricade.v.01')]; correct_sense: bar-0;
+
+bar.40384; predicted_sense: [12279, Synset('bar.n.07')]; correct_sense: bar-3;
+
+bar.40387; predicted_sense: [12560, Synset('legal_profession.n.01')]; correct_sense: bar-0;
+
+bar.40388; predicted_sense: [2416, Synset('barricade.v.01')]; correct_sense: bar-0;
+
+bar.40391; predicted_sense: [18724, Synset('bar.n.07')]; correct_sense: bar-5;
+
+bar.40400; predicted_sense: [12560, Synset('legal_profession.n.01')]; correct_sense: bar-0;
+
+bar.40401; predicted_sense: [173, Synset('barroom.n.01')]; correct_sense: bar-0;
+
+bar.40409; predicted_sense: [25133, Synset('stripe.n.05')]; correct_sense: bar-0;
+
+bar.40410; predicted_sense: [1280, Synset('bar.n.05')]; correct_sense: bar-0;
+
+bar.40412; predicted_sense: [6445, Synset('bar.n.03')]; correct_sense: bar-0;
+
+bar.40416; predicted_sense: [16115, Synset('barroom.n.01')]; correct_sense: bar-0;
+
+bar.40418; predicted_sense: [8508, Synset('bar.v.04')]; correct_sense: bar-0;
+
+bar.40420; predicted_sense: [1162, Synset('stripe.n.05')]; correct_sense: bar-0;
+
+bar.30005; predicted_sense: [1169, Synset('measure.n.07')]; correct_sense: bar-0;
+
+bar.30010; predicted_sense: [5538, Synset('bar.n.02')]; correct_sense: bar-0;
+
+bar.30038; predicted_sense: [3737, Synset('barricade.v.01')]; correct_sense: bar-0;
+
+bar.30039; predicted_sense: [2048, Synset('barricade.v.01')]; correct_sense: bar-0;
+
+bar.30041; predicted_sense: [16115, Synset('barroom.n.01')]; correct_sense: bar-0;
+
+chair.40005; predicted_sense: [6554, Synset('electric_chair.n.01')]; correct_sense: chair-0;
+
+chair.40012; predicted_sense: [1363, Synset('chair.v.01')]; correct_sense: chair-0;
+
+chair.40013; predicted_sense: [209, Synset('president.n.04')]; correct_sense: chair-0;
+
+chair.40020; predicted_sense: [15044, Synset('electric_chair.n.01')]; correct_sense: chair-0;
+
+chair.40023; predicted_sense: [9874, Synset('chair.n.01')]; correct_sense: chair-0;
+
+chair.40025; predicted_sense: [203, Synset('president.n.04')]; correct_sense: chair-0;
+
+chair.40030; predicted_sense: [28687, Synset('president.n.04')]; correct_sense: chair-0;
+
+chair.40033; predicted_sense: [5170, Synset('electric_chair.n.01')]; correct_sense: chair-0;
+
+chair.40037; predicted_sense: [3947, Synset('chair.n.01')]; correct_sense: chair-0;
+
+chair.40039; predicted_sense: [36979, Synset('chair.v.01')]; correct_sense: chair-0;
+
+chair.40050; predicted_sense: [14245, Synset('chair.n.05')]; correct_sense: chair-0;
+
+chair.40058; predicted_sense: [14245, Synset('chair.n.05')]; correct_sense: chair-0;
+
+chair.40062; predicted_sense: [672, Synset('chair.n.01')]; correct_sense: chair-0;
+
+chair.40068; predicted_sense: [8653, Synset('chair.n.01')]; correct_sense: chair-0;
+
+chair.40071; predicted_sense: [85014, Synset('chair.n.01')]; correct_sense: chair-0;
+
+chair.40072; predicted_sense: [8653, Synset('chair.n.01')]; correct_sense: chair-0;
+
+chair.40077; predicted_sense: [1384, Synset('chair.n.01')]; correct_sense: chair-0;
+
+chair.40080; predicted_sense: [27438, Synset('chair.n.01')]; correct_sense: chair-0;
+
+chair.40081; predicted_sense: [6660, Synset('chair.n.05')]; correct_sense: chair-0;
+
+chair.40084; predicted_sense: [14245, Synset('chair.n.05')]; correct_sense: chair-0;
+
+chair.40086; predicted_sense: [17306, Synset('chair.n.01')]; correct_sense: chair-0;
+
+chair.40087; predicted_sense: [1384, Synset('chair.n.01')]; correct_sense: chair-0;
+
+chair.40090; predicted_sense: [14245, Synset('chair.n.05')]; correct_sense: chair-0;
+
+chair.40096; predicted_sense: [494, Synset('chair.v.01')]; correct_sense: chair-0;
+
+chair.40099; predicted_sense: [22732, Synset('chair.n.01')]; correct_sense: chair-0;
+
+chair.40108; predicted_sense: [8653, Synset('chair.n.01')]; correct_sense: chair-0;
+
+chair.40111; predicted_sense: [8653, Synset('chair.n.01')]; correct_sense: chair-0;
+
+chair.40114; predicted_sense: [1384, Synset('chair.n.01')]; correct_sense: chair-0;
+
+chair.40115; predicted_sense: [5953, Synset('professorship.n.01')]; correct_sense: chair-0;
+
+chair.40120; predicted_sense: [18785, Synset('chair.n.01')]; correct_sense: chair-0;
+
+chair.40121; predicted_sense: [770, Synset('chair.n.01')]; correct_sense: chair-0;
+
+chair.40124; predicted_sense: [17306, Synset('chair.n.01')]; correct_sense: chair-0;
+
+chair.40135; predicted_sense: [18785, Synset('chair.n.01')]; correct_sense: chair-0;
+
+chair.40142; predicted_sense: [3947, Synset('chair.n.01')]; correct_sense: chair-0;
+
+chair.40146; predicted_sense: [28687, Synset('president.n.04')]; correct_sense: chair-0;
+
+chair.40147; predicted_sense: [1239, Synset('moderate.v.01')]; correct_sense: chair-0;
+
+chair.40150; predicted_sense: [23980, Synset('electric_chair.n.01')]; correct_sense: chair-0;
+
+chair.40153; predicted_sense: [28687, Synset('president.n.04')]; correct_sense: chair-0;
+
+chair.40155; predicted_sense: [6660, Synset('chair.n.05')]; correct_sense: chair-0;
+
+chair.40158; predicted_sense: [8653, Synset('chair.n.01')]; correct_sense: chair-0;
+
+chair.40162; predicted_sense: [170, Synset('chair.v.01')]; correct_sense: chair-0;
+
+chair.40169; predicted_sense: [18527, Synset('chair.n.01')]; correct_sense: chair-0;
+
+chair.40171; predicted_sense: [14245, Synset('chair.n.05')]; correct_sense: chair-0;
+
+chair.40174; predicted_sense: [247, Synset('chair.v.01')]; correct_sense: chair-0;
+
+chair.40175; predicted_sense: [170, Synset('chair.v.01')]; correct_sense: chair-0;
+
+chair.40178; predicted_sense: [49, Synset('electric_chair.n.01')]; correct_sense: chair-0;
+
+chair.40184; predicted_sense: [3947, Synset('chair.n.01')]; correct_sense: chair-0;
+
+chair.40187; predicted_sense: [25959, Synset('chair.n.01')]; correct_sense: chair-0;
+
+chair.40189; predicted_sense: [247, Synset('chair.v.01')]; correct_sense: chair-0;
+
+chair.40192; predicted_sense: [8653, Synset('chair.n.01')]; correct_sense: chair-0;
+
+chair.40196; predicted_sense: [8653, Synset('chair.n.01')]; correct_sense: chair-0;
+
+chair.40199; predicted_sense: [5170, Synset('electric_chair.n.01')]; correct_sense: chair-0;
+
+chair.40201; predicted_sense: [18785, Synset('chair.n.01')]; correct_sense: chair-0;
+
+chair.40210; predicted_sense: [91, Synset('moderate.v.01')]; correct_sense: chair-0;
+
+chair.40211; predicted_sense: [28687, Synset('president.n.04')]; correct_sense: chair-0;
+
+chair.40221; predicted_sense: [24119, Synset('chair.n.05')]; correct_sense: chair-0;
+
+chair.40224; predicted_sense: [173, Synset('chair.n.01')]; correct_sense: chair-0;
+
+chair.40226; predicted_sense: [5953, Synset('professorship.n.01')]; correct_sense: chair-0;
+
+chair.40227; predicted_sense: [6660, Synset('chair.n.05')]; correct_sense: chair-0;
+
+chair.30005; predicted_sense: [417, Synset('chair.v.01')]; correct_sense: chair-0;
+
+chair.30008; predicted_sense: [4491, Synset('chair.n.01')]; correct_sense: chair-0;
+
+chair.30009; predicted_sense: [124, Synset('president.n.04')]; correct_sense: chair-0;
+
+chair.30012; predicted_sense: [74128, Synset('chair.v.01')]; correct_sense: chair-0;
+
+Accuracy: 0.26639344262295084 ; 65 / 244

@@ -1,0 +1,212 @@
+Only chairs, signature and context sets
+chair.40002; predicted_sense: [105052, Synset('chair.n.01')]; correct_sense: chair-0;
+
+chair.40003; predicted_sense: [27336, Synset('chair.n.01')]; correct_sense: chair-0;
+
+chair.40005; predicted_sense: [6578, Synset('chair.n.05')]; correct_sense: chair-0;
+
+chair.40008; predicted_sense: [93961, Synset('chair.n.01')]; correct_sense: chair-0;
+
+chair.40012; predicted_sense: [1363, Synset('chair.v.01')]; correct_sense: chair-0;
+
+chair.40013; predicted_sense: [213, Synset('professorship.n.01')]; correct_sense: chair-0;
+
+chair.40015; predicted_sense: [7572, Synset('chair.n.01')]; correct_sense: chair-0;
+
+chair.40019; predicted_sense: [30990, Synset('chair.n.01')]; correct_sense: chair-0;
+
+chair.40020; predicted_sense: [20584, Synset('chair.n.01')]; correct_sense: chair-0;
+
+chair.40023; predicted_sense: [57481, Synset('chair.n.01')]; correct_sense: chair-0;
+
+chair.40025; predicted_sense: [95920, Synset('chair.n.01')]; correct_sense: chair-0;
+
+chair.40027; predicted_sense: [2031, Synset('chair.n.01')]; correct_sense: chair-0;
+
+chair.40030; predicted_sense: [30375, Synset('president.n.04')]; correct_sense: chair-0;
+
+chair.40033; predicted_sense: [11715, Synset('chair.n.01')]; correct_sense: chair-0;
+
+chair.40034; predicted_sense: [4009, Synset('professorship.n.01')]; correct_sense: chair-0;
+
+chair.40037; predicted_sense: [9033, Synset('chair.n.01')]; correct_sense: chair-0;
+
+chair.40039; predicted_sense: [38215, Synset('chair.v.01')]; correct_sense: chair-0;
+
+chair.40040; predicted_sense: [67200, Synset('chair.n.01')]; correct_sense: chair-0;
+
+chair.40047; predicted_sense: [6337, Synset('chair.n.01')]; correct_sense: chair-0;
+
+chair.40050; predicted_sense: [14245, Synset('chair.n.05')]; correct_sense: chair-0;
+
+chair.40058; predicted_sense: [16247, Synset('chair.n.01')]; correct_sense: chair-0;
+
+chair.40062; predicted_sense: [6627, Synset('chair.n.01')]; correct_sense: chair-0;
+
+chair.40064; predicted_sense: [6578, Synset('chair.n.05')]; correct_sense: chair-0;
+
+chair.40066; predicted_sense: [5885, Synset('chair.n.01')]; correct_sense: chair-0;
+
+chair.40068; predicted_sense: [9029, Synset('chair.n.01')]; correct_sense: chair-0;
+
+chair.40071; predicted_sense: [96806, Synset('chair.n.01')]; correct_sense: chair-0;
+
+chair.40072; predicted_sense: [21604, Synset('chair.n.01')]; correct_sense: chair-0;
+
+chair.40075; predicted_sense: [15251, Synset('chair.n.01')]; correct_sense: chair-0;
+
+chair.40077; predicted_sense: [1627, Synset('electric_chair.n.01')]; correct_sense: chair-0;
+
+chair.40080; predicted_sense: [46223, Synset('chair.n.01')]; correct_sense: chair-0;
+
+chair.40081; predicted_sense: [6660, Synset('chair.n.05')]; correct_sense: chair-0;
+
+chair.40084; predicted_sense: [14245, Synset('chair.n.05')]; correct_sense: chair-0;
+
+chair.40086; predicted_sense: [20547, Synset('chair.n.01')]; correct_sense: chair-0;
+
+chair.40087; predicted_sense: [21491, Synset('chair.n.01')]; correct_sense: chair-0;
+
+chair.40090; predicted_sense: [27638, Synset('chair.n.01')]; correct_sense: chair-0;
+
+chair.40094; predicted_sense: [20758, Synset('chair.n.01')]; correct_sense: chair-0;
+
+chair.40096; predicted_sense: [32144, Synset('chair.n.01')]; correct_sense: chair-0;
+
+chair.40099; predicted_sense: [45833, Synset('chair.n.01')]; correct_sense: chair-0;
+
+chair.40100; predicted_sense: [1606, Synset('president.n.04')]; correct_sense: chair-0;
+
+chair.40105; predicted_sense: [313, Synset('chair.n.01')]; correct_sense: chair-0;
+
+chair.40108; predicted_sense: [101211, Synset('chair.n.01')]; correct_sense: chair-0;
+
+chair.40111; predicted_sense: [23990, Synset('chair.n.01')]; correct_sense: chair-0;
+
+chair.40112; predicted_sense: [22349, Synset('chair.n.01')]; correct_sense: chair-0;
+
+chair.40114; predicted_sense: [8119, Synset('chair.n.01')]; correct_sense: chair-0;
+
+chair.40115; predicted_sense: [116259, Synset('chair.n.01')]; correct_sense: chair-0;
+
+chair.40117; predicted_sense: [213, Synset('professorship.n.01')]; correct_sense: chair-0;
+
+chair.40120; predicted_sense: [63447, Synset('chair.n.01')]; correct_sense: chair-0;
+
+chair.40121; predicted_sense: [7348, Synset('chair.n.05')]; correct_sense: chair-0;
+
+chair.40124; predicted_sense: [8653, Synset('chair.n.01')]; correct_sense: chair-0;
+
+chair.40125; predicted_sense: [19918, Synset('chair.n.01')]; correct_sense: chair-0;
+
+chair.40128; predicted_sense: [46510, Synset('chair.n.01')]; correct_sense: chair-0;
+
+chair.40129; predicted_sense: [34213, Synset('chair.n.01')]; correct_sense: chair-0;
+
+chair.40131; predicted_sense: [1236, Synset('president.n.04')]; correct_sense: chair-0;
+
+chair.40132; predicted_sense: [1988, Synset('chair.n.05')]; correct_sense: chair-0;
+
+chair.40135; predicted_sense: [69268, Synset('chair.n.01')]; correct_sense: chair-0;
+
+chair.40136; predicted_sense: [19963, Synset('chair.n.01')]; correct_sense: chair-0;
+
+chair.40139; predicted_sense: [19764, Synset('chair.n.01')]; correct_sense: chair-0;
+
+chair.40142; predicted_sense: [28955, Synset('chair.n.01')]; correct_sense: chair-0;
+
+chair.40143; predicted_sense: [7572, Synset('chair.n.01')]; correct_sense: chair-0;
+
+chair.40146; predicted_sense: [29923, Synset('president.n.04')]; correct_sense: chair-0;
+
+chair.40147; predicted_sense: [7009, Synset('chair.n.01')]; correct_sense: chair-0;
+
+chair.40149; predicted_sense: [11894, Synset('chair.n.01')]; correct_sense: chair-0;
+
+chair.40150; predicted_sense: [23980, Synset('electric_chair.n.01')]; correct_sense: chair-0;
+
+chair.40152; predicted_sense: [100, Synset('professorship.n.01')]; correct_sense: chair-0;
+
+chair.40153; predicted_sense: [29923, Synset('president.n.04')]; correct_sense: chair-0;
+
+chair.40155; predicted_sense: [6660, Synset('chair.n.05')]; correct_sense: chair-0;
+
+chair.40156; predicted_sense: [1988, Synset('chair.n.05')]; correct_sense: chair-0;
+
+chair.40158; predicted_sense: [10783, Synset('chair.n.01')]; correct_sense: chair-0;
+
+chair.40159; predicted_sense: [30488, Synset('chair.n.01')]; correct_sense: chair-0;
+
+chair.40161; predicted_sense: [4283, Synset('chair.n.01')]; correct_sense: chair-0;
+
+chair.40162; predicted_sense: [170, Synset('chair.v.01')]; correct_sense: chair-0;
+
+chair.40165; predicted_sense: [10020, Synset('chair.n.01')]; correct_sense: chair-0;
+
+chair.40166; predicted_sense: [1236, Synset('president.n.04')]; correct_sense: chair-0;
+
+chair.40169; predicted_sense: [40668, Synset('chair.n.01')]; correct_sense: chair-0;
+
+chair.40171; predicted_sense: [14245, Synset('chair.n.05')]; correct_sense: chair-0;
+
+chair.40174; predicted_sense: [247, Synset('chair.v.01')]; correct_sense: chair-0;
+
+chair.40175; predicted_sense: [5741, Synset('chair.n.01')]; correct_sense: chair-0;
+
+chair.40178; predicted_sense: [92558, Synset('chair.n.01')]; correct_sense: chair-0;
+
+chair.40182; predicted_sense: [12093, Synset('chair.n.01')]; correct_sense: chair-0;
+
+chair.40184; predicted_sense: [28001, Synset('chair.n.01')]; correct_sense: chair-0;
+
+chair.40187; predicted_sense: [12015, Synset('chair.n.01')]; correct_sense: chair-0;
+
+chair.40189; predicted_sense: [9141, Synset('chair.n.01')]; correct_sense: chair-0;
+
+chair.40190; predicted_sense: [23488, Synset('chair.n.01')]; correct_sense: chair-0;
+
+chair.40192; predicted_sense: [28417, Synset('chair.n.01')]; correct_sense: chair-0;
+
+chair.40196; predicted_sense: [20547, Synset('chair.n.01')]; correct_sense: chair-0;
+
+chair.40198; predicted_sense: [1988, Synset('chair.n.05')]; correct_sense: chair-0;
+
+chair.40199; predicted_sense: [50396, Synset('chair.n.01')]; correct_sense: chair-0;
+
+chair.40201; predicted_sense: [37570, Synset('chair.n.01')]; correct_sense: chair-0;
+
+chair.40205; predicted_sense: [222, Synset('chair.n.01')]; correct_sense: chair-0;
+
+chair.40208; predicted_sense: [14791, Synset('president.n.04')]; correct_sense: chair-0;
+
+chair.40210; predicted_sense: [182, Synset('moderate.v.01')]; correct_sense: chair-0;
+
+chair.40211; predicted_sense: [28687, Synset('president.n.04')]; correct_sense: chair-0;
+
+chair.40213; predicted_sense: [13324, Synset('chair.n.01')]; correct_sense: chair-0;
+
+chair.40214; predicted_sense: [3498, Synset('chair.n.01')]; correct_sense: chair-0;
+
+chair.40216; predicted_sense: [144, Synset('chair.n.01')]; correct_sense: chair-0;
+
+chair.40221; predicted_sense: [29425, Synset('chair.n.01')]; correct_sense: chair-0;
+
+chair.40224; predicted_sense: [16842, Synset('chair.n.01')]; correct_sense: chair-0;
+
+chair.40226; predicted_sense: [15161, Synset('president.n.04')]; correct_sense: chair-0;
+
+chair.40227; predicted_sense: [6660, Synset('chair.n.05')]; correct_sense: chair-0;
+
+chair.30004; predicted_sense: [14339, Synset('chair.n.01')]; correct_sense: chair-0;
+
+chair.30005; predicted_sense: [417, Synset('chair.v.01')]; correct_sense: chair-0;
+
+chair.30008; predicted_sense: [12153, Synset('chair.n.01')]; correct_sense: chair-0;
+
+chair.30009; predicted_sense: [124, Synset('president.n.04')]; correct_sense: chair-0;
+
+chair.30011; predicted_sense: [63911, Synset('chair.n.01')]; correct_sense: chair-0;
+
+chair.30012; predicted_sense: [37149, Synset('chair.v.01')]; correct_sense: chair-0;
+
+Accuracy: 0.6363636363636364 ; 70 / 110The amount of no_overlap: 5

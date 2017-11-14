@@ -1,0 +1,2840 @@
+chair.40002
+Sense:  Synset('chair.n.01')
+Overlap: ['backed', 'garden', 'lawn', 'guests']
+Score: 105052
+Sense:  Synset('professorship.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('president.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('electric_chair.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.v.01')
+Overlap: []
+Score: 0
+Sense:  Synset('moderate.v.01')
+Overlap: []
+Score: 0
+chair.40002; predicted_sense: [105052, Synset('chair.n.01')]; correct_sense: chair-0;
+
+Accuracy: 1.0 ; 1 / 1
+__________________________________________________________________________________
+chair.40003
+Sense:  Synset('chair.n.01')
+Overlap: ['sitting', 'left', 'large']
+Score: 27336
+Sense:  Synset('professorship.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('president.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('electric_chair.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.n.05')
+Overlap: ['sitting', 'sitting']
+Score: 6578
+Sense:  Synset('chair.v.01')
+Overlap: []
+Score: 0
+Sense:  Synset('moderate.v.01')
+Overlap: []
+Score: 0
+chair.40003; predicted_sense: [27336, Synset('chair.n.01')]; correct_sense: chair-0;
+
+Accuracy: 1.0 ; 2 / 2
+__________________________________________________________________________________
+chair.40005
+Sense:  Synset('chair.n.01')
+Overlap: ['person', 'sitting', 'trays']
+Score: 4865
+Sense:  Synset('professorship.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('president.n.04')
+Overlap: ['place']
+Score: 370
+Sense:  Synset('electric_chair.n.01')
+Overlap: ['person', 'ordinary', 'instruments']
+Score: 6554
+Sense:  Synset('chair.n.05')
+Overlap: ['sitting', 'sitting']
+Score: 6578
+Sense:  Synset('chair.v.01')
+Overlap: []
+Score: 0
+Sense:  Synset('moderate.v.01')
+Overlap: []
+Score: 0
+chair.40005; predicted_sense: [6578, Synset('chair.n.05')]; correct_sense: chair-0;
+
+Accuracy: 0.6666666666666666 ; 2 / 3
+__________________________________________________________________________________
+chair.40006
+Sense:  Synset('chair.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('professorship.n.01')
+Overlap: ['AWARD']
+Score: 0
+Sense:  Synset('president.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('electric_chair.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.v.01')
+Overlap: []
+Score: 0
+Sense:  Synset('moderate.v.01')
+Overlap: []
+Score: 0
+chair.40008
+Sense:  Synset('chair.n.01')
+Overlap: ['Coat', 'arm', 'arm', 'coat', 'fitted', 'fit']
+Score: 93961
+Sense:  Synset('professorship.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('president.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('electric_chair.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.v.01')
+Overlap: []
+Score: 0
+Sense:  Synset('moderate.v.01')
+Overlap: []
+Score: 0
+chair.40008; predicted_sense: [93961, Synset('chair.n.01')]; correct_sense: chair-0;
+
+Accuracy: 0.6 ; 3 / 5
+__________________________________________________________________________________
+chair.40012
+Sense:  Synset('chair.n.01')
+Overlap: ['fitness']
+Score: 0
+Sense:  Synset('professorship.n.01')
+Overlap: ['organ']
+Score: 313
+Sense:  Synset('president.n.04')
+Overlap: ['chairman', 'organ', 'groups']
+Score: 573
+Sense:  Synset('electric_chair.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.v.01')
+Overlap: ['University']
+Score: 1363
+Sense:  Synset('moderate.v.01')
+Overlap: []
+Score: 0
+chair.40012; predicted_sense: [1363, Synset('chair.v.01')]; correct_sense: chair-0;
+
+Accuracy: 0.5 ; 3 / 6
+__________________________________________________________________________________
+chair.40013
+Sense:  Synset('chair.n.01')
+Overlap: ['child']
+Score: 144
+Sense:  Synset('professorship.n.01')
+Overlap: ['job']
+Score: 213
+Sense:  Synset('president.n.04')
+Overlap: ['officers']
+Score: 209
+Sense:  Synset('electric_chair.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.v.01')
+Overlap: []
+Score: 0
+Sense:  Synset('moderate.v.01')
+Overlap: []
+Score: 0
+chair.40013; predicted_sense: [213, Synset('professorship.n.01')]; correct_sense: chair-0;
+
+Accuracy: 0.42857142857142855 ; 3 / 7
+__________________________________________________________________________________
+chair.40015
+Sense:  Synset('chair.n.01')
+Overlap: ['left', 'sitting']
+Score: 7572
+Sense:  Synset('professorship.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('president.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('electric_chair.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.n.05')
+Overlap: ['sitting', 'sitting']
+Score: 6578
+Sense:  Synset('chair.v.01')
+Overlap: []
+Score: 0
+Sense:  Synset('moderate.v.01')
+Overlap: []
+Score: 0
+chair.40015; predicted_sense: [7572, Synset('chair.n.01')]; correct_sense: chair-0;
+
+Accuracy: 0.5 ; 4 / 8
+__________________________________________________________________________________
+chair.40019
+Sense:  Synset('chair.n.01')
+Overlap: ['sits', 'sitting', 'used', 'large']
+Score: 30990
+Sense:  Synset('professorship.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('president.n.04')
+Overlap: ['serve', 'placed', 'group']
+Score: 15725
+Sense:  Synset('electric_chair.n.01')
+Overlap: ['used']
+Score: 5741
+Sense:  Synset('chair.n.05')
+Overlap: ['sits', 'sits', 'sitting', 'sitting']
+Score: 10970
+Sense:  Synset('chair.v.01')
+Overlap: []
+Score: 0
+Sense:  Synset('moderate.v.01')
+Overlap: []
+Score: 0
+chair.40019; predicted_sense: [30990, Synset('chair.n.01')]; correct_sense: chair-0;
+
+Accuracy: 0.5555555555555556 ; 5 / 9
+__________________________________________________________________________________
+chair.40020
+Sense:  Synset('chair.n.01')
+Overlap: ['Using', 'backing', 'base', 'seats', 'seats']
+Score: 20584
+Sense:  Synset('professorship.n.01')
+Overlap: ['jobs']
+Score: 89
+Sense:  Synset('president.n.04')
+Overlap: ['head', 'place']
+Score: 1606
+Sense:  Synset('electric_chair.n.01')
+Overlap: ['Using', 'ordinary', 'seats']
+Score: 15087
+Sense:  Synset('chair.n.05')
+Overlap: ['seats']
+Score: 9874
+Sense:  Synset('chair.v.01')
+Overlap: ['head']
+Score: 1236
+Sense:  Synset('moderate.v.01')
+Overlap: ['Budget']
+Score: 57
+chair.40020; predicted_sense: [20584, Synset('chair.n.01')]; correct_sense: chair-0;
+
+Accuracy: 0.6 ; 6 / 10
+__________________________________________________________________________________
+chair.40023
+Sense:  Synset('chair.n.01')
+Overlap: ['long', 'young', 'storage', 'used', 'seats', 'seats', 'large']
+Score: 57481
+Sense:  Synset('professorship.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('president.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('electric_chair.n.01')
+Overlap: ['used', 'seats']
+Score: 15615
+Sense:  Synset('chair.n.05')
+Overlap: ['seats']
+Score: 9874
+Sense:  Synset('chair.v.01')
+Overlap: []
+Score: 0
+Sense:  Synset('moderate.v.01')
+Overlap: ['discuss', 'discuss']
+Score: 0
+chair.40023; predicted_sense: [57481, Synset('chair.n.01')]; correct_sense: chair-0;
+
+Accuracy: 0.6363636363636364 ; 7 / 11
+__________________________________________________________________________________
+chair.40025
+Sense:  Synset('chair.n.01')
+Overlap: ['arm', 'arm', 'guest']
+Score: 95920
+Sense:  Synset('professorship.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('president.n.04')
+Overlap: ['remarked']
+Score: 203
+Sense:  Synset('electric_chair.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.v.01')
+Overlap: []
+Score: 0
+Sense:  Synset('moderate.v.01')
+Overlap: []
+Score: 0
+chair.40025; predicted_sense: [95920, Synset('chair.n.01')]; correct_sense: chair-0;
+
+Accuracy: 0.6666666666666666 ; 8 / 12
+__________________________________________________________________________________
+chair.40027
+Sense:  Synset('chair.n.01')
+Overlap: ['power']
+Score: 2031
+Sense:  Synset('professorship.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('president.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('electric_chair.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.v.01')
+Overlap: []
+Score: 0
+Sense:  Synset('moderate.v.01')
+Overlap: []
+Score: 0
+chair.40027; predicted_sense: [2031, Synset('chair.n.01')]; correct_sense: chair-0;
+
+Accuracy: 0.6923076923076923 ; 9 / 13
+__________________________________________________________________________________
+chair.40030
+Sense:  Synset('chair.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('professorship.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('president.n.04')
+Overlap: ['served', 'office', 'Place', 'group']
+Score: 30375
+Sense:  Synset('electric_chair.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.n.05')
+Overlap: ['particularly']
+Score: 71
+Sense:  Synset('chair.v.01')
+Overlap: []
+Score: 0
+Sense:  Synset('moderate.v.01')
+Overlap: []
+Score: 0
+chair.40030; predicted_sense: [30375, Synset('president.n.04')]; correct_sense: chair-0;
+
+Accuracy: 0.6428571428571429 ; 9 / 14
+__________________________________________________________________________________
+chair.40033
+Sense:  Synset('chair.n.01')
+Overlap: ['using', 'swivelling', 'power', 'armed', 'armed']
+Score: 11715
+Sense:  Synset('professorship.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('president.n.04')
+Overlap: ['group']
+Score: 789
+Sense:  Synset('electric_chair.n.01')
+Overlap: ['using', 'ordinary']
+Score: 6835
+Sense:  Synset('chair.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.v.01')
+Overlap: []
+Score: 0
+Sense:  Synset('moderate.v.01')
+Overlap: []
+Score: 0
+chair.40033; predicted_sense: [11715, Synset('chair.n.01')]; correct_sense: chair-0;
+
+Accuracy: 0.6666666666666666 ; 10 / 15
+__________________________________________________________________________________
+chair.40034
+Sense:  Synset('chair.n.01')
+Overlap: ['trays', 'swivelling', 'furniture']
+Score: 590
+Sense:  Synset('professorship.n.01')
+Overlap: ['occupied']
+Score: 4009
+Sense:  Synset('president.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('electric_chair.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.v.01')
+Overlap: []
+Score: 0
+Sense:  Synset('moderate.v.01')
+Overlap: []
+Score: 0
+chair.40034; predicted_sense: [4009, Synset('professorship.n.01')]; correct_sense: chair-0;
+
+Accuracy: 0.625 ; 10 / 16
+__________________________________________________________________________________
+chair.40037
+Sense:  Synset('chair.n.01')
+Overlap: ['swivelled', 'sit', 'guests', 'seated', 'seated']
+Score: 9033
+Sense:  Synset('professorship.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('president.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('electric_chair.n.01')
+Overlap: ['seated']
+Score: 3947
+Sense:  Synset('chair.n.05')
+Overlap: ['sit', 'sit', 'seated']
+Score: 5935
+Sense:  Synset('chair.v.01')
+Overlap: []
+Score: 0
+Sense:  Synset('moderate.v.01')
+Overlap: []
+Score: 0
+chair.40037; predicted_sense: [9033, Synset('chair.n.01')]; correct_sense: chair-0;
+
+Accuracy: 0.6470588235294118 ; 11 / 17
+__________________________________________________________________________________
+chair.40039
+Sense:  Synset('chair.n.01')
+Overlap: ['designers']
+Score: 182
+Sense:  Synset('professorship.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('president.n.04')
+Overlap: ['head']
+Score: 1236
+Sense:  Synset('electric_chair.n.01')
+Overlap: ['designers']
+Score: 182
+Sense:  Synset('chair.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.v.01')
+Overlap: ['head', 'department']
+Score: 38215
+Sense:  Synset('moderate.v.01')
+Overlap: []
+Score: 0
+chair.40039; predicted_sense: [38215, Synset('chair.v.01')]; correct_sense: chair-0;
+
+Accuracy: 0.6111111111111112 ; 11 / 18
+__________________________________________________________________________________
+chair.40040
+Sense:  Synset('chair.n.01')
+Overlap: ['backed', 'sitting']
+Score: 67200
+Sense:  Synset('professorship.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('president.n.04')
+Overlap: ['placed']
+Score: 14791
+Sense:  Synset('electric_chair.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.n.05')
+Overlap: ['sitting', 'sitting']
+Score: 6578
+Sense:  Synset('chair.v.01')
+Overlap: []
+Score: 0
+Sense:  Synset('moderate.v.01')
+Overlap: []
+Score: 0
+chair.40040; predicted_sense: [67200, Synset('chair.n.01')]; correct_sense: chair-0;
+
+Accuracy: 0.631578947368421 ; 12 / 19
+__________________________________________________________________________________
+chair.40047
+Sense:  Synset('chair.n.01')
+Overlap: ['use', 'used']
+Score: 6337
+Sense:  Synset('professorship.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('president.n.04')
+Overlap: ['head']
+Score: 1236
+Sense:  Synset('electric_chair.n.01')
+Overlap: ['use', 'used']
+Score: 6337
+Sense:  Synset('chair.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.v.01')
+Overlap: ['head']
+Score: 1236
+Sense:  Synset('moderate.v.01')
+Overlap: []
+Score: 0
+chair.40047; predicted_sense: [6337, Synset('chair.n.01')]; correct_sense: chair-0;
+
+Accuracy: 0.65 ; 13 / 20
+__________________________________________________________________________________
+chair.40050
+Sense:  Synset('chair.n.01')
+Overlap: ['design', 'furniture']
+Score: 4582
+Sense:  Synset('professorship.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('president.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('electric_chair.n.01')
+Overlap: ['design']
+Score: 4353
+Sense:  Synset('chair.n.05')
+Overlap: ['second']
+Score: 14245
+Sense:  Synset('chair.v.01')
+Overlap: ['projects', 'years']
+Score: 295
+Sense:  Synset('moderate.v.01')
+Overlap: ['talks']
+Score: 129
+chair.40050; predicted_sense: [14245, Synset('chair.n.05')]; correct_sense: chair-0;
+
+Accuracy: 0.6190476190476191 ; 13 / 21
+__________________________________________________________________________________
+chair.40058
+Sense:  Synset('chair.n.01')
+Overlap: ['long', 'design']
+Score: 16247
+Sense:  Synset('professorship.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('president.n.04')
+Overlap: ['meet', 'meet', 'head']
+Score: 1366
+Sense:  Synset('electric_chair.n.01')
+Overlap: ['design']
+Score: 4353
+Sense:  Synset('chair.n.05')
+Overlap: ['second']
+Score: 14245
+Sense:  Synset('chair.v.01')
+Overlap: ['head']
+Score: 1236
+Sense:  Synset('moderate.v.01')
+Overlap: []
+Score: 0
+chair.40058; predicted_sense: [16247, Synset('chair.n.01')]; correct_sense: chair-0;
+
+Accuracy: 0.6363636363636364 ; 14 / 22
+__________________________________________________________________________________
+chair.40062
+Sense:  Synset('chair.n.01')
+Overlap: ['sit', 'seating', 'seating', 'legged']
+Score: 6627
+Sense:  Synset('professorship.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('president.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('electric_chair.n.01')
+Overlap: ['seating']
+Score: 672
+Sense:  Synset('chair.n.05')
+Overlap: ['sit', 'sit', 'seating']
+Score: 2660
+Sense:  Synset('chair.v.01')
+Overlap: []
+Score: 0
+Sense:  Synset('moderate.v.01')
+Overlap: []
+Score: 0
+chair.40062; predicted_sense: [6627, Synset('chair.n.01')]; correct_sense: chair-0;
+
+Accuracy: 0.6521739130434783 ; 15 / 23
+__________________________________________________________________________________
+chair.40064
+Sense:  Synset('chair.n.01')
+Overlap: ['sitting']
+Score: 3289
+Sense:  Synset('professorship.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('president.n.04')
+Overlap: ['leaders']
+Score: 46
+Sense:  Synset('electric_chair.n.01')
+Overlap: ['executed']
+Score: 0
+Sense:  Synset('chair.n.05')
+Overlap: ['sitting', 'sitting']
+Score: 6578
+Sense:  Synset('chair.v.01')
+Overlap: []
+Score: 0
+Sense:  Synset('moderate.v.01')
+Overlap: []
+Score: 0
+chair.40064; predicted_sense: [6578, Synset('chair.n.05')]; correct_sense: chair-0;
+
+Accuracy: 0.625 ; 15 / 24
+__________________________________________________________________________________
+chair.40066
+Sense:  Synset('chair.n.01')
+Overlap: ['child', 'used']
+Score: 5885
+Sense:  Synset('professorship.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('president.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('electric_chair.n.01')
+Overlap: ['used']
+Score: 5741
+Sense:  Synset('chair.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.v.01')
+Overlap: []
+Score: 0
+Sense:  Synset('moderate.v.01')
+Overlap: []
+Score: 0
+chair.40066; predicted_sense: [5885, Synset('chair.n.01')]; correct_sense: chair-0;
+
+Accuracy: 0.64 ; 16 / 25
+__________________________________________________________________________________
+chair.40068
+Sense:  Synset('chair.n.01')
+Overlap: ['sat', 'Charles']
+Score: 9029
+Sense:  Synset('professorship.n.01')
+Overlap: ['job']
+Score: 213
+Sense:  Synset('president.n.04')
+Overlap: ['head']
+Score: 1236
+Sense:  Synset('electric_chair.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.v.01')
+Overlap: ['head']
+Score: 1236
+Sense:  Synset('moderate.v.01')
+Overlap: []
+Score: 0
+chair.40068; predicted_sense: [9029, Synset('chair.n.01')]; correct_sense: chair-0;
+
+Accuracy: 0.6538461538461539 ; 17 / 26
+__________________________________________________________________________________
+chair.40071
+Sense:  Synset('chair.n.01')
+Overlap: ['mounted', 'leg', 'seat', 'seat', 'frequently', 'design', 'seats', 'seats', 'legs']
+Score: 96806
+Sense:  Synset('professorship.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('president.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('electric_chair.n.01')
+Overlap: ['seat', 'design', 'seats']
+Score: 33012
+Sense:  Synset('chair.n.05')
+Overlap: ['seat', 'seats']
+Score: 28659
+Sense:  Synset('chair.v.01')
+Overlap: []
+Score: 0
+Sense:  Synset('moderate.v.01')
+Overlap: []
+Score: 0
+chair.40071; predicted_sense: [96806, Synset('chair.n.01')]; correct_sense: chair-0;
+
+Accuracy: 0.6666666666666666 ; 18 / 27
+__________________________________________________________________________________
+chair.40072
+Sense:  Synset('chair.n.01')
+Overlap: ['sat', 'long', 'sit', 'walk']
+Score: 21604
+Sense:  Synset('professorship.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('president.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('electric_chair.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.n.05')
+Overlap: ['sit', 'sit']
+Score: 1988
+Sense:  Synset('chair.v.01')
+Overlap: []
+Score: 0
+Sense:  Synset('moderate.v.01')
+Overlap: []
+Score: 0
+chair.40072; predicted_sense: [21604, Synset('chair.n.01')]; correct_sense: chair-0;
+
+Accuracy: 0.6785714285714286 ; 19 / 28
+__________________________________________________________________________________
+chair.40075
+Sense:  Synset('chair.n.01')
+Overlap: ['long', 'sitting', 'writes']
+Score: 15251
+Sense:  Synset('professorship.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('president.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('electric_chair.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.n.05')
+Overlap: ['sitting', 'sitting']
+Score: 6578
+Sense:  Synset('chair.v.01')
+Overlap: []
+Score: 0
+Sense:  Synset('moderate.v.01')
+Overlap: []
+Score: 0
+chair.40075; predicted_sense: [15251, Synset('chair.n.01')]; correct_sense: chair-0;
+
+Accuracy: 0.6896551724137931 ; 20 / 29
+__________________________________________________________________________________
+chair.40077
+Sense:  Synset('chair.n.01')
+Overlap: ['person']
+Score: 1384
+Sense:  Synset('professorship.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('president.n.04')
+Overlap: ['head', 'essential']
+Score: 1236
+Sense:  Synset('electric_chair.n.01')
+Overlap: ['person', 'life']
+Score: 1627
+Sense:  Synset('chair.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.v.01')
+Overlap: ['head']
+Score: 1236
+Sense:  Synset('moderate.v.01')
+Overlap: []
+Score: 0
+chair.40077; predicted_sense: [1627, Synset('electric_chair.n.01')]; correct_sense: chair-0;
+
+Accuracy: 0.6666666666666666 ; 20 / 30
+__________________________________________________________________________________
+chair.40080
+Sense:  Synset('chair.n.01')
+Overlap: ['sat', 'seat', 'seat']
+Score: 46223
+Sense:  Synset('professorship.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('president.n.04')
+Overlap: ['place', 'remark']
+Score: 370
+Sense:  Synset('electric_chair.n.01')
+Overlap: ['seat']
+Score: 18785
+Sense:  Synset('chair.n.05')
+Overlap: ['dust', 'seat']
+Score: 18785
+Sense:  Synset('chair.v.01')
+Overlap: []
+Score: 0
+Sense:  Synset('moderate.v.01')
+Overlap: []
+Score: 0
+chair.40080; predicted_sense: [46223, Synset('chair.n.01')]; correct_sense: chair-0;
+
+Accuracy: 0.6774193548387096 ; 21 / 31
+__________________________________________________________________________________
+chair.40081
+Sense:  Synset('chair.n.01')
+Overlap: ['child']
+Score: 144
+Sense:  Synset('professorship.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('president.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('electric_chair.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.n.05')
+Overlap: ['particular']
+Score: 6660
+Sense:  Synset('chair.v.01')
+Overlap: []
+Score: 0
+Sense:  Synset('moderate.v.01')
+Overlap: ['discussed', 'discussed']
+Score: 182
+chair.40081; predicted_sense: [6660, Synset('chair.n.05')]; correct_sense: chair-0;
+
+Accuracy: 0.65625 ; 21 / 32
+__________________________________________________________________________________
+chair.40083
+Sense:  Synset('chair.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('professorship.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('president.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('electric_chair.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.v.01')
+Overlap: []
+Score: 0
+Sense:  Synset('moderate.v.01')
+Overlap: []
+Score: 0
+chair.40084
+Sense:  Synset('chair.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('professorship.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('president.n.04')
+Overlap: ['meeting', 'meeting']
+Score: 1444
+Sense:  Synset('electric_chair.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.n.05')
+Overlap: ['second', 'benches']
+Score: 14245
+Sense:  Synset('chair.v.01')
+Overlap: []
+Score: 0
+Sense:  Synset('moderate.v.01')
+Overlap: []
+Score: 0
+chair.40084; predicted_sense: [14245, Synset('chair.n.05')]; correct_sense: chair-0;
+
+Accuracy: 0.6176470588235294 ; 21 / 34
+__________________________________________________________________________________
+chair.40086
+Sense:  Synset('chair.n.01')
+Overlap: ['sat', 'long']
+Score: 20547
+Sense:  Synset('professorship.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('president.n.04')
+Overlap: ['head']
+Score: 1236
+Sense:  Synset('electric_chair.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.v.01')
+Overlap: ['head']
+Score: 1236
+Sense:  Synset('moderate.v.01')
+Overlap: []
+Score: 0
+chair.40086; predicted_sense: [20547, Synset('chair.n.01')]; correct_sense: chair-0;
+
+Accuracy: 0.6285714285714286 ; 22 / 35
+__________________________________________________________________________________
+chair.40087
+Sense:  Synset('chair.n.01')
+Overlap: ['person', 'legs']
+Score: 21491
+Sense:  Synset('professorship.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('president.n.04')
+Overlap: ['head', 'placed']
+Score: 16027
+Sense:  Synset('electric_chair.n.01')
+Overlap: ['person']
+Score: 1384
+Sense:  Synset('chair.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.v.01')
+Overlap: ['head']
+Score: 1236
+Sense:  Synset('moderate.v.01')
+Overlap: []
+Score: 0
+chair.40087; predicted_sense: [21491, Synset('chair.n.01')]; correct_sense: chair-0;
+
+Accuracy: 0.6388888888888888 ; 23 / 36
+__________________________________________________________________________________
+chair.40090
+Sense:  Synset('chair.n.01')
+Overlap: ['shape', 'person', 'used', 'legs']
+Score: 27638
+Sense:  Synset('professorship.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('president.n.04')
+Overlap: ['head', 'place', 'placed', 'groups']
+Score: 16539
+Sense:  Synset('electric_chair.n.01')
+Overlap: ['person', 'used']
+Score: 7125
+Sense:  Synset('chair.n.05')
+Overlap: ['second']
+Score: 14245
+Sense:  Synset('chair.v.01')
+Overlap: ['head']
+Score: 1236
+Sense:  Synset('moderate.v.01')
+Overlap: []
+Score: 0
+chair.40090; predicted_sense: [27638, Synset('chair.n.01')]; correct_sense: chair-0;
+
+Accuracy: 0.6486486486486487 ; 24 / 37
+__________________________________________________________________________________
+chair.40094
+Sense:  Synset('chair.n.01')
+Overlap: ['sit', 'large']
+Score: 20758
+Sense:  Synset('professorship.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('president.n.04')
+Overlap: ['placed']
+Score: 14791
+Sense:  Synset('electric_chair.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.n.05')
+Overlap: ['sit', 'sit']
+Score: 1988
+Sense:  Synset('chair.v.01')
+Overlap: []
+Score: 0
+Sense:  Synset('moderate.v.01')
+Overlap: []
+Score: 0
+chair.40094; predicted_sense: [20758, Synset('chair.n.01')]; correct_sense: chair-0;
+
+Accuracy: 0.6578947368421053 ; 25 / 38
+__________________________________________________________________________________
+chair.40096
+Sense:  Synset('chair.n.01')
+Overlap: ['child', 'lawn']
+Score: 32144
+Sense:  Synset('professorship.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('president.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('electric_chair.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.n.05')
+Overlap: ['dusted']
+Score: 98
+Sense:  Synset('chair.v.01')
+Overlap: ['years']
+Score: 247
+Sense:  Synset('moderate.v.01')
+Overlap: []
+Score: 0
+chair.40096; predicted_sense: [32144, Synset('chair.n.01')]; correct_sense: chair-0;
+
+Accuracy: 0.6666666666666666 ; 26 / 39
+__________________________________________________________________________________
+chair.40099
+Sense:  Synset('chair.n.01')
+Overlap: ['guests', 'walked', 'seat', 'seat', 'seated', 'seated']
+Score: 45833
+Sense:  Synset('professorship.n.01')
+Overlap: ['occupied']
+Score: 4009
+Sense:  Synset('president.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('electric_chair.n.01')
+Overlap: ['seat', 'seated']
+Score: 22732
+Sense:  Synset('chair.n.05')
+Overlap: ['seat', 'seated']
+Score: 22732
+Sense:  Synset('chair.v.01')
+Overlap: []
+Score: 0
+Sense:  Synset('moderate.v.01')
+Overlap: []
+Score: 0
+chair.40099; predicted_sense: [45833, Synset('chair.n.01')]; correct_sense: chair-0;
+
+Accuracy: 0.675 ; 27 / 40
+__________________________________________________________________________________
+chair.40100
+Sense:  Synset('chair.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('professorship.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('president.n.04')
+Overlap: ['head', 'place']
+Score: 1606
+Sense:  Synset('electric_chair.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.v.01')
+Overlap: ['head']
+Score: 1236
+Sense:  Synset('moderate.v.01')
+Overlap: []
+Score: 0
+chair.40100; predicted_sense: [1606, Synset('president.n.04')]; correct_sense: chair-0;
+
+Accuracy: 0.6585365853658537 ; 27 / 41
+__________________________________________________________________________________
+chair.40105
+Sense:  Synset('chair.n.01')
+Overlap: ['largely', 'furniture']
+Score: 313
+Sense:  Synset('professorship.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('president.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('electric_chair.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.v.01')
+Overlap: []
+Score: 0
+Sense:  Synset('moderate.v.01')
+Overlap: ['discuss', 'discuss']
+Score: 0
+chair.40105; predicted_sense: [313, Synset('chair.n.01')]; correct_sense: chair-0;
+
+Accuracy: 0.6666666666666666 ; 28 / 42
+__________________________________________________________________________________
+chair.40108
+Sense:  Synset('chair.n.01')
+Overlap: ['arm', 'arm', 'sat']
+Score: 101211
+Sense:  Synset('professorship.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('president.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('electric_chair.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.v.01')
+Overlap: []
+Score: 0
+Sense:  Synset('moderate.v.01')
+Overlap: []
+Score: 0
+chair.40108; predicted_sense: [101211, Synset('chair.n.01')]; correct_sense: chair-0;
+
+Accuracy: 0.6744186046511628 ; 29 / 43
+__________________________________________________________________________________
+chair.40111
+Sense:  Synset('chair.n.01')
+Overlap: ['sat', 'long', 'sitting', 'young']
+Score: 23990
+Sense:  Synset('professorship.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('president.n.04')
+Overlap: ['head']
+Score: 1236
+Sense:  Synset('electric_chair.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.n.05')
+Overlap: ['sitting', 'sitting']
+Score: 6578
+Sense:  Synset('chair.v.01')
+Overlap: ['head']
+Score: 1236
+Sense:  Synset('moderate.v.01')
+Overlap: ['speak']
+Score: 42
+chair.40111; predicted_sense: [23990, Synset('chair.n.01')]; correct_sense: chair-0;
+
+Accuracy: 0.6818181818181818 ; 30 / 44
+__________________________________________________________________________________
+chair.40112
+Sense:  Synset('chair.n.01')
+Overlap: ['origin', 'furniture', 'arms', 'arms']
+Score: 22349
+Sense:  Synset('professorship.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('president.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('electric_chair.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.v.01')
+Overlap: []
+Score: 0
+Sense:  Synset('moderate.v.01')
+Overlap: []
+Score: 0
+chair.40112; predicted_sense: [22349, Synset('chair.n.01')]; correct_sense: chair-0;
+
+Accuracy: 0.6888888888888889 ; 31 / 45
+__________________________________________________________________________________
+chair.40114
+Sense:  Synset('chair.n.01')
+Overlap: ['person', 'sit', 'used']
+Score: 8119
+Sense:  Synset('professorship.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('president.n.04')
+Overlap: ['served']
+Score: 531
+Sense:  Synset('electric_chair.n.01')
+Overlap: ['person', 'used', 'sentence']
+Score: 7125
+Sense:  Synset('chair.n.05')
+Overlap: ['sit', 'sit']
+Score: 1988
+Sense:  Synset('chair.v.01')
+Overlap: []
+Score: 0
+Sense:  Synset('moderate.v.01')
+Overlap: []
+Score: 0
+chair.40114; predicted_sense: [8119, Synset('chair.n.01')]; correct_sense: chair-0;
+
+Accuracy: 0.6956521739130435 ; 32 / 46
+__________________________________________________________________________________
+chair.40115
+Sense:  Synset('chair.n.01')
+Overlap: ['sitting', 'leg', 'arm', 'arm', 'sit', 'used', 'walk']
+Score: 116259
+Sense:  Synset('professorship.n.01')
+Overlap: ['position']
+Score: 5953
+Sense:  Synset('president.n.04')
+Overlap: ['head']
+Score: 1236
+Sense:  Synset('electric_chair.n.01')
+Overlap: ['used']
+Score: 5741
+Sense:  Synset('chair.n.05')
+Overlap: ['sitting', 'sitting', 'sit', 'sit']
+Score: 8566
+Sense:  Synset('chair.v.01')
+Overlap: ['head']
+Score: 1236
+Sense:  Synset('moderate.v.01')
+Overlap: []
+Score: 0
+chair.40115; predicted_sense: [116259, Synset('chair.n.01')]; correct_sense: chair-0;
+
+Accuracy: 0.7021276595744681 ; 33 / 47
+__________________________________________________________________________________
+chair.40117
+Sense:  Synset('chair.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('professorship.n.01')
+Overlap: ['job']
+Score: 213
+Sense:  Synset('president.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('electric_chair.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.v.01')
+Overlap: []
+Score: 0
+Sense:  Synset('moderate.v.01')
+Overlap: []
+Score: 0
+chair.40117; predicted_sense: [213, Synset('professorship.n.01')]; correct_sense: chair-0;
+
+Accuracy: 0.6875 ; 33 / 48
+__________________________________________________________________________________
+chair.40120
+Sense:  Synset('chair.n.01')
+Overlap: ['long', 'leg', 'walked', 'seat', 'seat']
+Score: 63447
+Sense:  Synset('professorship.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('president.n.04')
+Overlap: ['groups']
+Score: 142
+Sense:  Synset('electric_chair.n.01')
+Overlap: ['seat']
+Score: 18785
+Sense:  Synset('chair.n.05')
+Overlap: ['seat']
+Score: 18785
+Sense:  Synset('chair.v.01')
+Overlap: []
+Score: 0
+Sense:  Synset('moderate.v.01')
+Overlap: []
+Score: 0
+chair.40120; predicted_sense: [63447, Synset('chair.n.01')]; correct_sense: chair-0;
+
+Accuracy: 0.6938775510204082 ; 34 / 49
+__________________________________________________________________________________
+chair.40121
+Sense:  Synset('chair.n.01')
+Overlap: ['support', 'sitting', 'use']
+Score: 4655
+Sense:  Synset('professorship.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('president.n.04')
+Overlap: ['head']
+Score: 1236
+Sense:  Synset('electric_chair.n.01')
+Overlap: ['use']
+Score: 596
+Sense:  Synset('chair.n.05')
+Overlap: ['support', 'sitting', 'sitting']
+Score: 7348
+Sense:  Synset('chair.v.01')
+Overlap: ['head']
+Score: 1236
+Sense:  Synset('moderate.v.01')
+Overlap: []
+Score: 0
+chair.40121; predicted_sense: [7348, Synset('chair.n.05')]; correct_sense: chair-0;
+
+Accuracy: 0.68 ; 34 / 50
+__________________________________________________________________________________
+chair.40124
+Sense:  Synset('chair.n.01')
+Overlap: ['sat', 'guests']
+Score: 8653
+Sense:  Synset('professorship.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('president.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('electric_chair.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.n.05')
+Overlap: ['benches']
+Score: 0
+Sense:  Synset('chair.v.01')
+Overlap: []
+Score: 0
+Sense:  Synset('moderate.v.01')
+Overlap: []
+Score: 0
+chair.40124; predicted_sense: [8653, Synset('chair.n.01')]; correct_sense: chair-0;
+
+Accuracy: 0.6862745098039216 ; 35 / 51
+__________________________________________________________________________________
+chair.40125
+Sense:  Synset('chair.n.01')
+Overlap: ['young', 'large']
+Score: 19918
+Sense:  Synset('professorship.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('president.n.04')
+Overlap: ['placed']
+Score: 14791
+Sense:  Synset('electric_chair.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.v.01')
+Overlap: []
+Score: 0
+Sense:  Synset('moderate.v.01')
+Overlap: ['speaks']
+Score: 226
+chair.40125; predicted_sense: [19918, Synset('chair.n.01')]; correct_sense: chair-0;
+
+Accuracy: 0.6923076923076923 ; 36 / 52
+__________________________________________________________________________________
+chair.40128
+Sense:  Synset('chair.n.01')
+Overlap: ['left', 'legs', 'arms', 'arms']
+Score: 46510
+Sense:  Synset('professorship.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('president.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('electric_chair.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.v.01')
+Overlap: []
+Score: 0
+Sense:  Synset('moderate.v.01')
+Overlap: []
+Score: 0
+chair.40128; predicted_sense: [46510, Synset('chair.n.01')]; correct_sense: chair-0;
+
+Accuracy: 0.6981132075471698 ; 37 / 53
+__________________________________________________________________________________
+chair.40129
+Sense:  Synset('chair.n.01')
+Overlap: ['long', 'body', 'arms', 'arms']
+Score: 34213
+Sense:  Synset('professorship.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('president.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('electric_chair.n.01')
+Overlap: ['life', 'murdered']
+Score: 243
+Sense:  Synset('chair.n.05')
+Overlap: ['seconds']
+Score: 0
+Sense:  Synset('chair.v.01')
+Overlap: []
+Score: 0
+Sense:  Synset('moderate.v.01')
+Overlap: []
+Score: 0
+chair.40129; predicted_sense: [34213, Synset('chair.n.01')]; correct_sense: chair-0;
+
+Accuracy: 0.7037037037037037 ; 38 / 54
+__________________________________________________________________________________
+chair.40131
+Sense:  Synset('chair.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('professorship.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('president.n.04')
+Overlap: ['head']
+Score: 1236
+Sense:  Synset('electric_chair.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.v.01')
+Overlap: ['head']
+Score: 1236
+Sense:  Synset('moderate.v.01')
+Overlap: []
+Score: 0
+chair.40131; predicted_sense: [1236, Synset('president.n.04')]; correct_sense: chair-0;
+
+Accuracy: 0.6909090909090909 ; 38 / 55
+__________________________________________________________________________________
+chair.40132
+Sense:  Synset('chair.n.01')
+Overlap: ['sit']
+Score: 994
+Sense:  Synset('professorship.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('president.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('electric_chair.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.n.05')
+Overlap: ['sit', 'sit']
+Score: 1988
+Sense:  Synset('chair.v.01')
+Overlap: []
+Score: 0
+Sense:  Synset('moderate.v.01')
+Overlap: []
+Score: 0
+chair.40132; predicted_sense: [1988, Synset('chair.n.05')]; correct_sense: chair-0;
+
+Accuracy: 0.6785714285714286 ; 38 / 56
+__________________________________________________________________________________
+chair.40135
+Sense:  Synset('chair.n.01')
+Overlap: ['outside', 'straight', 'sit', 'seat', 'seat']
+Score: 69268
+Sense:  Synset('professorship.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('president.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('electric_chair.n.01')
+Overlap: ['seat']
+Score: 18785
+Sense:  Synset('chair.n.05')
+Overlap: ['sit', 'sit', 'seat']
+Score: 20773
+Sense:  Synset('chair.v.01')
+Overlap: []
+Score: 0
+Sense:  Synset('moderate.v.01')
+Overlap: []
+Score: 0
+chair.40135; predicted_sense: [69268, Synset('chair.n.01')]; correct_sense: chair-0;
+
+Accuracy: 0.6842105263157895 ; 39 / 57
+__________________________________________________________________________________
+chair.40136
+Sense:  Synset('chair.n.01')
+Overlap: ['fitness', 'body', 'large']
+Score: 19963
+Sense:  Synset('professorship.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('president.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('electric_chair.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.v.01')
+Overlap: []
+Score: 0
+Sense:  Synset('moderate.v.01')
+Overlap: ['household']
+Score: 99
+chair.40136; predicted_sense: [19963, Synset('chair.n.01')]; correct_sense: chair-0;
+
+Accuracy: 0.6896551724137931 ; 40 / 58
+__________________________________________________________________________________
+chair.40139
+Sense:  Synset('chair.n.01')
+Overlap: ['large']
+Score: 19764
+Sense:  Synset('professorship.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('president.n.04')
+Overlap: ['place']
+Score: 370
+Sense:  Synset('electric_chair.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.v.01')
+Overlap: []
+Score: 0
+Sense:  Synset('moderate.v.01')
+Overlap: []
+Score: 0
+chair.40139; predicted_sense: [19764, Synset('chair.n.01')]; correct_sense: chair-0;
+
+Accuracy: 0.6949152542372882 ; 41 / 59
+__________________________________________________________________________________
+chair.40142
+Sense:  Synset('chair.n.01')
+Overlap: ['powerful', 'walked', 'seated', 'seated', 'legs']
+Score: 28955
+Sense:  Synset('professorship.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('president.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('electric_chair.n.01')
+Overlap: ['seated']
+Score: 3947
+Sense:  Synset('chair.n.05')
+Overlap: ['seated']
+Score: 3947
+Sense:  Synset('chair.v.01')
+Overlap: []
+Score: 0
+Sense:  Synset('moderate.v.01')
+Overlap: []
+Score: 0
+chair.40142; predicted_sense: [28955, Synset('chair.n.01')]; correct_sense: chair-0;
+
+Accuracy: 0.7 ; 42 / 60
+__________________________________________________________________________________
+chair.40143
+Sense:  Synset('chair.n.01')
+Overlap: ['sitting', 'left']
+Score: 7572
+Sense:  Synset('professorship.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('president.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('electric_chair.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.n.05')
+Overlap: ['sitting', 'sitting']
+Score: 6578
+Sense:  Synset('chair.v.01')
+Overlap: []
+Score: 0
+Sense:  Synset('moderate.v.01')
+Overlap: []
+Score: 0
+chair.40143; predicted_sense: [7572, Synset('chair.n.01')]; correct_sense: chair-0;
+
+Accuracy: 0.7049180327868853 ; 43 / 61
+__________________________________________________________________________________
+chair.40146
+Sense:  Synset('chair.n.01')
+Overlap: ['fighting', 'walked', 'large']
+Score: 22963
+Sense:  Synset('professorship.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('president.n.04')
+Overlap: ['office', 'head']
+Score: 29923
+Sense:  Synset('electric_chair.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.v.01')
+Overlap: ['head']
+Score: 1236
+Sense:  Synset('moderate.v.01')
+Overlap: []
+Score: 0
+chair.40146; predicted_sense: [29923, Synset('president.n.04')]; correct_sense: chair-0;
+
+Accuracy: 0.6935483870967742 ; 43 / 62
+__________________________________________________________________________________
+chair.40147
+Sense:  Synset('chair.n.01')
+Overlap: ['writing', 'left', 'use']
+Score: 7009
+Sense:  Synset('professorship.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('president.n.04')
+Overlap: ['headed', 'head']
+Score: 1410
+Sense:  Synset('electric_chair.n.01')
+Overlap: ['murder', 'use']
+Score: 596
+Sense:  Synset('chair.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.v.01')
+Overlap: ['headed', 'head']
+Score: 1410
+Sense:  Synset('moderate.v.01')
+Overlap: ['John']
+Score: 1239
+chair.40147; predicted_sense: [7009, Synset('chair.n.01')]; correct_sense: chair-0;
+
+Accuracy: 0.6984126984126984 ; 44 / 63
+__________________________________________________________________________________
+chair.40149
+Sense:  Synset('chair.n.01')
+Overlap: ['long']
+Score: 11894
+Sense:  Synset('professorship.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('president.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('electric_chair.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.v.01')
+Overlap: []
+Score: 0
+Sense:  Synset('moderate.v.01')
+Overlap: []
+Score: 0
+chair.40149; predicted_sense: [11894, Synset('chair.n.01')]; correct_sense: chair-0;
+
+Accuracy: 0.703125 ; 45 / 64
+__________________________________________________________________________________
+chair.40150
+Sense:  Synset('chair.n.01')
+Overlap: ['seats', 'seats']
+Score: 19748
+Sense:  Synset('professorship.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('president.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('electric_chair.n.01')
+Overlap: ['executive', 'seats']
+Score: 23980
+Sense:  Synset('chair.n.05')
+Overlap: ['seats']
+Score: 9874
+Sense:  Synset('chair.v.01')
+Overlap: []
+Score: 0
+Sense:  Synset('moderate.v.01')
+Overlap: []
+Score: 0
+chair.40150; predicted_sense: [23980, Synset('electric_chair.n.01')]; correct_sense: chair-0;
+
+Accuracy: 0.6923076923076923 ; 45 / 65
+__________________________________________________________________________________
+chair.40152
+Sense:  Synset('chair.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('professorship.n.01')
+Overlap: ['occupy']
+Score: 100
+Sense:  Synset('president.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('electric_chair.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.v.01')
+Overlap: []
+Score: 0
+Sense:  Synset('moderate.v.01')
+Overlap: []
+Score: 0
+chair.40152; predicted_sense: [100, Synset('professorship.n.01')]; correct_sense: chair-0;
+
+Accuracy: 0.6818181818181818 ; 45 / 66
+__________________________________________________________________________________
+chair.40153
+Sense:  Synset('chair.n.01')
+Overlap: ['young']
+Score: 154
+Sense:  Synset('professorship.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('president.n.04')
+Overlap: ['office', 'head']
+Score: 29923
+Sense:  Synset('electric_chair.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.v.01')
+Overlap: ['head']
+Score: 1236
+Sense:  Synset('moderate.v.01')
+Overlap: []
+Score: 0
+chair.40153; predicted_sense: [29923, Synset('president.n.04')]; correct_sense: chair-0;
+
+Accuracy: 0.6716417910447762 ; 45 / 67
+__________________________________________________________________________________
+chair.40155
+Sense:  Synset('chair.n.01')
+Overlap: ['walking', 'useful', 'furniture']
+Score: 632
+Sense:  Synset('professorship.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('president.n.04')
+Overlap: ['place']
+Score: 370
+Sense:  Synset('electric_chair.n.01')
+Overlap: ['useful']
+Score: 100
+Sense:  Synset('chair.n.05')
+Overlap: ['particular']
+Score: 6660
+Sense:  Synset('chair.v.01')
+Overlap: []
+Score: 0
+Sense:  Synset('moderate.v.01')
+Overlap: []
+Score: 0
+chair.40155; predicted_sense: [6660, Synset('chair.n.05')]; correct_sense: chair-0;
+
+Accuracy: 0.6617647058823529 ; 45 / 68
+__________________________________________________________________________________
+chair.40156
+Sense:  Synset('chair.n.01')
+Overlap: ['sit']
+Score: 994
+Sense:  Synset('professorship.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('president.n.04')
+Overlap: ['place']
+Score: 370
+Sense:  Synset('electric_chair.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.n.05')
+Overlap: ['sit', 'sit']
+Score: 1988
+Sense:  Synset('chair.v.01')
+Overlap: []
+Score: 0
+Sense:  Synset('moderate.v.01')
+Overlap: []
+Score: 0
+chair.40156; predicted_sense: [1988, Synset('chair.n.05')]; correct_sense: chair-0;
+
+Accuracy: 0.6521739130434783 ; 45 / 69
+__________________________________________________________________________________
+chair.40158
+Sense:  Synset('chair.n.01')
+Overlap: ['sat', 'writing', 'fight']
+Score: 10783
+Sense:  Synset('professorship.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('president.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('electric_chair.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.v.01')
+Overlap: []
+Score: 0
+Sense:  Synset('moderate.v.01')
+Overlap: []
+Score: 0
+chair.40158; predicted_sense: [10783, Synset('chair.n.01')]; correct_sense: chair-0;
+
+Accuracy: 0.6571428571428571 ; 46 / 70
+__________________________________________________________________________________
+chair.40159
+Sense:  Synset('chair.n.01')
+Overlap: ['flat', 'left', 'legs', 'used']
+Score: 30488
+Sense:  Synset('professorship.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('president.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('electric_chair.n.01')
+Overlap: ['used']
+Score: 5741
+Sense:  Synset('chair.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.v.01')
+Overlap: []
+Score: 0
+Sense:  Synset('moderate.v.01')
+Overlap: []
+Score: 0
+chair.40159; predicted_sense: [30488, Synset('chair.n.01')]; correct_sense: chair-0;
+
+Accuracy: 0.6619718309859155 ; 47 / 71
+__________________________________________________________________________________
+chair.40161
+Sense:  Synset('chair.n.01')
+Overlap: ['left']
+Score: 4283
+Sense:  Synset('professorship.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('president.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('electric_chair.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.v.01')
+Overlap: []
+Score: 0
+Sense:  Synset('moderate.v.01')
+Overlap: []
+Score: 0
+chair.40161; predicted_sense: [4283, Synset('chair.n.01')]; correct_sense: chair-0;
+
+Accuracy: 0.6666666666666666 ; 48 / 72
+__________________________________________________________________________________
+chair.40162
+Sense:  Synset('chair.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('professorship.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('president.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('electric_chair.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.v.01')
+Overlap: ['year']
+Score: 170
+Sense:  Synset('moderate.v.01')
+Overlap: []
+Score: 0
+chair.40162; predicted_sense: [170, Synset('chair.v.01')]; correct_sense: chair-0;
+
+Accuracy: 0.6575342465753424 ; 48 / 73
+__________________________________________________________________________________
+chair.40165
+Sense:  Synset('chair.n.01')
+Overlap: ['outside']
+Score: 10020
+Sense:  Synset('professorship.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('president.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('electric_chair.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.v.01')
+Overlap: []
+Score: 0
+Sense:  Synset('moderate.v.01')
+Overlap: []
+Score: 0
+chair.40165; predicted_sense: [10020, Synset('chair.n.01')]; correct_sense: chair-0;
+
+Accuracy: 0.6621621621621622 ; 49 / 74
+__________________________________________________________________________________
+chair.40166
+Sense:  Synset('chair.n.01')
+Overlap: ['fitness']
+Score: 0
+Sense:  Synset('professorship.n.01')
+Overlap: ['POST', 'Post']
+Score: 0
+Sense:  Synset('president.n.04')
+Overlap: ['head']
+Score: 1236
+Sense:  Synset('electric_chair.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.v.01')
+Overlap: ['head']
+Score: 1236
+Sense:  Synset('moderate.v.01')
+Overlap: []
+Score: 0
+chair.40166; predicted_sense: [1236, Synset('president.n.04')]; correct_sense: chair-0;
+
+Accuracy: 0.6533333333333333 ; 49 / 75
+__________________________________________________________________________________
+chair.40169
+Sense:  Synset('chair.n.01')
+Overlap: ['sat', 'long', 'designer', 'fittings', 'seats', 'seats']
+Score: 40668
+Sense:  Synset('professorship.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('president.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('electric_chair.n.01')
+Overlap: ['designer', 'seats']
+Score: 10247
+Sense:  Synset('chair.n.05')
+Overlap: ['seats']
+Score: 9874
+Sense:  Synset('chair.v.01')
+Overlap: ['years']
+Score: 247
+Sense:  Synset('moderate.v.01')
+Overlap: []
+Score: 0
+chair.40169; predicted_sense: [40668, Synset('chair.n.01')]; correct_sense: chair-0;
+
+Accuracy: 0.6578947368421053 ; 50 / 76
+__________________________________________________________________________________
+chair.40171
+Sense:  Synset('chair.n.01')
+Overlap: ['personal', 'walked']
+Score: 2420
+Sense:  Synset('professorship.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('president.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('electric_chair.n.01')
+Overlap: ['personal']
+Score: 2051
+Sense:  Synset('chair.n.05')
+Overlap: ['second']
+Score: 14245
+Sense:  Synset('chair.v.01')
+Overlap: []
+Score: 0
+Sense:  Synset('moderate.v.01')
+Overlap: []
+Score: 0
+chair.40171; predicted_sense: [14245, Synset('chair.n.05')]; correct_sense: chair-0;
+
+Accuracy: 0.6493506493506493 ; 50 / 77
+__________________________________________________________________________________
+chair.40174
+Sense:  Synset('chair.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('professorship.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('president.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('electric_chair.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.v.01')
+Overlap: ['years']
+Score: 247
+Sense:  Synset('moderate.v.01')
+Overlap: ['talks']
+Score: 129
+chair.40174; predicted_sense: [247, Synset('chair.v.01')]; correct_sense: chair-0;
+
+Accuracy: 0.6410256410256411 ; 50 / 78
+__________________________________________________________________________________
+chair.40175
+Sense:  Synset('chair.n.01')
+Overlap: ['used']
+Score: 5741
+Sense:  Synset('professorship.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('president.n.04')
+Overlap: ['place']
+Score: 370
+Sense:  Synset('electric_chair.n.01')
+Overlap: ['used']
+Score: 5741
+Sense:  Synset('chair.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.v.01')
+Overlap: ['year']
+Score: 170
+Sense:  Synset('moderate.v.01')
+Overlap: []
+Score: 0
+chair.40175; predicted_sense: [5741, Synset('chair.n.01')]; correct_sense: chair-0;
+
+Accuracy: 0.6455696202531646 ; 51 / 79
+__________________________________________________________________________________
+chair.40178
+Sense:  Synset('chair.n.01')
+Overlap: ['arm', 'arm', 'guests']
+Score: 92558
+Sense:  Synset('professorship.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('president.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('electric_chair.n.01')
+Overlap: ['dying']
+Score: 49
+Sense:  Synset('chair.n.05')
+Overlap: ['seconds']
+Score: 0
+Sense:  Synset('chair.v.01')
+Overlap: []
+Score: 0
+Sense:  Synset('moderate.v.01')
+Overlap: []
+Score: 0
+chair.40178; predicted_sense: [92558, Synset('chair.n.01')]; correct_sense: chair-0;
+
+Accuracy: 0.65 ; 52 / 80
+__________________________________________________________________________________
+chair.40182
+Sense:  Synset('chair.n.01')
+Overlap: ['fix', 'long', 'body']
+Score: 12093
+Sense:  Synset('professorship.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('president.n.04')
+Overlap: ['served']
+Score: 531
+Sense:  Synset('electric_chair.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.v.01')
+Overlap: []
+Score: 0
+Sense:  Synset('moderate.v.01')
+Overlap: []
+Score: 0
+chair.40182; predicted_sense: [12093, Synset('chair.n.01')]; correct_sense: chair-0;
+
+Accuracy: 0.654320987654321 ; 53 / 81
+__________________________________________________________________________________
+chair.40184
+Sense:  Synset('chair.n.01')
+Overlap: ['seated', 'seated', 'legs']
+Score: 28001
+Sense:  Synset('professorship.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('president.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('electric_chair.n.01')
+Overlap: ['seated']
+Score: 3947
+Sense:  Synset('chair.n.05')
+Overlap: ['seated']
+Score: 3947
+Sense:  Synset('chair.v.01')
+Overlap: []
+Score: 0
+Sense:  Synset('moderate.v.01')
+Overlap: []
+Score: 0
+chair.40184; predicted_sense: [28001, Synset('chair.n.01')]; correct_sense: chair-0;
+
+Accuracy: 0.6585365853658537 ; 54 / 82
+__________________________________________________________________________________
+chair.40187
+Sense:  Synset('chair.n.01')
+Overlap: ['sat', 'guest']
+Score: 12015
+Sense:  Synset('professorship.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('president.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('electric_chair.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.v.01')
+Overlap: []
+Score: 0
+Sense:  Synset('moderate.v.01')
+Overlap: []
+Score: 0
+chair.40187; predicted_sense: [12015, Synset('chair.n.01')]; correct_sense: chair-0;
+
+Accuracy: 0.6626506024096386 ; 55 / 83
+__________________________________________________________________________________
+chair.40189
+Sense:  Synset('chair.n.01')
+Overlap: ['garden']
+Score: 9141
+Sense:  Synset('professorship.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('president.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('electric_chair.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.v.01')
+Overlap: ['years']
+Score: 247
+Sense:  Synset('moderate.v.01')
+Overlap: []
+Score: 0
+chair.40189; predicted_sense: [9141, Synset('chair.n.01')]; correct_sense: chair-0;
+
+Accuracy: 0.6666666666666666 ; 56 / 84
+__________________________________________________________________________________
+chair.40190
+Sense:  Synset('chair.n.01')
+Overlap: ['hooks', 'Fish', 'sit', 'hook', 'folded', 'power', 'large']
+Score: 23488
+Sense:  Synset('professorship.n.01')
+Overlap: ['job']
+Score: 213
+Sense:  Synset('president.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('electric_chair.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.n.05')
+Overlap: ['sit', 'sit']
+Score: 1988
+Sense:  Synset('chair.v.01')
+Overlap: []
+Score: 0
+Sense:  Synset('moderate.v.01')
+Overlap: []
+Score: 0
+chair.40190; predicted_sense: [23488, Synset('chair.n.01')]; correct_sense: chair-0;
+
+Accuracy: 0.6705882352941176 ; 57 / 85
+__________________________________________________________________________________
+chair.40192
+Sense:  Synset('chair.n.01')
+Overlap: ['sat', 'large']
+Score: 28417
+Sense:  Synset('professorship.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('president.n.04')
+Overlap: ['presidents', 'head']
+Score: 1305
+Sense:  Synset('electric_chair.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.v.01')
+Overlap: ['presidents', 'head']
+Score: 1305
+Sense:  Synset('moderate.v.01')
+Overlap: ['presidents']
+Score: 69
+chair.40192; predicted_sense: [28417, Synset('chair.n.01')]; correct_sense: chair-0;
+
+Accuracy: 0.6744186046511628 ; 58 / 86
+__________________________________________________________________________________
+chair.40196
+Sense:  Synset('chair.n.01')
+Overlap: ['sat', 'long']
+Score: 20547
+Sense:  Synset('professorship.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('president.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('electric_chair.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.v.01')
+Overlap: []
+Score: 0
+Sense:  Synset('moderate.v.01')
+Overlap: []
+Score: 0
+chair.40196; predicted_sense: [20547, Synset('chair.n.01')]; correct_sense: chair-0;
+
+Accuracy: 0.6781609195402298 ; 59 / 87
+__________________________________________________________________________________
+chair.40198
+Sense:  Synset('chair.n.01')
+Overlap: ['sit']
+Score: 994
+Sense:  Synset('professorship.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('president.n.04')
+Overlap: ['place']
+Score: 370
+Sense:  Synset('electric_chair.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.n.05')
+Overlap: ['sit', 'sit']
+Score: 1988
+Sense:  Synset('chair.v.01')
+Overlap: []
+Score: 0
+Sense:  Synset('moderate.v.01')
+Overlap: []
+Score: 0
+chair.40198; predicted_sense: [1988, Synset('chair.n.05')]; correct_sense: chair-0;
+
+Accuracy: 0.6704545454545454 ; 59 / 88
+__________________________________________________________________________________
+chair.40199
+Sense:  Synset('chair.n.01')
+Overlap: ['support', 'sitting', 'straight', 'body', 'sit', 'design', 'legs']
+Score: 50396
+Sense:  Synset('professorship.n.01')
+Overlap: ['organs']
+Score: 0
+Sense:  Synset('president.n.04')
+Overlap: ['organs', 'placing']
+Score: 171
+Sense:  Synset('electric_chair.n.01')
+Overlap: ['ordinary', 'design']
+Score: 9523
+Sense:  Synset('chair.n.05')
+Overlap: ['support', 'sitting', 'sitting', 'sit', 'sit']
+Score: 9336
+Sense:  Synset('chair.v.01')
+Overlap: []
+Score: 0
+Sense:  Synset('moderate.v.01')
+Overlap: []
+Score: 0
+chair.40199; predicted_sense: [50396, Synset('chair.n.01')]; correct_sense: chair-0;
+
+Accuracy: 0.6741573033707865 ; 60 / 89
+__________________________________________________________________________________
+chair.40201
+Sense:  Synset('chair.n.01')
+Overlap: ['seat', 'seat']
+Score: 37570
+Sense:  Synset('professorship.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('president.n.04')
+Overlap: ['head']
+Score: 1236
+Sense:  Synset('electric_chair.n.01')
+Overlap: ['seat']
+Score: 18785
+Sense:  Synset('chair.n.05')
+Overlap: ['seat']
+Score: 18785
+Sense:  Synset('chair.v.01')
+Overlap: ['head']
+Score: 1236
+Sense:  Synset('moderate.v.01')
+Overlap: []
+Score: 0
+chair.40201; predicted_sense: [37570, Synset('chair.n.01')]; correct_sense: chair-0;
+
+Accuracy: 0.6777777777777778 ; 61 / 90
+__________________________________________________________________________________
+chair.40202
+Sense:  Synset('chair.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('professorship.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('president.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('electric_chair.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.v.01')
+Overlap: []
+Score: 0
+Sense:  Synset('moderate.v.01')
+Overlap: []
+Score: 0
+chair.40205
+Sense:  Synset('chair.n.01')
+Overlap: ['Left']
+Score: 222
+Sense:  Synset('professorship.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('president.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('electric_chair.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.v.01')
+Overlap: []
+Score: 0
+Sense:  Synset('moderate.v.01')
+Overlap: []
+Score: 0
+chair.40205; predicted_sense: [222, Synset('chair.n.01')]; correct_sense: chair-0;
+
+Accuracy: 0.6739130434782609 ; 62 / 92
+__________________________________________________________________________________
+chair.40208
+Sense:  Synset('chair.n.01')
+Overlap: ['long', 'walk']
+Score: 11957
+Sense:  Synset('professorship.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('president.n.04')
+Overlap: ['placed']
+Score: 14791
+Sense:  Synset('electric_chair.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.v.01')
+Overlap: []
+Score: 0
+Sense:  Synset('moderate.v.01')
+Overlap: ['speak']
+Score: 42
+chair.40208; predicted_sense: [14791, Synset('president.n.04')]; correct_sense: chair-0;
+
+Accuracy: 0.6666666666666666 ; 62 / 93
+__________________________________________________________________________________
+chair.40210
+Sense:  Synset('chair.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('professorship.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('president.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('electric_chair.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.v.01')
+Overlap: []
+Score: 0
+Sense:  Synset('moderate.v.01')
+Overlap: ['discussed', 'discussed']
+Score: 182
+chair.40210; predicted_sense: [182, Synset('moderate.v.01')]; correct_sense: chair-0;
+
+Accuracy: 0.6595744680851063 ; 62 / 94
+__________________________________________________________________________________
+chair.40211
+Sense:  Synset('chair.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('professorship.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('president.n.04')
+Overlap: ['office']
+Score: 28687
+Sense:  Synset('electric_chair.n.01')
+Overlap: ['ordinary']
+Score: 5170
+Sense:  Synset('chair.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.v.01')
+Overlap: []
+Score: 0
+Sense:  Synset('moderate.v.01')
+Overlap: []
+Score: 0
+chair.40211; predicted_sense: [28687, Synset('president.n.04')]; correct_sense: chair-0;
+
+Accuracy: 0.6526315789473685 ; 62 / 95
+__________________________________________________________________________________
+chair.40213
+Sense:  Synset('chair.n.01')
+Overlap: ['detached', 'walks', 'guest', 'garden', 'fishing']
+Score: 13324
+Sense:  Synset('professorship.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('president.n.04')
+Overlap: ['head']
+Score: 1236
+Sense:  Synset('electric_chair.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.v.01')
+Overlap: ['head']
+Score: 1236
+Sense:  Synset('moderate.v.01')
+Overlap: []
+Score: 0
+chair.40213; predicted_sense: [13324, Synset('chair.n.01')]; correct_sense: chair-0;
+
+Accuracy: 0.65625 ; 63 / 96
+__________________________________________________________________________________
+chair.40214
+Sense:  Synset('chair.n.01')
+Overlap: ['mounted', 'designs', 'furniture']
+Score: 3498
+Sense:  Synset('professorship.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('president.n.04')
+Overlap: ['head']
+Score: 1236
+Sense:  Synset('electric_chair.n.01')
+Overlap: ['designs']
+Score: 2155
+Sense:  Synset('chair.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.v.01')
+Overlap: ['head']
+Score: 1236
+Sense:  Synset('moderate.v.01')
+Overlap: []
+Score: 0
+chair.40214; predicted_sense: [3498, Synset('chair.n.01')]; correct_sense: chair-0;
+
+Accuracy: 0.6597938144329897 ; 64 / 97
+__________________________________________________________________________________
+chair.40216
+Sense:  Synset('chair.n.01')
+Overlap: ['child']
+Score: 144
+Sense:  Synset('professorship.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('president.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('electric_chair.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.v.01')
+Overlap: []
+Score: 0
+Sense:  Synset('moderate.v.01')
+Overlap: []
+Score: 0
+chair.40216; predicted_sense: [144, Synset('chair.n.01')]; correct_sense: chair-0;
+
+Accuracy: 0.6632653061224489 ; 65 / 98
+__________________________________________________________________________________
+chair.40220
+Sense:  Synset('chair.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('professorship.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('president.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('electric_chair.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.v.01')
+Overlap: []
+Score: 0
+Sense:  Synset('moderate.v.01')
+Overlap: []
+Score: 0
+chair.40221
+Sense:  Synset('chair.n.01')
+Overlap: ['supported', 'sat', 'seats', 'seats']
+Score: 29425
+Sense:  Synset('professorship.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('president.n.04')
+Overlap: ['meeting', 'meeting']
+Score: 1444
+Sense:  Synset('electric_chair.n.01')
+Overlap: ['seats']
+Score: 9874
+Sense:  Synset('chair.n.05')
+Overlap: ['supported', 'second', 'seats']
+Score: 25143
+Sense:  Synset('chair.v.01')
+Overlap: []
+Score: 0
+Sense:  Synset('moderate.v.01')
+Overlap: []
+Score: 0
+chair.40221; predicted_sense: [29425, Synset('chair.n.01')]; correct_sense: chair-0;
+
+Accuracy: 0.66 ; 66 / 100
+__________________________________________________________________________________
+chair.40224
+Sense:  Synset('chair.n.01')
+Overlap: ['designs', 'long', 'designer', 'useful', 'personally', 'sit', 'frequently', 'fit', 'furniture']
+Score: 16842
+Sense:  Synset('professorship.n.01')
+Overlap: ['positive']
+Score: 0
+Sense:  Synset('president.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('electric_chair.n.01')
+Overlap: ['designs', 'designer', 'useful', 'personally']
+Score: 2801
+Sense:  Synset('chair.n.05')
+Overlap: ['sit', 'sit']
+Score: 1988
+Sense:  Synset('chair.v.01')
+Overlap: ['project']
+Score: 295
+Sense:  Synset('moderate.v.01')
+Overlap: ['Talking', 'talking']
+Score: 1781
+chair.40224; predicted_sense: [16842, Synset('chair.n.01')]; correct_sense: chair-0;
+
+Accuracy: 0.6633663366336634 ; 67 / 101
+__________________________________________________________________________________
+chair.40226
+Sense:  Synset('chair.n.01')
+Overlap: ['support', 'useful', 'storage', 'adjustable', 'use', 'used', 'fit', 'furniture']
+Score: 10567
+Sense:  Synset('professorship.n.01')
+Overlap: ['position']
+Score: 5953
+Sense:  Synset('president.n.04')
+Overlap: ['place', 'placed']
+Score: 15161
+Sense:  Synset('electric_chair.n.01')
+Overlap: ['useful', 'use', 'used']
+Score: 6437
+Sense:  Synset('chair.n.05')
+Overlap: ['support', 'especially']
+Score: 1277
+Sense:  Synset('chair.v.01')
+Overlap: []
+Score: 0
+Sense:  Synset('moderate.v.01')
+Overlap: []
+Score: 0
+chair.40226; predicted_sense: [15161, Synset('president.n.04')]; correct_sense: chair-0;
+
+Accuracy: 0.6568627450980392 ; 67 / 102
+__________________________________________________________________________________
+chair.40227
+Sense:  Synset('chair.n.01')
+Overlap: ['left', 'furniture']
+Score: 4512
+Sense:  Synset('professorship.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('president.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('electric_chair.n.01')
+Overlap: ['life']
+Score: 243
+Sense:  Synset('chair.n.05')
+Overlap: ['particular']
+Score: 6660
+Sense:  Synset('chair.v.01')
+Overlap: ['years']
+Score: 247
+Sense:  Synset('moderate.v.01')
+Overlap: []
+Score: 0
+chair.40227; predicted_sense: [6660, Synset('chair.n.05')]; correct_sense: chair-0;
+
+Accuracy: 0.6504854368932039 ; 67 / 103
+__________________________________________________________________________________
+chair.30002
+Sense:  Synset('chair.n.01')
+Overlap: ['Swiveling']
+Score: 0
+Sense:  Synset('professorship.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('president.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('electric_chair.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.v.01')
+Overlap: []
+Score: 0
+Sense:  Synset('moderate.v.01')
+Overlap: []
+Score: 0
+chair.30004
+Sense:  Synset('chair.n.01')
+Overlap: ['leg', 'base']
+Score: 14339
+Sense:  Synset('professorship.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('president.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('electric_chair.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.v.01')
+Overlap: []
+Score: 0
+Sense:  Synset('moderate.v.01')
+Overlap: []
+Score: 0
+chair.30004; predicted_sense: [14339, Synset('chair.n.01')]; correct_sense: chair-0;
+
+Accuracy: 0.6476190476190476 ; 68 / 105
+__________________________________________________________________________________
+chair.30005
+Sense:  Synset('chair.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('professorship.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('president.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('electric_chair.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.v.01')
+Overlap: ['year', 'years']
+Score: 417
+Sense:  Synset('moderate.v.01')
+Overlap: []
+Score: 0
+chair.30005; predicted_sense: [417, Synset('chair.v.01')]; correct_sense: chair-0;
+
+Accuracy: 0.6415094339622641 ; 68 / 106
+__________________________________________________________________________________
+chair.30008
+Sense:  Synset('chair.n.01')
+Overlap: ['recliner', 'seated', 'seated', 'supports', 'Sitting', 'Customers']
+Score: 12153
+Sense:  Synset('professorship.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('president.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('electric_chair.n.01')
+Overlap: ['seated']
+Score: 3947
+Sense:  Synset('chair.n.05')
+Overlap: ['seated', 'supports', 'Sitting', 'Sitting']
+Score: 4749
+Sense:  Synset('chair.v.01')
+Overlap: ['years']
+Score: 247
+Sense:  Synset('moderate.v.01')
+Overlap: []
+Score: 0
+chair.30008; predicted_sense: [12153, Synset('chair.n.01')]; correct_sense: chair-0;
+
+Accuracy: 0.6448598130841121 ; 69 / 107
+__________________________________________________________________________________
+chair.30009
+Sense:  Synset('chair.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('professorship.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('president.n.04')
+Overlap: ['president', 'officer']
+Score: 124
+Sense:  Synset('electric_chair.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.v.01')
+Overlap: ['president']
+Score: 78
+Sense:  Synset('moderate.v.01')
+Overlap: ['president']
+Score: 78
+chair.30009; predicted_sense: [124, Synset('president.n.04')]; correct_sense: chair-0;
+
+Accuracy: 0.6388888888888888 ; 69 / 108
+__________________________________________________________________________________
+chair.30011
+Sense:  Synset('chair.n.01')
+Overlap: ['backed']
+Score: 63911
+Sense:  Synset('professorship.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('president.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('electric_chair.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.n.05')
+Overlap: ['bench']
+Score: 162
+Sense:  Synset('chair.v.01')
+Overlap: []
+Score: 0
+Sense:  Synset('moderate.v.01')
+Overlap: ['talk']
+Score: 88
+chair.30011; predicted_sense: [63911, Synset('chair.n.01')]; correct_sense: chair-0;
+
+Accuracy: 0.6422018348623854 ; 70 / 109
+__________________________________________________________________________________
+chair.30012
+Sense:  Synset('chair.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('professorship.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('president.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('electric_chair.n.01')
+Overlap: ['executives']
+Score: 0
+Sense:  Synset('chair.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('chair.v.01')
+Overlap: ['year', 'department']
+Score: 37149
+Sense:  Synset('moderate.v.01')
+Overlap: []
+Score: 0
+chair.30012; predicted_sense: [37149, Synset('chair.v.01')]; correct_sense: chair-0;
+
+Accuracy: 0.6363636363636364 ; 70 / 110
+__________________________________________________________________________________
