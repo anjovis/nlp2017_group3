@@ -204,7 +204,7 @@ if __name__ == "__main__":
                 continue
 
             # don't count words that we don't know the senses for, only 3 possible senses, see config.py
-            if correct_sense not in config.wn17_to_wikipedia:
+            if correct_sense not in config.wn17_to_wn30:
                 continue
 
             word_to_be_disambiguated = instance['context']['head']

@@ -4,7 +4,7 @@
   <corpus lang='english'>
 
 
-<lexelt item="bar.n">
+  <lexelt item="bar.n">
 
 <instance id="bar.40001" docsrc="bnc_CGC_62">
 <answer instance="bar.40001" senseid="U"/>
@@ -4287,7 +4287,7 @@ Actions) and select the Create option from the action <head>bar</head>.
 
 </lexelt>
 
-     <lexelt item="chair.n">
+  <lexelt item="chair.n">
 
 <instance id="chair.40002" docsrc="bnc_CJK_548">
 <answer instance="chair.40002" senseid="chair-0"/>
@@ -6269,7 +6269,8 @@ a closet, and a secretary escorts him past security.
 </instance>
 
 </lexelt>
-<lexelt item="day.n">
+
+  <lexelt item="day.n">
 
 <instance id="day.40002" docsrc="bnc_CGJ_861">
 <answer instance="day.40002" senseid="day-0"/>
@@ -10380,5 +10381,4 @@ action on remaining humanitarian aid.''
 
 </lexelt>
 
-
-</corpus>
+  </corpus>

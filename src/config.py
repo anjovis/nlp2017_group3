@@ -1,9 +1,8 @@
 # set up the file paths to bigram folder and senseval2-format xml test data here
 #ngram_freq_folder = 'C:/Users/anjovis/desktop/nlp2017_group3/data/letters/'
-#ngram_freq_folder = 'D:/data/letters/'
-ngram_freq_folder = 'F:/google-bigram-cooccurrence/downloads/google_ngrams/letters/'  # slash in the end required
-#xml_test_data = 'C:/Users/anjovis/Desktop/nlp2017_group3/chair.xml'
-xml_test_data = '../data/corpus_modified.xml'
+ngram_freq_folder = 'D:/data/letters/'
+#ngram_freq_folder = 'F:/google-bigram-cooccurrence/downloads/google_ngrams/letters/'  # slash in the end required
+xml_test_data = '../data/bar_chair_day.xml'
 
 # Written only once to the output file
 file_text = 'Description about the run'
