@@ -2,7 +2,7 @@
 #ngram_freq_folder = 'C:/Users/anjovis/desktop/nlp2017_group3/data/letters/'
 ngram_freq_folder = 'D:/data/letters/'
 #ngram_freq_folder = 'F:/google-bigram-cooccurrence/downloads/google_ngrams/letters/'  # slash in the end required
-xml_test_data = '../data/bar_chair_day.xml'
+xml_test_data = '../data/chair.xml'
 
 # Written only once to the output file
 file_text = 'Description about the run'
@@ -12,9 +12,9 @@ wn17_to_wn30 = {
     'bar-3': 'measure.n.07',  # bar in music, indicates time
     'bar-5': 'bar.n.07',   # a unit for pressure
     'chair-0': 'chair.n.01',  # the thing where you sit on
-    'day-0': 'day.n.01',
-    'day-1': 'day.n.05',
-    'day-3': 'day.n.02'
+    'day-0': 'day.n.01',  # time for Earth to make a complete rotation on its axis
+    'day-1': 'day.n.05',  # the recurring hours when you are not sleeping (especially those when you are working)
+    'day-3': 'day.n.02'  # some point or period in time
 }
 
 wn17_to_wikipedia = {

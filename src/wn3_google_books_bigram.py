@@ -108,7 +108,7 @@ def disambiguate_with_wordnet_google_ngram(disambiguated_word, context, verbose=
         for word in overlap:
             # get occurrences for every word with the disambiguated_word
             # divided by len(signature) not to give more weight because of a lengthy definition
-            score = score + get_word_occurrences(word, disambiguated_word, files)
+            score = score + helpers.get_word_occurrences(word, disambiguated_word, ngram_freq_folder, files)
 
         scores.append([score, sense])  # TODO generalize score
 
@@ -129,56 +129,6 @@ def disambiguate_with_wordnet_google_ngram(disambiguated_word, context, verbose=
     #print('Final sense: ', predicted_sense)
 
     return predicted_sense
-
-
-def get_word_occurrences(word1, word2, files):
-    '''
-    :param word1: either the word that is to be disambiguated or word from the overlap
-    :param word2: either the word that is to be disambiguated or word from the overlap
-    :param files: A list of strings that represent the filenames.
-    :return:
-    '''
-
-    first_two_letters = word2.lower()[:2]  # apparently every pair of letters exists
-    # search only the relevant files
-    # from 'googlebooks-eng-all-2gram-20120701-do.gz_1' to 'do'
-    word2_files = [file for file in files if file.split('-')[-1].split('.')[
-        0] == first_two_letters]  # from 'googlebooks-eng-all-2gram-20120701-do.gz_1' to do
-    # print('Files to be processed:', files)
-
-    # check "word2 word1 co-occurence"
-    cooccurrences = check_word_occurence(word1, word2, word2_files)
-
-    # check "word1 word2 co-occurence" aka. the other half of the bi-gram
-    first_two_letters = word1.lower()[:2]
-    word1_files = [file for file in files if file.split('-')[-1].split('.')[
-        0] == first_two_letters]
-
-    cooccurrences += check_word_occurence(word2, word1, word1_files)
-
-    return cooccurrences
-
-
-def check_word_occurence(word1, word2, files):
-    '''
-        Format in files: yourself_ADJ	Calm_ADJ	47
-                         word1        word2   co-occurrences
-    '''
-    cooccurrences = 0
-    for file in files:
-        #print(file)
-        with open(ngram_freq_folder + file, 'r', encoding='utf-8', errors='ignore') as f:
-
-            for line in f.readlines():
-                tokens = line.rstrip().split('\t')
-
-                if tokens[0] == word1 and tokens[1] == word2:
-                    cooccurrences = int(tokens[2])
-                    # print(word1, word2, cooccurrences)
-                    # only one instance of a word pair in a file
-                    return cooccurrences
-
-    return cooccurrences
 
 
 if __name__ == "__main__":

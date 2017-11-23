@@ -1,0 +1,7385 @@
+day.40002
+Sense:  Synset('day.n.01')
+Overlap: ['presented', 'task', 'presentation', 'period']
+Score: 482674
+Sense:  Synset('day.n.02')
+Overlap: ['years', 'period']
+Score: 468961
+Sense:  Synset('day.n.03')
+Overlap: ['September', 'display', 'years', 'years', 'national']
+Score: 84885
+Sense:  Synset('day.n.04')
+Overlap: ['years', 'period']
+Score: 468961
+Sense:  Synset('day.n.05')
+Overlap: ['period']
+Score: 461268
+Sense:  Synset('day.n.06')
+Overlap: ['period']
+Score: 461268
+Sense:  Synset('day.n.07')
+Overlap: ['years', 'period']
+Score: 468961
+Sense:  Synset('sidereal_day.n.01')
+Overlap: ['period']
+Score: 461268
+Sense:  Synset('day.n.09')
+Overlap: ['chance', 'period']
+Score: 462392
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40002; predicted_sense: [482674, Synset('day.n.01')]; correct_sense: day-0;
+
+Accuracy: 1.0 ; 1 / 1
+__________________________________________________________________________________
+day.40002
+Sense:  Synset('day.n.01')
+Overlap: ['presented', 'task', 'presentation', 'period']
+Score: 482674
+Sense:  Synset('day.n.02')
+Overlap: ['years', 'period']
+Score: 468961
+Sense:  Synset('day.n.03')
+Overlap: ['September', 'display', 'years', 'years', 'national']
+Score: 84885
+Sense:  Synset('day.n.04')
+Overlap: ['years', 'period']
+Score: 468961
+Sense:  Synset('day.n.05')
+Overlap: ['period']
+Score: 461268
+Sense:  Synset('day.n.06')
+Overlap: ['period']
+Score: 461268
+Sense:  Synset('day.n.07')
+Overlap: ['years', 'period']
+Score: 468961
+Sense:  Synset('sidereal_day.n.01')
+Overlap: ['period']
+Score: 461268
+Sense:  Synset('day.n.09')
+Overlap: ['chance', 'period']
+Score: 462392
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40002; predicted_sense: [482674, Synset('day.n.01')]; correct_sense: day-0;
+
+Accuracy: 1.0 ; 2 / 2
+__________________________________________________________________________________
+day.40002
+Sense:  Synset('day.n.01')
+Overlap: ['presented', 'task', 'presentation', 'period']
+Score: 482674
+Sense:  Synset('day.n.02')
+Overlap: ['years', 'period']
+Score: 468961
+Sense:  Synset('day.n.03')
+Overlap: ['September', 'display', 'years', 'years', 'national']
+Score: 84885
+Sense:  Synset('day.n.04')
+Overlap: ['years', 'period']
+Score: 468961
+Sense:  Synset('day.n.05')
+Overlap: ['period']
+Score: 461268
+Sense:  Synset('day.n.06')
+Overlap: ['period']
+Score: 461268
+Sense:  Synset('day.n.07')
+Overlap: ['years', 'period']
+Score: 468961
+Sense:  Synset('sidereal_day.n.01')
+Overlap: ['period']
+Score: 461268
+Sense:  Synset('day.n.09')
+Overlap: ['chance', 'period']
+Score: 462392
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40002; predicted_sense: [482674, Synset('day.n.01')]; correct_sense: day-0;
+
+Accuracy: 1.0 ; 3 / 3
+__________________________________________________________________________________
+day.40003
+Sense:  Synset('day.n.01')
+Overlap: ['yesterday']
+Score: 35566
+Sense:  Synset('day.n.02')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.03')
+Overlap: ['people']
+Score: 43123
+Sense:  Synset('day.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: []
+Score: 0
+Sense:  Synset('sidereal_day.n.01')
+Overlap: ['means']
+Score: 16576
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40003; predicted_sense: [43123, Synset('day.n.03')]; correct_sense: day-0;
+
+Accuracy: 0.75 ; 3 / 4
+__________________________________________________________________________________
+day.40006
+Sense:  Synset('day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.02')
+Overlap: ['unusual']
+Score: 4555
+Sense:  Synset('day.n.03')
+Overlap: ['practical']
+Score: 12652
+Sense:  Synset('day.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.05')
+Overlap: ['stock', 'went']
+Score: 99903
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: []
+Score: 0
+Sense:  Synset('sidereal_day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: ['known']
+Score: 10509
+day.40006; predicted_sense: [99903, Synset('day.n.05')]; correct_sense: day-3;
+
+Accuracy: 0.6 ; 3 / 5
+__________________________________________________________________________________
+day.40011
+Sense:  Synset('day.n.01')
+Overlap: ['time']
+Score: 159957
+Sense:  Synset('day.n.02')
+Overlap: ['time', 'years', 'wait']
+Score: 173579
+Sense:  Synset('day.n.03')
+Overlap: ['holiday', 'holiday', 'years', 'years', 'people']
+Score: 86845
+Sense:  Synset('day.n.04')
+Overlap: ['turn', 'time', 'years']
+Score: 183461
+Sense:  Synset('day.n.05')
+Overlap: ['time']
+Score: 159957
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: ['time', 'years']
+Score: 167650
+Sense:  Synset('sidereal_day.n.01')
+Overlap: ['time']
+Score: 159957
+Sense:  Synset('day.n.09')
+Overlap: ['holiday']
+Score: 14168
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40011; predicted_sense: [183461, Synset('day.n.04')]; correct_sense: day-3;
+
+Accuracy: 0.5 ; 3 / 6
+__________________________________________________________________________________
+day.40014
+Sense:  Synset('day.n.01')
+Overlap: ['setting', 'performance', 'months']
+Score: 25185
+Sense:  Synset('day.n.02')
+Overlap: ['plants', 'marked']
+Score: 38071
+Sense:  Synset('day.n.03')
+Overlap: ['setting', 'plants', 'President', 'happy', 'marked', 'months', 'people']
+Score: 244121
+Sense:  Synset('day.n.04')
+Overlap: ['recovery']
+Score: 3417
+Sense:  Synset('day.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.06')
+Overlap: ['marked']
+Score: 13747
+Sense:  Synset('day.n.07')
+Overlap: ['taken', 'recovery']
+Score: 18693
+Sense:  Synset('sidereal_day.n.01')
+Overlap: ['motion']
+Score: 3946
+Sense:  Synset('day.n.09')
+Overlap: ['possible', 'chance']
+Score: 16207
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40014; predicted_sense: [244121, Synset('day.n.03')]; correct_sense: day-0;
+
+Accuracy: 0.42857142857142855 ; 3 / 7
+__________________________________________________________________________________
+day.40016
+Sense:  Synset('day.n.01')
+Overlap: ['date']
+Score: 2882
+Sense:  Synset('day.n.02')
+Overlap: ['trust', 'waited']
+Score: 4999
+Sense:  Synset('day.n.03')
+Overlap: ['midnight', 'date', 'school', 'school']
+Score: 944175
+Sense:  Synset('day.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.05')
+Overlap: ['went']
+Score: 97120
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: []
+Score: 0
+Sense:  Synset('sidereal_day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40016; predicted_sense: [944175, Synset('day.n.03')]; correct_sense: day-0;
+
+Accuracy: 0.375 ; 3 / 8
+__________________________________________________________________________________
+day.40017
+Sense:  Synset('day.n.01')
+Overlap: ['newspaper', 'newspaper', 'make', 'set', 'months']
+Score: 139222
+Sense:  Synset('day.n.02')
+Overlap: ['years']
+Score: 7693
+Sense:  Synset('day.n.03')
+Overlap: ['week', 'wedding', 'years', 'years', 'set', 'months', 'weeks']
+Score: 533539
+Sense:  Synset('day.n.04')
+Overlap: ['make', 'years', 'lights']
+Score: 60409
+Sense:  Synset('day.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: ['make', 'years']
+Score: 59195
+Sense:  Synset('sidereal_day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40017; predicted_sense: [533539, Synset('day.n.03')]; correct_sense: day-3;
+
+Accuracy: 0.3333333333333333 ; 3 / 9
+__________________________________________________________________________________
+day.40020
+Sense:  Synset('day.n.01')
+Overlap: ['election']
+Score: 276681
+Sense:  Synset('day.n.02')
+Overlap: ['long', 'marked', 'end']
+Score: 1327327
+Sense:  Synset('day.n.03')
+Overlap: ['election', 'Observer', 'Observer', 'marked']
+Score: 290428
+Sense:  Synset('day.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.05')
+Overlap: ['Daily']
+Score: 1060
+Sense:  Synset('day.n.06')
+Overlap: ['marked']
+Score: 13747
+Sense:  Synset('day.n.07')
+Overlap: ['long']
+Score: 1304082
+Sense:  Synset('sidereal_day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.09')
+Overlap: ['gave']
+Score: 30508
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40020; predicted_sense: [1327327, Synset('day.n.02')]; correct_sense: day-0;
+
+Accuracy: 0.3 ; 3 / 10
+__________________________________________________________________________________
+day.40023
+Sense:  Synset('day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.02')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.03')
+Overlap: ['victory', 'Union']
+Score: 3904
+Sense:  Synset('day.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: []
+Score: 0
+Sense:  Synset('sidereal_day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40023; predicted_sense: [3904, Synset('day.n.03')]; correct_sense: day-0;
+
+Accuracy: 0.2727272727272727 ; 3 / 11
+__________________________________________________________________________________
+day.40028
+Sense:  Synset('day.n.01')
+Overlap: ['include', 'make', 'date']
+Score: 63157
+Sense:  Synset('day.n.02')
+Overlap: ['new', 'end']
+Score: 364683
+Sense:  Synset('day.n.03')
+Overlap: ['6', 'date', 'new']
+Score: 393038
+Sense:  Synset('day.n.04')
+Overlap: ['make']
+Score: 51502
+Sense:  Synset('day.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: ['make', 'taken', '3']
+Score: 136026
+Sense:  Synset('sidereal_day.n.01')
+Overlap: ['4', 'means']
+Score: 66170
+Sense:  Synset('day.n.09')
+Overlap: ['possibly']
+Score: 1467
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40028; predicted_sense: [393038, Synset('day.n.03')]; correct_sense: day-1;
+
+Accuracy: 0.25 ; 3 / 12
+__________________________________________________________________________________
+day.40032
+Sense:  Synset('day.n.01')
+Overlap: ['month']
+Score: 21852
+Sense:  Synset('day.n.02')
+Overlap: ['marks']
+Score: 5347
+Sense:  Synset('day.n.03')
+Overlap: ['holiday', 'holiday', 'marks', 'ground', 'month', 'relatives', 'country']
+Score: 67426
+Sense:  Synset('day.n.04')
+Overlap: ['light']
+Score: 49101
+Sense:  Synset('day.n.05')
+Overlap: ['calls']
+Score: 6543
+Sense:  Synset('day.n.06')
+Overlap: ['marks']
+Score: 5347
+Sense:  Synset('day.n.07')
+Overlap: []
+Score: 0
+Sense:  Synset('sidereal_day.n.01')
+Overlap: ['minutes', 'relatives']
+Score: 2121
+Sense:  Synset('day.n.09')
+Overlap: ['holiday']
+Score: 14168
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40032; predicted_sense: [67426, Synset('day.n.03')]; correct_sense: day-0;
+
+Accuracy: 0.23076923076923078 ; 3 / 13
+__________________________________________________________________________________
+day.40034
+Sense:  Synset('day.n.01')
+Overlap: ['completed']
+Score: 3657
+Sense:  Synset('day.n.02')
+Overlap: ['years']
+Score: 7693
+Sense:  Synset('day.n.03')
+Overlap: ['years', 'years']
+Score: 15386
+Sense:  Synset('day.n.04')
+Overlap: ['years']
+Score: 7693
+Sense:  Synset('day.n.05')
+Overlap: ['went']
+Score: 97120
+Sense:  Synset('day.n.06')
+Overlap: ['successfully']
+Score: 1418
+Sense:  Synset('day.n.07')
+Overlap: ['taken', 'completed', 'years']
+Score: 26626
+Sense:  Synset('sidereal_day.n.01')
+Overlap: ['completed']
+Score: 3657
+Sense:  Synset('day.n.09')
+Overlap: ['gave', 'chance']
+Score: 31632
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40034; predicted_sense: [97120, Synset('day.n.05')]; correct_sense: day-0;
+
+Accuracy: 0.21428571428571427 ; 3 / 14
+__________________________________________________________________________________
+day.40037
+Sense:  Synset('day.n.01')
+Overlap: ['include', 'presenting']
+Score: 9832
+Sense:  Synset('day.n.02')
+Overlap: ['New', 'great', 'new']
+Score: 731962
+Sense:  Synset('day.n.03')
+Overlap: ['Holiday', 'Holiday', 'American', 'discovery', 'designs', 'observation', 'observation', '1st', 'November', 'New', 'Mondays', 'new', 'Monday', 'relating', 'Sunday', 'March']
+Score: 529779
+Sense:  Synset('day.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.05')
+Overlap: ['daily']
+Score: 2114
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: []
+Score: 0
+Sense:  Synset('sidereal_day.n.01')
+Overlap: ['relating']
+Score: 1414
+Sense:  Synset('day.n.09')
+Overlap: ['Holiday']
+Score: 264
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40037; predicted_sense: [731962, Synset('day.n.02')]; correct_sense: day-0;
+
+Accuracy: 0.2 ; 3 / 15
+__________________________________________________________________________________
+day.40040
+Sense:  Synset('day.n.01')
+Overlap: ['beauty', 'happened', 'Today', 'Today']
+Score: 12567
+Sense:  Synset('day.n.02')
+Overlap: ['year', 'New']
+Score: 49858
+Sense:  Synset('day.n.03')
+Overlap: ['year', 'year', 'New', 'Saturday', 'Friday', 'people']
+Score: 153881
+Sense:  Synset('day.n.04')
+Overlap: ['year']
+Score: 31977
+Sense:  Synset('day.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: ['year']
+Score: 31977
+Sense:  Synset('sidereal_day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.09')
+Overlap: ['chance']
+Score: 1124
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40040; predicted_sense: [153881, Synset('day.n.03')]; correct_sense: day-0;
+
+Accuracy: 0.1875 ; 3 / 16
+__________________________________________________________________________________
+day.40041
+Sense:  Synset('day.n.01')
+Overlap: ['later', 'particular']
+Score: 521416
+Sense:  Synset('day.n.02')
+Overlap: ['active', 'things', 'points', 'good', 'God']
+Score: 452420
+Sense:  Synset('day.n.03')
+Overlap: ['previous', 'shadows', 'church', 'observer', 'observer', 'things', 'good', 'observers', 'observers', 'Church', 'particular']
+Score: 1379431
+Sense:  Synset('day.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.06')
+Overlap: ['points']
+Score: 1699
+Sense:  Synset('day.n.07')
+Overlap: ['particular']
+Score: 246062
+Sense:  Synset('sidereal_day.n.01')
+Overlap: ['particular']
+Score: 246062
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40041; predicted_sense: [1379431, Synset('day.n.03')]; correct_sense: day-3;
+
+Accuracy: 0.17647058823529413 ; 3 / 17
+__________________________________________________________________________________
+day.40044
+Sense:  Synset('day.n.01')
+Overlap: ['months', 'immediately']
+Score: 26082
+Sense:  Synset('day.n.02')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.03')
+Overlap: ['early', 'working', 'months']
+Score: 783824
+Sense:  Synset('day.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.05')
+Overlap: ['early', 'working', 'working']
+Score: 1345917
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: ['taken']
+Score: 15276
+Sense:  Synset('sidereal_day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: ['working']
+Score: 569554
+day.40044; predicted_sense: [1345917, Synset('day.n.05')]; correct_sense: day-1;
+
+Accuracy: 0.2222222222222222 ; 4 / 18
+__________________________________________________________________________________
+day.40046
+Sense:  Synset('day.n.01')
+Overlap: ['later', 'leaving']
+Score: 280546
+Sense:  Synset('day.n.02')
+Overlap: ['mark']
+Score: 3805
+Sense:  Synset('day.n.03')
+Overlap: ['mark', 'trees', 'flag', 'July']
+Score: 49983
+Sense:  Synset('day.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.06')
+Overlap: ['mark']
+Score: 3805
+Sense:  Synset('day.n.07')
+Overlap: []
+Score: 0
+Sense:  Synset('sidereal_day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40046; predicted_sense: [280546, Synset('day.n.01')]; correct_sense: day-0;
+
+Accuracy: 0.2631578947368421 ; 5 / 19
+__________________________________________________________________________________
+day.40049
+Sense:  Synset('day.n.01')
+Overlap: ['moment', 'times']
+Score: 7313
+Sense:  Synset('day.n.02')
+Overlap: ['guess', 'human', 'times']
+Score: 19193
+Sense:  Synset('day.n.03')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.04')
+Overlap: ['outside', 'times']
+Score: 35715
+Sense:  Synset('day.n.05')
+Overlap: ['times']
+Score: 6138
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: ['times']
+Score: 6138
+Sense:  Synset('sidereal_day.n.01')
+Overlap: ['times']
+Score: 6138
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40049; predicted_sense: [35715, Synset('day.n.04')]; correct_sense: day-0;
+
+Accuracy: 0.25 ; 5 / 20
+__________________________________________________________________________________
+day.40050
+Sense:  Synset('day.n.01')
+Overlap: ['happened']
+Score: 10217
+Sense:  Synset('day.n.02')
+Overlap: ['mark', 'endings']
+Score: 3805
+Sense:  Synset('day.n.03')
+Overlap: ['mark', 'October', 'Happy']
+Score: 44807
+Sense:  Synset('day.n.04')
+Overlap: ['turn']
+Score: 15811
+Sense:  Synset('day.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.06')
+Overlap: ['exist', 'mark', 'existence']
+Score: 42433
+Sense:  Synset('day.n.07')
+Overlap: []
+Score: 0
+Sense:  Synset('sidereal_day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40050; predicted_sense: [44807, Synset('day.n.03')]; correct_sense: day-3;
+
+Accuracy: 0.23809523809523808 ; 5 / 21
+__________________________________________________________________________________
+day.40053
+Sense:  Synset('day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.02')
+Overlap: ['years']
+Score: 7693
+Sense:  Synset('day.n.03')
+Overlap: ['trees', 'years', 'years']
+Score: 16216
+Sense:  Synset('day.n.04')
+Overlap: ['easier', 'years']
+Score: 10175
+Sense:  Synset('day.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: ['years']
+Score: 7693
+Sense:  Synset('sidereal_day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.09')
+Overlap: ['chance']
+Score: 1124
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40053; predicted_sense: [16216, Synset('day.n.03')]; correct_sense: day-0;
+
+Accuracy: 0.22727272727272727 ; 5 / 22
+__________________________________________________________________________________
+day.40055
+Sense:  Synset('day.n.01')
+Overlap: ['law', 'time', 'set', 'particular']
+Score: 491458
+Sense:  Synset('day.n.02')
+Overlap: ['greatly', 'following', 'time', 'followed']
+Score: 3326877
+Sense:  Synset('day.n.03')
+Overlap: ['Fridays', 'September', 'practices', 'Saturdays', 'Roman', 'custom', 'law', 'Sundays', 'work', 'calendar', 'calendar', 'set', 'Sunday', 'Church', 'fixed', 'weeks', 'Holy', 'particular']
+Score: 914339
+Sense:  Synset('day.n.04')
+Overlap: ['time']
+Score: 159957
+Sense:  Synset('day.n.05')
+Overlap: ['work', 'work', 'time']
+Score: 770491
+Sense:  Synset('day.n.06')
+Overlap: ['influenced', 'Roman', 'fixed']
+Score: 113970
+Sense:  Synset('day.n.07')
+Overlap: ['time', 'particular']
+Score: 406019
+Sense:  Synset('sidereal_day.n.01')
+Overlap: ['time', 'particular']
+Score: 406019
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: ['work']
+Score: 305267
+day.40055; predicted_sense: [3326877, Synset('day.n.02')]; correct_sense: day-0;
+
+Accuracy: 0.21739130434782608 ; 5 / 23
+__________________________________________________________________________________
+day.40058
+Sense:  Synset('day.n.01')
+Overlap: ['includes', 'including']
+Score: 0
+Sense:  Synset('day.n.02')
+Overlap: ['followed']
+Score: 0
+Sense:  Synset('day.n.03')
+Overlap: ['grounds', 'Night', 'evening', 'School', 'School']
+Score: 365
+Sense:  Synset('day.n.04')
+Overlap: ['Night', 'evening', 'spent', 'afternoon']
+Score: 41
+Sense:  Synset('day.n.05')
+Overlap: ['morning']
+Score: 94
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: []
+Score: 0
+Sense:  Synset('sidereal_day.n.01')
+Overlap: ['4']
+Score: 7030
+Sense:  Synset('day.n.09')
+Overlap: ['visit']
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40058; predicted_sense: [7030, Synset('sidereal_day.n.01')]; correct_sense: day-0;
+
+Accuracy: 0.20833333333333334 ; 5 / 24
+__________________________________________________________________________________
+day.40059
+Sense:  Synset('day.n.01')
+Overlap: ['yesterday', 'newspaper', 'newspaper', 'law', '30', 'time']
+Score: 227908
+Sense:  Synset('day.n.02')
+Overlap: ['year', 'New', 'time', 'years']
+Score: 217508
+Sense:  Synset('day.n.03')
+Overlap: ['night', 'law', 'year', 'year', 'New', 'years', 'years', 'country', 'people']
+Score: 171946
+Sense:  Synset('day.n.04')
+Overlap: ['night', 'year', '30', 'time', 'years']
+Score: 227482
+Sense:  Synset('day.n.05')
+Overlap: ['time']
+Score: 159957
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: ['year', '30', 'time', 'years']
+Score: 214872
+Sense:  Synset('sidereal_day.n.01')
+Overlap: ['time']
+Score: 159957
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40059; predicted_sense: [227908, Synset('day.n.01')]; correct_sense: day-0;
+
+Accuracy: 0.24 ; 6 / 25
+__________________________________________________________________________________
+day.40062
+Sense:  Synset('day.n.01')
+Overlap: ['left']
+Score: 23490
+Sense:  Synset('day.n.02')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.03')
+Overlap: ['previous']
+Score: 721068
+Sense:  Synset('day.n.04')
+Overlap: ['spent']
+Score: 71065
+Sense:  Synset('day.n.05')
+Overlap: ['agree', 'began']
+Score: 103837
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: ['3']
+Score: 69248
+Sense:  Synset('sidereal_day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: ['known']
+Score: 10509
+day.40062; predicted_sense: [721068, Synset('day.n.03')]; correct_sense: day-0;
+
+Accuracy: 0.23076923076923078 ; 6 / 26
+__________________________________________________________________________________
+day.40065
+Sense:  Synset('day.n.01')
+Overlap: ['left', 'arrived', 'yesterday', '000']
+Score: 157386
+Sense:  Synset('day.n.02')
+Overlap: ['arrived', 'year', 'new']
+Score: 485350
+Sense:  Synset('day.n.03')
+Overlap: ['year', 'year', 'new']
+Score: 419139
+Sense:  Synset('day.n.04')
+Overlap: ['year']
+Score: 31977
+Sense:  Synset('day.n.05')
+Overlap: ['business']
+Score: 214045
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: ['year']
+Score: 31977
+Sense:  Synset('sidereal_day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40065; predicted_sense: [485350, Synset('day.n.02')]; correct_sense: day-0;
+
+Accuracy: 0.2222222222222222 ; 6 / 27
+__________________________________________________________________________________
+day.40068
+Sense:  Synset('day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.02')
+Overlap: ['following', 'long']
+Score: 4434033
+Sense:  Synset('day.n.03')
+Overlap: ['received', 'November', 'play', 'play', 'Americans', 'French']
+Score: 117718
+Sense:  Synset('day.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.05')
+Overlap: ['called']
+Score: 45597
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: ['long']
+Score: 1304082
+Sense:  Synset('sidereal_day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40068; predicted_sense: [4434033, Synset('day.n.02')]; correct_sense: day-0;
+
+Accuracy: 0.21428571428571427 ; 6 / 28
+__________________________________________________________________________________
+day.40069
+Sense:  Synset('day.n.01')
+Overlap: ['date', 'performances']
+Score: 5350
+Sense:  Synset('day.n.02')
+Overlap: ['waited', 'great']
+Score: 363188
+Sense:  Synset('day.n.03')
+Overlap: ['devotedly', 'young', 'early', 'University', 'date', 'working', 'pay', 'weeks']
+Score: 855163
+Sense:  Synset('day.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.05')
+Overlap: ['early', 'working', 'working']
+Score: 1345917
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: []
+Score: 0
+Sense:  Synset('sidereal_day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: ['working']
+Score: 569554
+day.40069; predicted_sense: [1345917, Synset('day.n.05')]; correct_sense: day-0;
+
+Accuracy: 0.20689655172413793 ; 6 / 29
+__________________________________________________________________________________
+day.40072
+Sense:  Synset('day.n.01')
+Overlap: ['left']
+Score: 23490
+Sense:  Synset('day.n.02')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.03')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: []
+Score: 0
+Sense:  Synset('sidereal_day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40072; predicted_sense: [23490, Synset('day.n.01')]; correct_sense: day-0;
+
+Accuracy: 0.23333333333333334 ; 7 / 30
+__________________________________________________________________________________
+day.40074
+Sense:  Synset('day.n.01')
+Overlap: ['left', 'period']
+Score: 484758
+Sense:  Synset('day.n.02')
+Overlap: ['period']
+Score: 461268
+Sense:  Synset('day.n.03')
+Overlap: ['southern', 'April', 'country']
+Score: 55605
+Sense:  Synset('day.n.04')
+Overlap: ['turns', 'period']
+Score: 467897
+Sense:  Synset('day.n.05')
+Overlap: ['period']
+Score: 461268
+Sense:  Synset('day.n.06')
+Overlap: ['period']
+Score: 461268
+Sense:  Synset('day.n.07')
+Overlap: ['period', '3']
+Score: 530516
+Sense:  Synset('sidereal_day.n.01')
+Overlap: ['4', 'period']
+Score: 510862
+Sense:  Synset('day.n.09')
+Overlap: ['possibly', 'period']
+Score: 462735
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40074; predicted_sense: [530516, Synset('day.n.07')]; correct_sense: day-0;
+
+Accuracy: 0.22580645161290322 ; 7 / 31
+__________________________________________________________________________________
+day.40076
+Sense:  Synset('day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.02')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.03')
+Overlap: ['work', 'play', 'play', 'happy', 'hold', 'hold', 'French']
+Score: 487294
+Sense:  Synset('day.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.05')
+Overlap: ['work', 'work']
+Score: 610534
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: []
+Score: 0
+Sense:  Synset('sidereal_day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: ['work']
+Score: 305267
+day.40076; predicted_sense: [610534, Synset('day.n.05')]; correct_sense: day-3;
+
+Accuracy: 0.21875 ; 7 / 32
+__________________________________________________________________________________
+day.40077
+Sense:  Synset('day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.02')
+Overlap: ['Year', 'thing']
+Score: 5904
+Sense:  Synset('day.n.03')
+Overlap: ['Fridays', 'week', 'RED', 'Year', 'Year', 'joke', 'pay', 'thing']
+Score: 220049
+Sense:  Synset('day.n.04')
+Overlap: ['Year']
+Score: 2798
+Sense:  Synset('day.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: ['Year']
+Score: 2798
+Sense:  Synset('sidereal_day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40077; predicted_sense: [220049, Synset('day.n.03')]; correct_sense: day-0;
+
+Accuracy: 0.21212121212121213 ; 7 / 33
+__________________________________________________________________________________
+day.40079
+Sense:  Synset('day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.02')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.03')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.05')
+Overlap: ['morning']
+Score: 26142
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: []
+Score: 0
+Sense:  Synset('sidereal_day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40079; predicted_sense: [26142, Synset('day.n.05')]; correct_sense: day-1;
+
+Accuracy: 0.23529411764705882 ; 8 / 34
+__________________________________________________________________________________
+day.40080
+Sense:  Synset('day.n.01')
+Overlap: ['measuring']
+Score: 1218
+Sense:  Synset('day.n.02')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.03')
+Overlap: ['come', 'night', 'eventful']
+Score: 147435
+Sense:  Synset('day.n.04')
+Overlap: ['turning', 'night']
+Score: 17958
+Sense:  Synset('day.n.05')
+Overlap: ['morning']
+Score: 26142
+Sense:  Synset('day.n.06')
+Overlap: ['eventful']
+Score: 54443
+Sense:  Synset('day.n.07')
+Overlap: []
+Score: 0
+Sense:  Synset('sidereal_day.n.01')
+Overlap: ['measuring', 'measuring']
+Score: 2436
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40080; predicted_sense: [147435, Synset('day.n.03')]; correct_sense: day-1;
+
+Accuracy: 0.22857142857142856 ; 8 / 35
+__________________________________________________________________________________
+day.40083
+Sense:  Synset('day.n.01')
+Overlap: ['later']
+Score: 275354
+Sense:  Synset('day.n.02')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.03')
+Overlap: ['GEORGE', 'Holiday', 'Holiday', 'Public', 'night', 'Saturday', 'Monday', 'competitions']
+Score: 45491
+Sense:  Synset('day.n.04')
+Overlap: ['night', 'turned']
+Score: 35285
+Sense:  Synset('day.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: []
+Score: 0
+Sense:  Synset('sidereal_day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.09')
+Overlap: ['Holiday']
+Score: 264
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40083; predicted_sense: [275354, Synset('day.n.01')]; correct_sense: day-0;
+
+Accuracy: 0.25 ; 9 / 36
+__________________________________________________________________________________
+day.40084
+Sense:  Synset('day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.02')
+Overlap: ['year']
+Score: 31977
+Sense:  Synset('day.n.03')
+Overlap: ['state', 'state', 'state', 'reckon', 'year', 'year', 'play', 'play', 'session']
+Score: 167743
+Sense:  Synset('day.n.04')
+Overlap: ['Park', 'year']
+Score: 32897
+Sense:  Synset('day.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.06')
+Overlap: ['reckon']
+Score: 444
+Sense:  Synset('day.n.07')
+Overlap: ['year']
+Score: 31977
+Sense:  Synset('sidereal_day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: ['state']
+Score: 16818
+day.40084; predicted_sense: [167743, Synset('day.n.03')]; correct_sense: day-0;
+
+Accuracy: 0.24324324324324326 ; 9 / 37
+__________________________________________________________________________________
+day.40086
+Sense:  Synset('day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.02')
+Overlap: ['new']
+Score: 355185
+Sense:  Synset('day.n.03')
+Overlap: ['prize', 'ground', 'November', 'spring', 'new', 'country', 'coming']
+Score: 634651
+Sense:  Synset('day.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: []
+Score: 0
+Sense:  Synset('sidereal_day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40086; predicted_sense: [634651, Synset('day.n.03')]; correct_sense: day-0;
+
+Accuracy: 0.23684210526315788 ; 9 / 38
+__________________________________________________________________________________
+day.40090
+Sense:  Synset('day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.02')
+Overlap: ['thing', 'end']
+Score: 12604
+Sense:  Synset('day.n.03')
+Overlap: ['thing']
+Score: 3106
+Sense:  Synset('day.n.04')
+Overlap: ['light']
+Score: 49101
+Sense:  Synset('day.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: []
+Score: 0
+Sense:  Synset('sidereal_day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.09')
+Overlap: ['court']
+Score: 17820
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40090; predicted_sense: [49101, Synset('day.n.04')]; correct_sense: day-0;
+
+Accuracy: 0.23076923076923078 ; 9 / 39
+__________________________________________________________________________________
+day.40096
+Sense:  Synset('day.n.01')
+Overlap: ['time']
+Score: 159957
+Sense:  Synset('day.n.02')
+Overlap: ['live', 'New', 'time']
+Score: 200165
+Sense:  Synset('day.n.03')
+Overlap: ['mothers', 'night', 'mother', 'New', 'Friday', 'added']
+Score: 57281
+Sense:  Synset('day.n.04')
+Overlap: ['night', 'time']
+Score: 172567
+Sense:  Synset('day.n.05')
+Overlap: ['worker', 'time']
+Score: 165860
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: ['27', 'taken', 'time']
+Score: 178994
+Sense:  Synset('sidereal_day.n.01')
+Overlap: ['time']
+Score: 159957
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40096; predicted_sense: [200165, Synset('day.n.02')]; correct_sense: day-0;
+
+Accuracy: 0.225 ; 9 / 40
+__________________________________________________________________________________
+day.40098
+Sense:  Synset('day.n.01')
+Overlap: ['moment', 'momentous', 'happens']
+Score: 20779
+Sense:  Synset('day.n.02')
+Overlap: ['mark', 'year', 'long']
+Score: 1339864
+Sense:  Synset('day.n.03')
+Overlap: ['mark', 'year', 'year', 'occurs', 'july', 'comes']
+Score: 196781
+Sense:  Synset('day.n.04')
+Overlap: ['year']
+Score: 31977
+Sense:  Synset('day.n.05')
+Overlap: ['hour', 'hour']
+Score: 802482
+Sense:  Synset('day.n.06')
+Overlap: ['mark']
+Score: 3805
+Sense:  Synset('day.n.07')
+Overlap: ['year', 'long']
+Score: 1336059
+Sense:  Synset('sidereal_day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.09')
+Overlap: ['visit']
+Score: 65830
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40098; predicted_sense: [1339864, Synset('day.n.02')]; correct_sense: day-3;
+
+Accuracy: 0.24390243902439024 ; 10 / 41
+__________________________________________________________________________________
+day.40100
+Sense:  Synset('day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.02')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.03')
+Overlap: ['emergency', 'worked', 'Emergency']
+Score: 45723
+Sense:  Synset('day.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.05')
+Overlap: ['called', 'morning', 'worked', 'worked', 'hours', 'hours']
+Score: 210977
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: []
+Score: 0
+Sense:  Synset('sidereal_day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: ['worked']
+Score: 43157
+day.40100; predicted_sense: [210977, Synset('day.n.05')]; correct_sense: day-0;
+
+Accuracy: 0.23809523809523808 ; 10 / 42
+__________________________________________________________________________________
+day.40107
+Sense:  Synset('day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.02')
+Overlap: ['years', 'long', 'followed']
+Score: 1345990
+Sense:  Synset('day.n.03')
+Overlap: ['display', 'years', 'years', 'coming']
+Score: 95500
+Sense:  Synset('day.n.04')
+Overlap: ['middle', 'years']
+Score: 12969
+Sense:  Synset('day.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: ['taken', 'years', 'long']
+Score: 1327051
+Sense:  Synset('sidereal_day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40107; predicted_sense: [1345990, Synset('day.n.02')]; correct_sense: day-0;
+
+Accuracy: 0.23255813953488372 ; 10 / 43
+__________________________________________________________________________________
+day.40109
+Sense:  Synset('day.n.01')
+Overlap: ['happened', 'completed', 'presentation', 'immediately']
+Score: 34769
+Sense:  Synset('day.n.02')
+Overlap: ['years']
+Score: 7693
+Sense:  Synset('day.n.03')
+Overlap: ['political', 'years', 'years', 'National', 'events']
+Score: 73022
+Sense:  Synset('day.n.04')
+Overlap: ['years']
+Score: 7693
+Sense:  Synset('day.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.06')
+Overlap: ['events']
+Score: 28942
+Sense:  Synset('day.n.07')
+Overlap: ['completed', 'years']
+Score: 11350
+Sense:  Synset('sidereal_day.n.01')
+Overlap: ['completed']
+Score: 3657
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40109; predicted_sense: [73022, Synset('day.n.03')]; correct_sense: day-0;
+
+Accuracy: 0.22727272727272727 ; 10 / 44
+__________________________________________________________________________________
+day.40111
+Sense:  Synset('day.n.01')
+Overlap: ['later', 'making']
+Score: 307089
+Sense:  Synset('day.n.02')
+Overlap: ['point', 'New', 'points', 'years']
+Score: 32052
+Sense:  Synset('day.n.03')
+Overlap: ['American', 'Winters', 'work', 'New', 'years', 'years', 'March', 'French']
+Score: 399564
+Sense:  Synset('day.n.04')
+Overlap: ['years', 'making']
+Score: 39428
+Sense:  Synset('day.n.05')
+Overlap: ['work', 'work', 'called', 'began']
+Score: 758032
+Sense:  Synset('day.n.06')
+Overlap: ['point', 'points']
+Score: 6478
+Sense:  Synset('day.n.07')
+Overlap: ['years', 'making']
+Score: 39428
+Sense:  Synset('sidereal_day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: ['work', 'known']
+Score: 315776
+day.40111; predicted_sense: [758032, Synset('day.n.05')]; correct_sense: day-3;
+
+Accuracy: 0.2222222222222222 ; 10 / 45
+__________________________________________________________________________________
+day.40114
+Sense:  Synset('day.n.01')
+Overlap: ['left']
+Score: 23490
+Sense:  Synset('day.n.02')
+Overlap: ['follow', 'New']
+Score: 29805
+Sense:  Synset('day.n.03')
+Overlap: ['holiday', 'holiday', 'New']
+Score: 46217
+Sense:  Synset('day.n.04')
+Overlap: ['turned']
+Score: 22675
+Sense:  Synset('day.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: []
+Score: 0
+Sense:  Synset('sidereal_day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.09')
+Overlap: ['holiday']
+Score: 14168
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40114; predicted_sense: [46217, Synset('day.n.03')]; correct_sense: day-1;
+
+Accuracy: 0.21739130434782608 ; 10 / 46
+__________________________________________________________________________________
+day.40116
+Sense:  Synset('day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.02')
+Overlap: ['years', 'long']
+Score: 1311775
+Sense:  Synset('day.n.03')
+Overlap: ['American', 'years', 'years']
+Score: 44195
+Sense:  Synset('day.n.04')
+Overlap: ['years']
+Score: 7693
+Sense:  Synset('day.n.05')
+Overlap: ['business']
+Score: 214045
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: ['years', 'long']
+Score: 1311775
+Sense:  Synset('sidereal_day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40116; predicted_sense: [1311775, Synset('day.n.02')]; correct_sense: day-0;
+
+Accuracy: 0.2127659574468085 ; 10 / 47
+__________________________________________________________________________________
+day.40117
+Sense:  Synset('day.n.01')
+Overlap: ['yesterday', 'completed']
+Score: 39223
+Sense:  Synset('day.n.02')
+Overlap: ['New']
+Score: 17881
+Sense:  Synset('day.n.03')
+Overlap: ['countries', 'New', 'happy', 'Market']
+Score: 161154
+Sense:  Synset('day.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.05')
+Overlap: ['hour', 'hour', 'called']
+Score: 848079
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: ['completed']
+Score: 3657
+Sense:  Synset('sidereal_day.n.01')
+Overlap: ['completed']
+Score: 3657
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40117; predicted_sense: [848079, Synset('day.n.05')]; correct_sense: day-0;
+
+Accuracy: 0.20833333333333334 ; 10 / 48
+__________________________________________________________________________________
+day.40122
+Sense:  Synset('day.n.01')
+Overlap: ['yesterday']
+Score: 35566
+Sense:  Synset('day.n.02')
+Overlap: ['unusually', 'year', 'great', 'points', 'attributable']
+Score: 393176
+Sense:  Synset('day.n.03')
+Overlap: ['Federal', 'year', 'year', 'early', 'US', 'happy', 'markets', 'exchange']
+Score: 412717
+Sense:  Synset('day.n.04')
+Overlap: ['year', 'quiet']
+Score: 73447
+Sense:  Synset('day.n.05')
+Overlap: ['early', 'stock', 'exchange']
+Score: 212704
+Sense:  Synset('day.n.06')
+Overlap: ['points']
+Score: 1699
+Sense:  Synset('day.n.07')
+Overlap: ['year']
+Score: 31977
+Sense:  Synset('sidereal_day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40122; predicted_sense: [412717, Synset('day.n.03')]; correct_sense: day-0;
+
+Accuracy: 0.20408163265306123 ; 10 / 49
+__________________________________________________________________________________
+day.40125
+Sense:  Synset('day.n.01')
+Overlap: ['yesterday', '000']
+Score: 35708
+Sense:  Synset('day.n.02')
+Overlap: ['good', 'planted']
+Score: 375768
+Sense:  Synset('day.n.03')
+Overlap: ['night', 'anniversary', 'good', 'people', 'planted']
+Score: 441160
+Sense:  Synset('day.n.04')
+Overlap: ['night']
+Score: 12610
+Sense:  Synset('day.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: ['3']
+Score: 69248
+Sense:  Synset('sidereal_day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40125; predicted_sense: [441160, Synset('day.n.03')]; correct_sense: day-0;
+
+Accuracy: 0.2 ; 10 / 50
+__________________________________________________________________________________
+day.40129
+Sense:  Synset('day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.02')
+Overlap: ['great', 'long', 'end']
+Score: 1672476
+Sense:  Synset('day.n.03')
+Overlap: ['Springs', 'red']
+Score: 3934
+Sense:  Synset('day.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: ['long']
+Score: 1304082
+Sense:  Synset('sidereal_day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40129; predicted_sense: [1672476, Synset('day.n.02')]; correct_sense: day-1;
+
+Accuracy: 0.19607843137254902 ; 10 / 51
+__________________________________________________________________________________
+day.40132
+Sense:  Synset('day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.02')
+Overlap: ['following']
+Score: 3129951
+Sense:  Synset('day.n.03')
+Overlap: ['laundry', 'receive']
+Score: 15547
+Sense:  Synset('day.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: []
+Score: 0
+Sense:  Synset('sidereal_day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40132; predicted_sense: [3129951, Synset('day.n.02')]; correct_sense: day-0;
+
+Accuracy: 0.19230769230769232 ; 10 / 52
+__________________________________________________________________________________
+day.40136
+Sense:  Synset('day.n.01')
+Overlap: ['later']
+Score: 275354
+Sense:  Synset('day.n.02')
+Overlap: ['year', 'years']
+Score: 39670
+Sense:  Synset('day.n.03')
+Overlap: ['previous', 'degree', 'year', 'year', 'winter', 'years', 'years']
+Score: 917721
+Sense:  Synset('day.n.04')
+Overlap: ['year', 'years', 'light']
+Score: 88771
+Sense:  Synset('day.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: ['year', 'years']
+Score: 39670
+Sense:  Synset('sidereal_day.n.01')
+Overlap: ['minutes']
+Score: 1314
+Sense:  Synset('day.n.09')
+Overlap: ['visit']
+Score: 65830
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40136; predicted_sense: [917721, Synset('day.n.03')]; correct_sense: day-3;
+
+Accuracy: 0.18867924528301888 ; 10 / 53
+__________________________________________________________________________________
+day.40139
+Sense:  Synset('day.n.01')
+Overlap: ['left']
+Score: 23490
+Sense:  Synset('day.n.02')
+Overlap: ['good']
+Score: 375227
+Sense:  Synset('day.n.03')
+Overlap: ['come', 'previous', 'young', 'declaration', 'happy', 'good', 'country', 'holds', 'holds', 'George', 'coming']
+Score: 1435034
+Sense:  Synset('day.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.05')
+Overlap: ['especially']
+Score: 8426
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: []
+Score: 0
+Sense:  Synset('sidereal_day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40139; predicted_sense: [1435034, Synset('day.n.03')]; correct_sense: day-0;
+
+Accuracy: 0.18518518518518517 ; 10 / 54
+__________________________________________________________________________________
+day.40144
+Sense:  Synset('day.n.01')
+Overlap: ['later']
+Score: 275354
+Sense:  Synset('day.n.02')
+Overlap: ['poor', 'human']
+Score: 23921
+Sense:  Synset('day.n.03')
+Overlap: ['student', 'speech', 'politically', 'June']
+Score: 78304
+Sense:  Synset('day.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.05')
+Overlap: ['called']
+Score: 45597
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: []
+Score: 0
+Sense:  Synset('sidereal_day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.09')
+Overlap: ['gave']
+Score: 30508
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40144; predicted_sense: [275354, Synset('day.n.01')]; correct_sense: day-3;
+
+Accuracy: 0.18181818181818182 ; 10 / 55
+__________________________________________________________________________________
+day.40146
+Sense:  Synset('day.n.01')
+Overlap: ['yesterday', 'time']
+Score: 195523
+Sense:  Synset('day.n.02')
+Overlap: ['Mark', 'New', 'great', 'time']
+Score: 539649
+Sense:  Synset('day.n.03')
+Overlap: ['received', 'Mark', 'New', 'Monday', 'added']
+Score: 82445
+Sense:  Synset('day.n.04')
+Overlap: ['time', 'late']
+Score: 238923
+Sense:  Synset('day.n.05')
+Overlap: ['require', 'business', 'time']
+Score: 379197
+Sense:  Synset('day.n.06')
+Overlap: ['Mark']
+Score: 2915
+Sense:  Synset('day.n.07')
+Overlap: ['time']
+Score: 159957
+Sense:  Synset('sidereal_day.n.01')
+Overlap: ['time']
+Score: 159957
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40146; predicted_sense: [539649, Synset('day.n.02')]; correct_sense: day-0;
+
+Accuracy: 0.17857142857142858 ; 10 / 56
+__________________________________________________________________________________
+day.40148
+Sense:  Synset('day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.02')
+Overlap: ['plants', 'poorly']
+Score: 24464
+Sense:  Synset('day.n.03')
+Overlap: ['plants', 'young', 'remember', 'reckon', 'bed']
+Score: 55981
+Sense:  Synset('day.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.05')
+Overlap: ['bed']
+Score: 13993
+Sense:  Synset('day.n.06')
+Overlap: ['reckon']
+Score: 444
+Sense:  Synset('day.n.07')
+Overlap: []
+Score: 0
+Sense:  Synset('sidereal_day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.09')
+Overlap: ['gave', 'visit']
+Score: 96338
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40148; predicted_sense: [96338, Synset('day.n.09')]; correct_sense: day-0;
+
+Accuracy: 0.17543859649122806 ; 10 / 57
+__________________________________________________________________________________
+day.40149
+Sense:  Synset('day.n.01')
+Overlap: ['time', 'particular']
+Score: 406019
+Sense:  Synset('day.n.02')
+Overlap: ['time']
+Score: 159957
+Sense:  Synset('day.n.03')
+Overlap: ['mothers', 'young', 'night', 'early', 'work', 'mother', 'working', 'household', 'practice', 'school', 'school', 'bed', 'people', 'particular']
+Score: 2405124
+Sense:  Synset('day.n.04')
+Overlap: ['night', 'outside', 'time', 'late']
+Score: 281110
+Sense:  Synset('day.n.05')
+Overlap: ['especially', 'sleeping', 'early', 'work', 'work', 'working', 'working', 'time', 'morning', 'sleep', 'bed']
+Score: 2176130
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: ['time', 'particular']
+Score: 406019
+Sense:  Synset('sidereal_day.n.01')
+Overlap: ['time', 'particular']
+Score: 406019
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: ['work', 'working']
+Score: 874821
+day.40149; predicted_sense: [2405124, Synset('day.n.03')]; correct_sense: day-1;
+
+Accuracy: 0.1724137931034483 ; 10 / 58
+__________________________________________________________________________________
+day.40156
+Sense:  Synset('day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.02')
+Overlap: ['good']
+Score: 375227
+Sense:  Synset('day.n.03')
+Overlap: ['admit', 'play', 'play', 'good', 'practice', 'people']
+Score: 488292
+Sense:  Synset('day.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.05')
+Overlap: ['went']
+Score: 97120
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: []
+Score: 0
+Sense:  Synset('sidereal_day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.09')
+Overlap: ['chance']
+Score: 1124
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40156; predicted_sense: [488292, Synset('day.n.03')]; correct_sense: day-3;
+
+Accuracy: 0.1694915254237288 ; 10 / 59
+__________________________________________________________________________________
+day.40157
+Sense:  Synset('day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.02')
+Overlap: ['great']
+Score: 358896
+Sense:  Synset('day.n.03')
+Overlap: ['Roman', 'springing', 'Irish', 'Church']
+Score: 10736
+Sense:  Synset('day.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.06')
+Overlap: ['Roman']
+Score: 3693
+Sense:  Synset('day.n.07')
+Overlap: []
+Score: 0
+Sense:  Synset('sidereal_day.n.01')
+Overlap: ['mean', 'minute']
+Score: 14948
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: ['best']
+Score: 55441
+day.40157; predicted_sense: [358896, Synset('day.n.02')]; correct_sense: day-3;
+
+Accuracy: 0.18333333333333332 ; 11 / 60
+__________________________________________________________________________________
+day.40160
+Sense:  Synset('day.n.01')
+Overlap: ['makes', 'time', 'times']
+Score: 192866
+Sense:  Synset('day.n.02')
+Overlap: ['things', 'time', 'times', 'end']
+Score: 193323
+Sense:  Synset('day.n.03')
+Overlap: ['things', 'people']
+Score: 60853
+Sense:  Synset('day.n.04')
+Overlap: ['enjoy', 'turn', 'makes', 'time', 'times']
+Score: 214909
+Sense:  Synset('day.n.05')
+Overlap: ['time', 'times']
+Score: 166095
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: ['makes', 'time', 'times']
+Score: 192866
+Sense:  Synset('sidereal_day.n.01')
+Overlap: ['time', 'times']
+Score: 166095
+Sense:  Synset('day.n.09')
+Overlap: ['possible']
+Score: 15083
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40160; predicted_sense: [214909, Synset('day.n.04')]; correct_sense: day-1;
+
+Accuracy: 0.18032786885245902 ; 11 / 61
+__________________________________________________________________________________
+day.40161
+Sense:  Synset('day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.02')
+Overlap: ['year']
+Score: 31977
+Sense:  Synset('day.n.03')
+Overlap: ['Union', 'year', 'year', 'President', 'second', 'comes']
+Score: 1250791
+Sense:  Synset('day.n.04')
+Overlap: ['year']
+Score: 31977
+Sense:  Synset('day.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: ['year']
+Score: 31977
+Sense:  Synset('sidereal_day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40161; predicted_sense: [1250791, Synset('day.n.03')]; correct_sense: day-3;
+
+Accuracy: 0.1774193548387097 ; 11 / 62
+__________________________________________________________________________________
+day.40163
+Sense:  Synset('day.n.01')
+Overlap: ['arrived', '30']
+Score: 113433
+Sense:  Synset('day.n.02')
+Overlap: ['arrived', 'following']
+Score: 3228139
+Sense:  Synset('day.n.03')
+Overlap: ['admitted', 'mother']
+Score: 7180
+Sense:  Synset('day.n.04')
+Overlap: ['30']
+Score: 15245
+Sense:  Synset('day.n.05')
+Overlap: ['8']
+Score: 29658
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: ['30']
+Score: 15245
+Sense:  Synset('sidereal_day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40163; predicted_sense: [3228139, Synset('day.n.02')]; correct_sense: day-0;
+
+Accuracy: 0.1746031746031746 ; 11 / 63
+__________________________________________________________________________________
+day.40165
+Sense:  Synset('day.n.01')
+Overlap: ['left', 'units']
+Score: 27780
+Sense:  Synset('day.n.02')
+Overlap: ['pointing']
+Score: 667
+Sense:  Synset('day.n.03')
+Overlap: ['units', 'played', 'played', 'tree', 'French']
+Score: 21394
+Sense:  Synset('day.n.04')
+Overlap: ['quiet']
+Score: 41470
+Sense:  Synset('day.n.05')
+Overlap: ['began']
+Score: 101901
+Sense:  Synset('day.n.06')
+Overlap: ['pointing']
+Score: 667
+Sense:  Synset('day.n.07')
+Overlap: []
+Score: 0
+Sense:  Synset('sidereal_day.n.01')
+Overlap: ['units']
+Score: 4290
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: ['units']
+Score: 4290
+day.40165; predicted_sense: [101901, Synset('day.n.05')]; correct_sense: day-0;
+
+Accuracy: 0.171875 ; 11 / 64
+__________________________________________________________________________________
+day.40168
+Sense:  Synset('day.n.01')
+Overlap: ['timing', 'time']
+Score: 160190
+Sense:  Synset('day.n.02')
+Overlap: ['activity', 'timing', 'time', 'good']
+Score: 555922
+Sense:  Synset('day.n.03')
+Overlap: ['night', 'good']
+Score: 387837
+Sense:  Synset('day.n.04')
+Overlap: ['timing', 'night', 'time']
+Score: 172800
+Sense:  Synset('day.n.05')
+Overlap: ['timing', 'requires', 'time']
+Score: 167379
+Sense:  Synset('day.n.06')
+Overlap: ['influence']
+Score: 3980
+Sense:  Synset('day.n.07')
+Overlap: ['timing', 'time']
+Score: 160190
+Sense:  Synset('sidereal_day.n.01')
+Overlap: ['timing', 'time', 'means']
+Score: 176766
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40168; predicted_sense: [555922, Synset('day.n.02')]; correct_sense: day-1;
+
+Accuracy: 0.16923076923076924 ; 11 / 65
+__________________________________________________________________________________
+day.40169
+Sense:  Synset('day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.02')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.03')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.04')
+Overlap: ['quiet', 'turn']
+Score: 57281
+Sense:  Synset('day.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: []
+Score: 0
+Sense:  Synset('sidereal_day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40169; predicted_sense: [57281, Synset('day.n.04')]; correct_sense: day-3;
+
+Accuracy: 0.16666666666666666 ; 11 / 66
+__________________________________________________________________________________
+day.40172
+Sense:  Synset('day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.02')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.03')
+Overlap: ['practices', 'young', 'emerge', 'people']
+Score: 70591
+Sense:  Synset('day.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.05')
+Overlap: ['requires', 'called']
+Score: 52786
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: []
+Score: 0
+Sense:  Synset('sidereal_day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40172; predicted_sense: [70591, Synset('day.n.03')]; correct_sense: day-0;
+
+Accuracy: 0.16417910447761194 ; 11 / 67
+__________________________________________________________________________________
+day.40177
+Sense:  Synset('day.n.01')
+Overlap: ['time', 'periods']
+Score: 193035
+Sense:  Synset('day.n.02')
+Overlap: ['time', 'long', 'periods']
+Score: 1497117
+Sense:  Synset('day.n.03')
+Overlap: ['Even', 'weeks']
+Score: 13245
+Sense:  Synset('day.n.04')
+Overlap: ['Even', 'time', 'periods']
+Score: 194688
+Sense:  Synset('day.n.05')
+Overlap: ['time', 'periods']
+Score: 193035
+Sense:  Synset('day.n.06')
+Overlap: ['periods']
+Score: 33078
+Sense:  Synset('day.n.07')
+Overlap: ['time', 'long', 'periods']
+Score: 1497117
+Sense:  Synset('sidereal_day.n.01')
+Overlap: ['time', 'periods']
+Score: 193035
+Sense:  Synset('day.n.09')
+Overlap: ['periods']
+Score: 33078
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40177; predicted_sense: [1497117, Synset('day.n.02')]; correct_sense: day-1;
+
+Accuracy: 0.16176470588235295 ; 11 / 68
+__________________________________________________________________________________
+day.40178
+Sense:  Synset('day.n.01')
+Overlap: ['tomorrow']
+Score: 35304
+Sense:  Synset('day.n.02')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.03')
+Overlap: ['American', 'tomorrow', 'degree', 'States', 'States', 'States', 'comes']
+Score: 200825
+Sense:  Synset('day.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: []
+Score: 0
+Sense:  Synset('sidereal_day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: ['States']
+Score: 683
+day.40178; predicted_sense: [200825, Synset('day.n.03')]; correct_sense: day-0;
+
+Accuracy: 0.15942028985507245 ; 11 / 69
+__________________________________________________________________________________
+day.40181
+Sense:  Synset('day.n.01')
+Overlap: ['left', 'time']
+Score: 183447
+Sense:  Synset('day.n.02')
+Overlap: ['waited', 'great', 'time']
+Score: 523145
+Sense:  Synset('day.n.03')
+Overlap: ['come', 'spring', 'relatives']
+Score: 226620
+Sense:  Synset('day.n.04')
+Overlap: ['turn', 'time']
+Score: 175768
+Sense:  Synset('day.n.05')
+Overlap: ['time', 'went']
+Score: 257077
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: ['time']
+Score: 159957
+Sense:  Synset('sidereal_day.n.01')
+Overlap: ['time', 'relatives']
+Score: 160764
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40181; predicted_sense: [523145, Synset('day.n.02')]; correct_sense: day-3;
+
+Accuracy: 0.17142857142857143 ; 12 / 70
+__________________________________________________________________________________
+day.40182
+Sense:  Synset('day.n.01')
+Overlap: ['setting']
+Score: 6589
+Sense:  Synset('day.n.02')
+Overlap: ['year', 'new']
+Score: 387162
+Sense:  Synset('day.n.03')
+Overlap: ['6', 'setting', 'year', 'year', 'work', 'new', 'distribution']
+Score: 773753
+Sense:  Synset('day.n.04')
+Overlap: ['year']
+Score: 31977
+Sense:  Synset('day.n.05')
+Overlap: ['8', 'work', 'work']
+Score: 640192
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: ['year']
+Score: 31977
+Sense:  Synset('sidereal_day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: ['work']
+Score: 305267
+day.40182; predicted_sense: [773753, Synset('day.n.03')]; correct_sense: day-0;
+
+Accuracy: 0.16901408450704225 ; 12 / 71
+__________________________________________________________________________________
+day.40185
+Sense:  Synset('day.n.01')
+Overlap: ['month', 'period']
+Score: 483120
+Sense:  Synset('day.n.02')
+Overlap: ['period', 'end']
+Score: 470766
+Sense:  Synset('day.n.03')
+Overlap: ['month']
+Score: 21852
+Sense:  Synset('day.n.04')
+Overlap: ['period']
+Score: 461268
+Sense:  Synset('day.n.05')
+Overlap: ['period']
+Score: 461268
+Sense:  Synset('day.n.06')
+Overlap: ['period']
+Score: 461268
+Sense:  Synset('day.n.07')
+Overlap: ['period']
+Score: 461268
+Sense:  Synset('sidereal_day.n.01')
+Overlap: ['period']
+Score: 461268
+Sense:  Synset('day.n.09')
+Overlap: ['period']
+Score: 461268
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40185; predicted_sense: [483120, Synset('day.n.01')]; correct_sense: day-0;
+
+Accuracy: 0.18055555555555555 ; 13 / 72
+__________________________________________________________________________________
+day.40186
+Sense:  Synset('day.n.01')
+Overlap: ['arrived', 'later', 'time']
+Score: 533499
+Sense:  Synset('day.n.02')
+Overlap: ['waiting', 'arrived', 'year', 'following', 'time', 'new', 'years']
+Score: 3818734
+Sense:  Synset('day.n.03')
+Overlap: ['week', 'wedding', 'state', 'state', 'state', 'year', 'year', 'red', 'pay', 'new', 'years', 'years', 'second', 'receive']
+Score: 2021133
+Sense:  Synset('day.n.04')
+Overlap: ['year', 'time', 'years']
+Score: 199627
+Sense:  Synset('day.n.05')
+Overlap: ['agreed', 'time']
+Score: 168628
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: ['year', 'time', 'years']
+Score: 199627
+Sense:  Synset('sidereal_day.n.01')
+Overlap: ['time']
+Score: 159957
+Sense:  Synset('day.n.09')
+Overlap: ['visits']
+Score: 8044
+Sense:  Synset('day.n.10')
+Overlap: ['state']
+Score: 16818
+day.40186; predicted_sense: [3818734, Synset('day.n.02')]; correct_sense: day-0;
+
+Accuracy: 0.1780821917808219 ; 13 / 73
+__________________________________________________________________________________
+day.40189
+Sense:  Synset('day.n.01')
+Overlap: ['included']
+Score: 11734
+Sense:  Synset('day.n.02')
+Overlap: ['mark', 'year', 'waited', 'specific']
+Score: 64734
+Sense:  Synset('day.n.03')
+Overlap: ['affect', 'mark', 'year', 'year', 'exchanges', 'hold', 'hold', 'public']
+Score: 116685
+Sense:  Synset('day.n.04')
+Overlap: ['year', 'late']
+Score: 110943
+Sense:  Synset('day.n.05')
+Overlap: ['exchanges']
+Score: 1002
+Sense:  Synset('day.n.06')
+Overlap: ['mark']
+Score: 3805
+Sense:  Synset('day.n.07')
+Overlap: ['year']
+Score: 31977
+Sense:  Synset('sidereal_day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40189; predicted_sense: [116685, Synset('day.n.03')]; correct_sense: day-0;
+
+Accuracy: 0.17567567567567569 ; 13 / 74
+__________________________________________________________________________________
+day.40192
+Sense:  Synset('day.n.01')
+Overlap: ['make', 'times', 'particular']
+Score: 303702
+Sense:  Synset('day.n.02')
+Overlap: ['usually', 'times']
+Score: 19414
+Sense:  Synset('day.n.03')
+Overlap: ['Come', 'night', 'early', 'weeks', 'particular']
+Score: 478842
+Sense:  Synset('day.n.04')
+Overlap: ['night', 'make', 'Dawn', 'times']
+Score: 70673
+Sense:  Synset('day.n.05')
+Overlap: ['early', 'hours', 'hours', 'times']
+Score: 265871
+Sense:  Synset('day.n.06')
+Overlap: ['success']
+Score: 2206
+Sense:  Synset('day.n.07')
+Overlap: ['make', 'times', 'particular']
+Score: 303702
+Sense:  Synset('sidereal_day.n.01')
+Overlap: ['times', 'particular']
+Score: 252200
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40192; predicted_sense: [478842, Synset('day.n.03')]; correct_sense: day-3;
+
+Accuracy: 0.17333333333333334 ; 13 / 75
+__________________________________________________________________________________
+day.40195
+Sense:  Synset('day.n.01')
+Overlap: ['times', 'arrival']
+Score: 8054
+Sense:  Synset('day.n.02')
+Overlap: ['times', 'arrival']
+Score: 8054
+Sense:  Synset('day.n.03')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.04')
+Overlap: ['times']
+Score: 6138
+Sense:  Synset('day.n.05')
+Overlap: ['times']
+Score: 6138
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: ['taken', 'times']
+Score: 21414
+Sense:  Synset('sidereal_day.n.01')
+Overlap: ['times']
+Score: 6138
+Sense:  Synset('day.n.09')
+Overlap: ['visit']
+Score: 65830
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40195; predicted_sense: [65830, Synset('day.n.09')]; correct_sense: day-0;
+
+Accuracy: 0.17105263157894737 ; 13 / 76
+__________________________________________________________________________________
+day.40199
+Sense:  Synset('day.n.01')
+Overlap: ['time']
+Score: 159957
+Sense:  Synset('day.n.02')
+Overlap: ['time']
+Score: 159957
+Sense:  Synset('day.n.03')
+Overlap: ['mother']
+Score: 4236
+Sense:  Synset('day.n.04')
+Overlap: ['outside', 'time']
+Score: 189534
+Sense:  Synset('day.n.05')
+Overlap: ['time', 'went']
+Score: 257077
+Sense:  Synset('day.n.06')
+Overlap: ['ship']
+Score: 1819
+Sense:  Synset('day.n.07')
+Overlap: ['taken', 'time']
+Score: 175233
+Sense:  Synset('sidereal_day.n.01')
+Overlap: ['time']
+Score: 159957
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40199; predicted_sense: [257077, Synset('day.n.05')]; correct_sense: day-0;
+
+Accuracy: 0.16883116883116883 ; 13 / 77
+__________________________________________________________________________________
+day.40202
+Sense:  Synset('day.n.01')
+Overlap: ['particular']
+Score: 246062
+Sense:  Synset('day.n.02')
+Overlap: ['live', 'usually', 'lives']
+Score: 84963
+Sense:  Synset('day.n.03')
+Overlap: ['Mother', 'Tuesdays', 'play', 'play', 'Tuesday', 'relations', 'happiness', 'particular']
+Score: 289284
+Sense:  Synset('day.n.04')
+Overlap: ['afternoon']
+Score: 6834
+Sense:  Synset('day.n.05')
+Overlap: ['morning', 'requiring']
+Score: 27458
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: ['particular']
+Score: 246062
+Sense:  Synset('sidereal_day.n.01')
+Overlap: ['relations', 'particular']
+Score: 254023
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40202; predicted_sense: [289284, Synset('day.n.03')]; correct_sense: day-0;
+
+Accuracy: 0.16666666666666666 ; 13 / 78
+__________________________________________________________________________________
+day.40204
+Sense:  Synset('day.n.01')
+Overlap: ['time', 'months', 'times', '000']
+Score: 173698
+Sense:  Synset('day.n.02')
+Overlap: ['time', 'years', 'long', 'marked', 'times']
+Score: 1491617
+Sense:  Synset('day.n.03')
+Overlap: ['years', 'years', 'Main', 'marked', 'months']
+Score: 36939
+Sense:  Synset('day.n.04')
+Overlap: ['time', 'years', 'times']
+Score: 173788
+Sense:  Synset('day.n.05')
+Overlap: ['time', 'times']
+Score: 166095
+Sense:  Synset('day.n.06')
+Overlap: ['shipping', 'marked']
+Score: 15729
+Sense:  Synset('day.n.07')
+Overlap: ['time', 'years', 'long', 'times']
+Score: 1477870
+Sense:  Synset('sidereal_day.n.01')
+Overlap: ['time', 'times']
+Score: 166095
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40204; predicted_sense: [1491617, Synset('day.n.02')]; correct_sense: day-0;
+
+Accuracy: 0.16455696202531644 ; 13 / 79
+__________________________________________________________________________________
+day.40206
+Sense:  Synset('day.n.01')
+Overlap: ['performance']
+Score: 11135
+Sense:  Synset('day.n.02')
+Overlap: ['follow']
+Score: 11924
+Sense:  Synset('day.n.03')
+Overlap: ['work', 'WINTER']
+Score: 305267
+Sense:  Synset('day.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.05')
+Overlap: ['work', 'work']
+Score: 610534
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: []
+Score: 0
+Sense:  Synset('sidereal_day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: ['best', 'work', 'known']
+Score: 371217
+day.40206; predicted_sense: [610534, Synset('day.n.05')]; correct_sense: day-3;
+
+Accuracy: 0.1625 ; 13 / 80
+__________________________________________________________________________________
+day.40208
+Sense:  Synset('day.n.01')
+Overlap: ['time']
+Score: 159957
+Sense:  Synset('day.n.02')
+Overlap: ['individual', 'time', 'good']
+Score: 540563
+Sense:  Synset('day.n.03')
+Overlap: ['come', 'work', 'Monday', 'good', 'July']
+Score: 813654
+Sense:  Synset('day.n.04')
+Overlap: ['Noone', 'time']
+Score: 159957
+Sense:  Synset('day.n.05')
+Overlap: ['work', 'work', 'time']
+Score: 770491
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: ['time']
+Score: 159957
+Sense:  Synset('sidereal_day.n.01')
+Overlap: ['minutes', 'time']
+Score: 161271
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: ['work']
+Score: 305267
+day.40208; predicted_sense: [813654, Synset('day.n.03')]; correct_sense: day-0;
+
+Accuracy: 0.16049382716049382 ; 13 / 81
+__________________________________________________________________________________
+day.40211
+Sense:  Synset('day.n.01')
+Overlap: ['periods']
+Score: 33078
+Sense:  Synset('day.n.02')
+Overlap: ['living', 'human', 'activities', 'periods', 'God']
+Score: 267999
+Sense:  Synset('day.n.03')
+Overlap: ['states', 'states', 'states', 'play', 'play', 'workings', 'affected']
+Score: 47611
+Sense:  Synset('day.n.04')
+Overlap: ['periods']
+Score: 33078
+Sense:  Synset('day.n.05')
+Overlap: ['stocks', 'periods', 'workings', 'workings']
+Score: 45726
+Sense:  Synset('day.n.06')
+Overlap: ['existing', 'periods']
+Score: 35681
+Sense:  Synset('day.n.07')
+Overlap: ['periods', '3']
+Score: 102326
+Sense:  Synset('sidereal_day.n.01')
+Overlap: ['periods']
+Score: 33078
+Sense:  Synset('day.n.09')
+Overlap: ['periods']
+Score: 33078
+Sense:  Synset('day.n.10')
+Overlap: ['states', 'known', 'workings']
+Score: 22153
+day.40211; predicted_sense: [267999, Synset('day.n.02')]; correct_sense: day-0;
+
+Accuracy: 0.15853658536585366 ; 13 / 82
+__________________________________________________________________________________
+day.40212
+Sense:  Synset('day.n.01')
+Overlap: ['leaves']
+Score: 5113
+Sense:  Synset('day.n.02')
+Overlap: ['great', 'plant']
+Score: 376281
+Sense:  Synset('day.n.03')
+Overlap: ['plant']
+Score: 17385
+Sense:  Synset('day.n.04')
+Overlap: ['park', 'Park', 'ENJOY']
+Score: 2279
+Sense:  Synset('day.n.05')
+Overlap: ['8']
+Score: 29658
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: []
+Score: 0
+Sense:  Synset('sidereal_day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: ['best']
+Score: 55441
+day.40212; predicted_sense: [376281, Synset('day.n.02')]; correct_sense: day-1;
+
+Accuracy: 0.1566265060240964 ; 13 / 83
+__________________________________________________________________________________
+day.40215
+Sense:  Synset('day.n.01')
+Overlap: ['leave', 'DAY', 'DAY', 'months']
+Score: 30810
+Sense:  Synset('day.n.02')
+Overlap: ['year', 'Mark', 'DAY', 'DAY']
+Score: 35364
+Sense:  Synset('day.n.03')
+Overlap: ['September', 'week', 'year', 'year', 'Mark', 'Ireland', 'Saturday', 'playing', 'playing', 'US', 'DAY', 'DAY', 'DAY', 'months', 'WEDDING']
+Score: 322097
+Sense:  Synset('day.n.04')
+Overlap: ['year', 'BLUES', 'DAY']
+Score: 32213
+Sense:  Synset('day.n.05')
+Overlap: ['especially', 'recurring', 'DAY']
+Score: 10216
+Sense:  Synset('day.n.06')
+Overlap: ['Mark', 'DAY', 'DAY']
+Score: 3387
+Sense:  Synset('day.n.07')
+Overlap: ['year', 'BLUES', 'DAY', 'DAY']
+Score: 32449
+Sense:  Synset('sidereal_day.n.01')
+Overlap: ['DAY']
+Score: 236
+Sense:  Synset('day.n.09')
+Overlap: ['DAY']
+Score: 236
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40215; predicted_sense: [322097, Synset('day.n.03')]; correct_sense: day-0;
+
+Accuracy: 0.15476190476190477 ; 13 / 84
+__________________________________________________________________________________
+day.40216
+Sense:  Synset('day.n.01')
+Overlap: ['present']
+Score: 3216014
+Sense:  Synset('day.n.02')
+Overlap: ['point']
+Score: 4779
+Sense:  Synset('day.n.03')
+Overlap: ['churches', 'schools', 'schools']
+Score: 246313
+Sense:  Synset('day.n.04')
+Overlap: ['sunset']
+Score: 365
+Sense:  Synset('day.n.05')
+Overlap: ['morning', 'went']
+Score: 123262
+Sense:  Synset('day.n.06')
+Overlap: ['point']
+Score: 4779
+Sense:  Synset('day.n.07')
+Overlap: []
+Score: 0
+Sense:  Synset('sidereal_day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40216; predicted_sense: [3216014, Synset('day.n.01')]; correct_sense: day-0;
+
+Accuracy: 0.16470588235294117 ; 14 / 85
+__________________________________________________________________________________
+day.40220
+Sense:  Synset('day.n.01')
+Overlap: ['left', 'later', 'months', 'immediate']
+Score: 309588
+Sense:  Synset('day.n.02')
+Overlap: ['marked']
+Score: 13747
+Sense:  Synset('day.n.03')
+Overlap: ['main', 'marked', 'months', 'weeks']
+Score: 36985
+Sense:  Synset('day.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.05')
+Overlap: ['called', 'daily']
+Score: 47711
+Sense:  Synset('day.n.06')
+Overlap: ['marked']
+Score: 13747
+Sense:  Synset('day.n.07')
+Overlap: ['3']
+Score: 69248
+Sense:  Synset('sidereal_day.n.01')
+Overlap: ['4']
+Score: 49594
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40220; predicted_sense: [309588, Synset('day.n.01')]; correct_sense: day-0;
+
+Accuracy: 0.1744186046511628 ; 15 / 86
+__________________________________________________________________________________
+day.40222
+Sense:  Synset('day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.02')
+Overlap: ['end']
+Score: 9498
+Sense:  Synset('day.n.03')
+Overlap: ['January', 'early', 'October', 'April', 'declare', 'French']
+Score: 323847
+Sense:  Synset('day.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.05')
+Overlap: ['early']
+Score: 206809
+Sense:  Synset('day.n.06')
+Overlap: ['empire']
+Score: 356
+Sense:  Synset('day.n.07')
+Overlap: []
+Score: 0
+Sense:  Synset('sidereal_day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40222; predicted_sense: [323847, Synset('day.n.03')]; correct_sense: day-0;
+
+Accuracy: 0.1724137931034483 ; 15 / 87
+__________________________________________________________________________________
+day.40223
+Sense:  Synset('day.n.01')
+Overlap: ['including', '000']
+Score: 16422
+Sense:  Synset('day.n.02')
+Overlap: ['activity', 'individual', 'specific']
+Score: 50544
+Sense:  Synset('day.n.03')
+Overlap: ['week', 'Even', 'degree']
+Score: 173112
+Sense:  Synset('day.n.04')
+Overlap: ['Even']
+Score: 1653
+Sense:  Synset('day.n.05')
+Overlap: ['requires', 'required']
+Score: 18282
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: []
+Score: 0
+Sense:  Synset('sidereal_day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.09')
+Overlap: ['circumstances', 'possible']
+Score: 22181
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40223; predicted_sense: [173112, Synset('day.n.03')]; correct_sense: day-0;
+
+Accuracy: 0.17045454545454544 ; 15 / 88
+__________________________________________________________________________________
+day.40225
+Sense:  Synset('day.n.01')
+Overlap: ['left', 'time']
+Score: 183447
+Sense:  Synset('day.n.02')
+Overlap: ['year', 'time', 'end']
+Score: 201432
+Sense:  Synset('day.n.03')
+Overlap: ['September', 'come', 'year', 'year', 'work', 'country']
+Score: 492742
+Sense:  Synset('day.n.04')
+Overlap: ['year', 'time']
+Score: 191934
+Sense:  Synset('day.n.05')
+Overlap: ['work', 'work', 'time']
+Score: 770491
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: ['year', 'time']
+Score: 191934
+Sense:  Synset('sidereal_day.n.01')
+Overlap: ['time']
+Score: 159957
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: ['work']
+Score: 305267
+day.40225; predicted_sense: [770491, Synset('day.n.05')]; correct_sense: day-3;
+
+Accuracy: 0.16853932584269662 ; 15 / 89
+__________________________________________________________________________________
+day.40228
+Sense:  Synset('day.n.01')
+Overlap: ['30', 'leave', 'time']
+Score: 198079
+Sense:  Synset('day.n.02')
+Overlap: ['time', 'points']
+Score: 161656
+Sense:  Synset('day.n.03')
+Overlap: ['January', 'battle', 'battle', 'pay', 'secondly', 'public']
+Score: 157550
+Sense:  Synset('day.n.04')
+Overlap: ['30', 'time']
+Score: 175202
+Sense:  Synset('day.n.05')
+Overlap: ['wage', 'agreed', 'time']
+Score: 179537
+Sense:  Synset('day.n.06')
+Overlap: ['points']
+Score: 1699
+Sense:  Synset('day.n.07')
+Overlap: ['30', 'time']
+Score: 175202
+Sense:  Synset('sidereal_day.n.01')
+Overlap: ['time']
+Score: 159957
+Sense:  Synset('day.n.09')
+Overlap: ['chance']
+Score: 1124
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40228; predicted_sense: [198079, Synset('day.n.01')]; correct_sense: day-0;
+
+Accuracy: 0.17777777777777778 ; 16 / 90
+__________________________________________________________________________________
+day.40231
+Sense:  Synset('day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.02')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.03')
+Overlap: ['happy', 'coming']
+Score: 213575
+Sense:  Synset('day.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.05')
+Overlap: ['required']
+Score: 11093
+Sense:  Synset('day.n.06')
+Overlap: ['success']
+Score: 2206
+Sense:  Synset('day.n.07')
+Overlap: []
+Score: 0
+Sense:  Synset('sidereal_day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40231; predicted_sense: [213575, Synset('day.n.03')]; correct_sense: day-0;
+
+Accuracy: 0.17582417582417584 ; 16 / 91
+__________________________________________________________________________________
+day.40232
+Sense:  Synset('day.n.01')
+Overlap: ['particularly', 'time', 'present']
+Score: 3379518
+Sense:  Synset('day.n.02')
+Overlap: ['time', 'end']
+Score: 169455
+Sense:  Synset('day.n.03')
+Overlap: ['particularly', 'second', 'George']
+Score: 1062271
+Sense:  Synset('day.n.04')
+Overlap: ['time', 'turned']
+Score: 182632
+Sense:  Synset('day.n.05')
+Overlap: ['time']
+Score: 159957
+Sense:  Synset('day.n.06')
+Overlap: ['existence']
+Score: 35669
+Sense:  Synset('day.n.07')
+Overlap: ['particularly', 'taken', 'time']
+Score: 178780
+Sense:  Synset('sidereal_day.n.01')
+Overlap: ['particularly', 'time']
+Score: 163504
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40232; predicted_sense: [3379518, Synset('day.n.01')]; correct_sense: day-3;
+
+Accuracy: 0.17391304347826086 ; 16 / 92
+__________________________________________________________________________________
+day.40234
+Sense:  Synset('day.n.01')
+Overlap: ['later', 'time']
+Score: 435311
+Sense:  Synset('day.n.02')
+Overlap: ['time', 'followed']
+Score: 194172
+Sense:  Synset('day.n.03')
+Overlap: ['night', 'battle', 'battle', 'early', 'red', 'weeks']
+Score: 287796
+Sense:  Synset('day.n.04')
+Overlap: ['night', 'time', 'light']
+Score: 221668
+Sense:  Synset('day.n.05')
+Overlap: ['early', 'called', 'time', 'morning']
+Score: 438505
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: ['time']
+Score: 159957
+Sense:  Synset('sidereal_day.n.01')
+Overlap: ['time']
+Score: 159957
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40234; predicted_sense: [438505, Synset('day.n.05')]; correct_sense: day-0;
+
+Accuracy: 0.17204301075268819 ; 16 / 93
+__________________________________________________________________________________
+day.40237
+Sense:  Synset('day.n.01')
+Overlap: ['elected']
+Score: 1647
+Sense:  Synset('day.n.02')
+Overlap: ['living']
+Score: 73306
+Sense:  Synset('day.n.03')
+Overlap: ['work', 'mother', 'elected', 'French']
+Score: 318176
+Sense:  Synset('day.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.05')
+Overlap: ['especially', 'work', 'work']
+Score: 618960
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: []
+Score: 0
+Sense:  Synset('sidereal_day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: ['best', 'work', 'known']
+Score: 371217
+day.40237; predicted_sense: [618960, Synset('day.n.05')]; correct_sense: day-0;
+
+Accuracy: 0.1702127659574468 ; 16 / 94
+__________________________________________________________________________________
+day.40240
+Sense:  Synset('day.n.01')
+Overlap: ['today', 'today', 'tomorrow', 'measure', 'immediate']
+Score: 111520
+Sense:  Synset('day.n.02')
+Overlap: ['years', 'God']
+Score: 54974
+Sense:  Synset('day.n.03')
+Overlap: ['come', 'churches', 'tomorrow', 'years', 'years', 'exercises', 'Church', 'people']
+Score: 183193
+Sense:  Synset('day.n.04')
+Overlap: ['years']
+Score: 7693
+Sense:  Synset('day.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.06')
+Overlap: ['influence']
+Score: 3980
+Sense:  Synset('day.n.07')
+Overlap: ['years']
+Score: 7693
+Sense:  Synset('sidereal_day.n.01')
+Overlap: ['measure', 'measure']
+Score: 3778
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: ['best']
+Score: 55441
+day.40240; predicted_sense: [183193, Synset('day.n.03')]; correct_sense: day-3;
+
+Accuracy: 0.16842105263157894 ; 16 / 95
+__________________________________________________________________________________
+day.40242
+Sense:  Synset('day.n.01')
+Overlap: ['task', 'time', '000']
+Score: 165924
+Sense:  Synset('day.n.02')
+Overlap: ['living', 'year', 'time']
+Score: 265240
+Sense:  Synset('day.n.03')
+Overlap: ['prize', 'night', 'weekly', 'year', 'year', 'work', 'Saturday', 'pay', 'competitions', 'comes']
+Score: 592661
+Sense:  Synset('day.n.04')
+Overlap: ['night', 'year', 'time']
+Score: 204544
+Sense:  Synset('day.n.05')
+Overlap: ['work', 'work', 'time']
+Score: 770491
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: ['year', 'time']
+Score: 191934
+Sense:  Synset('sidereal_day.n.01')
+Overlap: ['time']
+Score: 159957
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: ['work']
+Score: 305267
+day.40242; predicted_sense: [770491, Synset('day.n.05')]; correct_sense: day-3;
+
+Accuracy: 0.16666666666666666 ; 16 / 96
+__________________________________________________________________________________
+day.40244
+Sense:  Synset('day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.02')
+Overlap: ['according', 'following', 'followed']
+Score: 3193881
+Sense:  Synset('day.n.03')
+Overlap: ['week', 'work', 'adopt', 'weeks']
+Score: 478620
+Sense:  Synset('day.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.05')
+Overlap: ['work', 'work']
+Score: 610534
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: []
+Score: 0
+Sense:  Synset('sidereal_day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: ['work']
+Score: 305267
+day.40244; predicted_sense: [3193881, Synset('day.n.02')]; correct_sense: day-0;
+
+Accuracy: 0.16494845360824742 ; 16 / 97
+__________________________________________________________________________________
+day.40246
+Sense:  Synset('day.n.01')
+Overlap: ['setting']
+Score: 6589
+Sense:  Synset('day.n.02')
+Overlap: ['According']
+Score: 293
+Sense:  Synset('day.n.03')
+Overlap: ['setting', 'aside', 'people']
+Score: 51539
+Sense:  Synset('day.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.05')
+Overlap: ['agree']
+Score: 1936
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: []
+Score: 0
+Sense:  Synset('sidereal_day.n.01')
+Overlap: ['4', 'minutes', 'mean']
+Score: 64057
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40246; predicted_sense: [64057, Synset('sidereal_day.n.01')]; correct_sense: day-0;
+
+Accuracy: 0.16326530612244897 ; 16 / 98
+__________________________________________________________________________________
+day.40249
+Sense:  Synset('day.n.01')
+Overlap: ['Today', 'Today']
+Score: 674
+Sense:  Synset('day.n.02')
+Overlap: ['New', 'new']
+Score: 250
+Sense:  Synset('day.n.03')
+Overlap: ['political', 'states', 'states', 'states', 'state', 'state', 'state', 'MARCH', 'related', 'nation', 'COME', 'SATURDAY', 'New', 'community', 'new', 'sessions', 'conference']
+Score: 946
+Sense:  Synset('day.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.05')
+Overlap: ['calls']
+Score: 0
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: []
+Score: 0
+Sense:  Synset('sidereal_day.n.01')
+Overlap: ['related']
+Score: 0
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: ['states', 'state']
+Score: 0
+day.40249; predicted_sense: [946, Synset('day.n.03')]; correct_sense: day-1;
+
+Accuracy: 0.16161616161616163 ; 16 / 99
+__________________________________________________________________________________
+day.40250
+Sense:  Synset('day.n.01')
+Overlap: ['30', 'United']
+Score: 23097
+Sense:  Synset('day.n.02')
+Overlap: ['New']
+Score: 17881
+Sense:  Synset('day.n.03')
+Overlap: ['6', 'New', 'States', 'States', 'States', 'United', 'nights']
+Score: 63514
+Sense:  Synset('day.n.04')
+Overlap: ['30', 'nights', 'turned']
+Score: 38681
+Sense:  Synset('day.n.05')
+Overlap: ['8']
+Score: 29658
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: ['27', '30', '3']
+Score: 88254
+Sense:  Synset('sidereal_day.n.01')
+Overlap: ['4', 'United']
+Score: 57446
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: ['States', 'United']
+Score: 8535
+day.40250; predicted_sense: [88254, Synset('day.n.07')]; correct_sense: day-1;
+
+Accuracy: 0.16 ; 16 / 100
+__________________________________________________________________________________
+day.40255
+Sense:  Synset('day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.02')
+Overlap: ['new', 'end']
+Score: 364683
+Sense:  Synset('day.n.03')
+Overlap: ['holiday', 'holiday', 'new', 'July']
+Score: 426414
+Sense:  Synset('day.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.05')
+Overlap: ['began']
+Score: 101901
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: []
+Score: 0
+Sense:  Synset('sidereal_day.n.01')
+Overlap: ['star', 'star']
+Score: 14816
+Sense:  Synset('day.n.09')
+Overlap: ['holiday']
+Score: 14168
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40255; predicted_sense: [426414, Synset('day.n.03')]; correct_sense: day-3;
+
+Accuracy: 0.15841584158415842 ; 16 / 101
+__________________________________________________________________________________
+day.40259
+Sense:  Synset('day.n.01')
+Overlap: ['particular']
+Score: 246062
+Sense:  Synset('day.n.02')
+Overlap: ['Things']
+Score: 282
+Sense:  Synset('day.n.03')
+Overlap: ['Things', 'admitted', 'pay', 'worked', 'practice', 'particular']
+Score: 387981
+Sense:  Synset('day.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.05')
+Overlap: ['worked', 'worked']
+Score: 86314
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: ['particular']
+Score: 246062
+Sense:  Synset('sidereal_day.n.01')
+Overlap: ['particular']
+Score: 246062
+Sense:  Synset('day.n.09')
+Overlap: ['court']
+Score: 17820
+Sense:  Synset('day.n.10')
+Overlap: ['worked']
+Score: 43157
+day.40259; predicted_sense: [387981, Synset('day.n.03')]; correct_sense: day-0;
+
+Accuracy: 0.1568627450980392 ; 16 / 102
+__________________________________________________________________________________
+day.40261
+Sense:  Synset('day.n.01')
+Overlap: ['times']
+Score: 6138
+Sense:  Synset('day.n.02')
+Overlap: ['great', 'following', 'times']
+Score: 3494985
+Sense:  Synset('day.n.03')
+Overlap: ['young', 'mailed', 'worked']
+Score: 56577
+Sense:  Synset('day.n.04')
+Overlap: ['times']
+Score: 6138
+Sense:  Synset('day.n.05')
+Overlap: ['hour', 'hour', 'called', 'worked', 'worked', 'times']
+Score: 940531
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: ['times']
+Score: 6138
+Sense:  Synset('sidereal_day.n.01')
+Overlap: ['times']
+Score: 6138
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: ['worked']
+Score: 43157
+day.40261; predicted_sense: [3494985, Synset('day.n.02')]; correct_sense: day-0;
+
+Accuracy: 0.1553398058252427 ; 16 / 103
+__________________________________________________________________________________
+day.40262
+Sense:  Synset('day.n.01')
+Overlap: ['times', 'immediately']
+Score: 24759
+Sense:  Synset('day.n.02')
+Overlap: ['Living', 'good', 'times']
+Score: 382653
+Sense:  Synset('day.n.03')
+Overlap: ['Work', 'good', 'country', 'weeks']
+Score: 396720
+Sense:  Synset('day.n.04')
+Overlap: ['times']
+Score: 6138
+Sense:  Synset('day.n.05')
+Overlap: ['Work', 'Work', 'times']
+Score: 10276
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: ['times']
+Score: 6138
+Sense:  Synset('sidereal_day.n.01')
+Overlap: ['times']
+Score: 6138
+Sense:  Synset('day.n.09')
+Overlap: ['chances']
+Score: 301
+Sense:  Synset('day.n.10')
+Overlap: ['Work']
+Score: 2069
+day.40262; predicted_sense: [396720, Synset('day.n.03')]; correct_sense: day-0;
+
+Accuracy: 0.15384615384615385 ; 16 / 104
+__________________________________________________________________________________
+day.40265
+Sense:  Synset('day.n.01')
+Overlap: ['particularly', 'Eve']
+Score: 7232
+Sense:  Synset('day.n.02')
+Overlap: ['live', 'human']
+Score: 35141
+Sense:  Synset('day.n.03')
+Overlap: ['midnight', 'designs', 'particularly', 'Eve', 'Midsummer', 'people', 'moon']
+Score: 84612
+Sense:  Synset('day.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.05')
+Overlap: ['went']
+Score: 97120
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: ['particularly', 'moon']
+Score: 33178
+Sense:  Synset('sidereal_day.n.01')
+Overlap: ['particularly']
+Score: 3547
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40265; predicted_sense: [97120, Synset('day.n.05')]; correct_sense: day-3;
+
+Accuracy: 0.1523809523809524 ; 16 / 105
+__________________________________________________________________________________
+day.40266
+Sense:  Synset('day.n.01')
+Overlap: ['later', 'time']
+Score: 435311
+Sense:  Synset('day.n.02')
+Overlap: ['activity', 'time']
+Score: 180462
+Sense:  Synset('day.n.03')
+Overlap: ['evening', 'Working', 'admit', 'night', 'degrees', 'fix']
+Score: 35741
+Sense:  Synset('day.n.04')
+Overlap: ['evening', 'night', 'outside', 'spent', 'time', 'late']
+Score: 364622
+Sense:  Synset('day.n.05')
+Overlap: ['Working', 'Working', 'time', 'agree']
+Score: 172409
+Sense:  Synset('day.n.06')
+Overlap: ['fix']
+Score: 1125
+Sense:  Synset('day.n.07')
+Overlap: ['time']
+Score: 159957
+Sense:  Synset('sidereal_day.n.01')
+Overlap: ['time']
+Score: 159957
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: ['Working']
+Score: 5258
+day.40266; predicted_sense: [435311, Synset('day.n.01')]; correct_sense: day-1;
+
+Accuracy: 0.1509433962264151 ; 16 / 106
+__________________________________________________________________________________
+day.40268
+Sense:  Synset('day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.02')
+Overlap: ['God']
+Score: 47281
+Sense:  Synset('day.n.03')
+Overlap: ['Mother', 'remember', 'night', 'early', 'school', 'school', 'comes']
+Score: 1294701
+Sense:  Synset('day.n.04')
+Overlap: ['night']
+Score: 12610
+Sense:  Synset('day.n.05')
+Overlap: ['early', 'went']
+Score: 303929
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: []
+Score: 0
+Sense:  Synset('sidereal_day.n.01')
+Overlap: ['mean']
+Score: 13149
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40268; predicted_sense: [1294701, Synset('day.n.03')]; correct_sense: day-1;
+
+Accuracy: 0.14953271028037382 ; 16 / 107
+__________________________________________________________________________________
+day.40269
+Sense:  Synset('day.n.01')
+Overlap: ['makes', 'time', 'times']
+Score: 192866
+Sense:  Synset('day.n.02')
+Overlap: ['year', 'time', 'times']
+Score: 198072
+Sense:  Synset('day.n.03')
+Overlap: ['Second', 'occurred', 'remember', 'year', 'year', 'annually', 'military', 'school', 'school', 'coming']
+Score: 1120362
+Sense:  Synset('day.n.04')
+Overlap: ['year', 'makes', 'time', 'times']
+Score: 224843
+Sense:  Synset('day.n.05')
+Overlap: ['time', 'times', 'required']
+Score: 177188
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: ['year', 'makes', 'time', 'times']
+Score: 224843
+Sense:  Synset('sidereal_day.n.01')
+Overlap: ['time', 'times']
+Score: 166095
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40269; predicted_sense: [1120362, Synset('day.n.03')]; correct_sense: day-3;
+
+Accuracy: 0.14814814814814814 ; 16 / 108
+__________________________________________________________________________________
+day.40271
+Sense:  Synset('day.n.01')
+Overlap: ['make', 'time', '000']
+Score: 211601
+Sense:  Synset('day.n.02')
+Overlap: ['time']
+Score: 159957
+Sense:  Synset('day.n.03')
+Overlap: ['night', 'early', 'public']
+Score: 247112
+Sense:  Synset('day.n.04')
+Overlap: ['night', 'make', 'time', 'turned']
+Score: 246744
+Sense:  Synset('day.n.05')
+Overlap: ['early', 'time', 'morning']
+Score: 392908
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: ['make', 'time']
+Score: 211459
+Sense:  Synset('sidereal_day.n.01')
+Overlap: ['time']
+Score: 159957
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40271; predicted_sense: [392908, Synset('day.n.05')]; correct_sense: day-0;
+
+Accuracy: 0.14678899082568808 ; 16 / 109
+__________________________________________________________________________________
+day.40274
+Sense:  Synset('day.n.01')
+Overlap: ['time']
+Score: 159957
+Sense:  Synset('day.n.02')
+Overlap: ['individual', 'time', 'new', 'years', 'long', 'usually']
+Score: 1845572
+Sense:  Synset('day.n.03')
+Overlap: ['new', 'years', 'years', 'people']
+Score: 413694
+Sense:  Synset('day.n.04')
+Overlap: ['time', 'years']
+Score: 167650
+Sense:  Synset('day.n.05')
+Overlap: ['time']
+Score: 159957
+Sense:  Synset('day.n.06')
+Overlap: ['success', 'character']
+Score: 5347
+Sense:  Synset('day.n.07')
+Overlap: ['time', 'years', 'long']
+Score: 1471732
+Sense:  Synset('sidereal_day.n.01')
+Overlap: ['minutes', 'time']
+Score: 161271
+Sense:  Synset('day.n.09')
+Overlap: ['dog', 'dogs']
+Score: 3201
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40274; predicted_sense: [1845572, Synset('day.n.02')]; correct_sense: day-0;
+
+Accuracy: 0.14545454545454545 ; 16 / 110
+__________________________________________________________________________________
+day.40275
+Sense:  Synset('day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.02')
+Overlap: ['long']
+Score: 1304082
+Sense:  Synset('day.n.03')
+Overlap: ['universe']
+Score: 955
+Sense:  Synset('day.n.04')
+Overlap: ['outside']
+Score: 29577
+Sense:  Synset('day.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.06')
+Overlap: ['ship']
+Score: 1819
+Sense:  Synset('day.n.07')
+Overlap: ['planet', 'long']
+Score: 1304302
+Sense:  Synset('sidereal_day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40275; predicted_sense: [1304302, Synset('day.n.07')]; correct_sense: day-3;
+
+Accuracy: 0.14414414414414414 ; 16 / 111
+__________________________________________________________________________________
+day.40278
+Sense:  Synset('day.n.01')
+Overlap: ['month', '000']
+Score: 21994
+Sense:  Synset('day.n.02')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.03')
+Overlap: ['publication', 'January', 'month', 'October', 'pays', 'April', 'National', 'July']
+Score: 184030
+Sense:  Synset('day.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: []
+Score: 0
+Sense:  Synset('sidereal_day.n.01')
+Overlap: ['4', 'means']
+Score: 66170
+Sense:  Synset('day.n.09')
+Overlap: ['possibility']
+Score: 337
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40278; predicted_sense: [184030, Synset('day.n.03')]; correct_sense: day-0;
+
+Accuracy: 0.14285714285714285 ; 16 / 112
+__________________________________________________________________________________
+day.40280
+Sense:  Synset('day.n.01')
+Overlap: ['including', '30']
+Score: 31525
+Sense:  Synset('day.n.02')
+Overlap: ['things', 'Marks']
+Score: 17856
+Sense:  Synset('day.n.03')
+Overlap: ['Work', 'legal', 'things', 'Marks', 'pay']
+Score: 79789
+Sense:  Synset('day.n.04')
+Overlap: ['30', 'recovery']
+Score: 18662
+Sense:  Synset('day.n.05')
+Overlap: ['agrees', 'Work', 'Work']
+Score: 4543
+Sense:  Synset('day.n.06')
+Overlap: ['Marks']
+Score: 126
+Sense:  Synset('day.n.07')
+Overlap: ['30', 'recovery']
+Score: 18662
+Sense:  Synset('sidereal_day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: ['Work']
+Score: 2069
+day.40280; predicted_sense: [79789, Synset('day.n.03')]; correct_sense: day-0;
+
+Accuracy: 0.1415929203539823 ; 16 / 113
+__________________________________________________________________________________
+day.40281
+Sense:  Synset('day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.02')
+Overlap: ['good']
+Score: 375227
+Sense:  Synset('day.n.03')
+Overlap: ['midnight', 'political', 'evening', 'People', 'Community', 'played', 'played', 'federal', 'exercise', 'community', 'good', 'public', 'publicity']
+Score: 469200
+Sense:  Synset('day.n.04')
+Overlap: ['evening']
+Score: 12447
+Sense:  Synset('day.n.05')
+Overlap: ['hour', 'hour']
+Score: 802482
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: []
+Score: 0
+Sense:  Synset('sidereal_day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40281; predicted_sense: [802482, Synset('day.n.05')]; correct_sense: day-0;
+
+Accuracy: 0.14035087719298245 ; 16 / 114
+__________________________________________________________________________________
+day.40283
+Sense:  Synset('day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.02')
+Overlap: ['follow', 'following']
+Score: 3141875
+Sense:  Synset('day.n.03')
+Overlap: ['comes']
+Score: 123865
+Sense:  Synset('day.n.04')
+Overlap: ['turn', 'Dawn']
+Score: 16234
+Sense:  Synset('day.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: []
+Score: 0
+Sense:  Synset('sidereal_day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.09')
+Overlap: ['dog', 'dogs']
+Score: 3201
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40283; predicted_sense: [3141875, Synset('day.n.02')]; correct_sense: day-0;
+
+Accuracy: 0.1391304347826087 ; 16 / 115
+__________________________________________________________________________________
+day.40287
+Sense:  Synset('day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.02')
+Overlap: ['actor', 'lived']
+Score: 10246
+Sense:  Synset('day.n.03')
+Overlap: ['displayed']
+Score: 2152
+Sense:  Synset('day.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: []
+Score: 0
+Sense:  Synset('sidereal_day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: ['best']
+Score: 55441
+day.40287; predicted_sense: [55441, Synset('day.n.10')]; correct_sense: day-3;
+
+Accuracy: 0.13793103448275862 ; 16 / 116
+__________________________________________________________________________________
+day.40289
+Sense:  Synset('day.n.01')
+Overlap: ['make', '000']
+Score: 51644
+Sense:  Synset('day.n.02')
+Overlap: ['new']
+Score: 355185
+Sense:  Synset('day.n.03')
+Overlap: ['work', 'spring', 'pay', 'new']
+Score: 856296
+Sense:  Synset('day.n.04')
+Overlap: ['make']
+Score: 51502
+Sense:  Synset('day.n.05')
+Overlap: ['work', 'work']
+Score: 610534
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: ['make']
+Score: 51502
+Sense:  Synset('sidereal_day.n.01')
+Overlap: ['means']
+Score: 16576
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: ['work']
+Score: 305267
+day.40289; predicted_sense: [856296, Synset('day.n.03')]; correct_sense: day-0;
+
+Accuracy: 0.13675213675213677 ; 16 / 117
+__________________________________________________________________________________
+day.40290
+Sense:  Synset('day.n.01')
+Overlap: ['make', 'later', 'month', 'set']
+Score: 422987
+Sense:  Synset('day.n.02')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.03')
+Overlap: ['night', 'ground', 'red', 'month', 'set', 'weeks', 'people', 'moon']
+Score: 199944
+Sense:  Synset('day.n.04')
+Overlap: ['Late', 'night', 'make', 'Lake']
+Score: 66431
+Sense:  Synset('day.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: ['make', 'moon']
+Score: 81133
+Sense:  Synset('sidereal_day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40290; predicted_sense: [422987, Synset('day.n.01')]; correct_sense: day-0;
+
+Accuracy: 0.1440677966101695 ; 17 / 118
+__________________________________________________________________________________
+day.40292
+Sense:  Synset('day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.02')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.03')
+Overlap: ['young']
+Score: 13038
+Sense:  Synset('day.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: []
+Score: 0
+Sense:  Synset('sidereal_day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40292; predicted_sense: [13038, Synset('day.n.03')]; correct_sense: day-0;
+
+Accuracy: 0.14285714285714285 ; 17 / 119
+__________________________________________________________________________________
+day.40293
+Sense:  Synset('day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.02')
+Overlap: ['guess']
+Score: 241
+Sense:  Synset('day.n.03')
+Overlap: ['political', 'market', 'markets', 'competitive', 'coming']
+Score: 207321
+Sense:  Synset('day.n.04')
+Overlap: ['middle']
+Score: 5276
+Sense:  Synset('day.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: []
+Score: 0
+Sense:  Synset('sidereal_day.n.01')
+Overlap: ['means']
+Score: 16576
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40293; predicted_sense: [207321, Synset('day.n.03')]; correct_sense: day-1;
+
+Accuracy: 0.14166666666666666 ; 17 / 120
+__________________________________________________________________________________
+day.40295
+Sense:  Synset('day.n.01')
+Overlap: ['time', 'periods']
+Score: 193035
+Sense:  Synset('day.n.02')
+Overlap: ['waiting', 'time', 'periods']
+Score: 228818
+Sense:  Synset('day.n.03')
+Overlap: ['work', 'people']
+Score: 348390
+Sense:  Synset('day.n.04')
+Overlap: ['time', 'lights', 'periods']
+Score: 194249
+Sense:  Synset('day.n.05')
+Overlap: ['work', 'work', 'time', 'periods']
+Score: 803569
+Sense:  Synset('day.n.06')
+Overlap: ['periods']
+Score: 33078
+Sense:  Synset('day.n.07')
+Overlap: ['time', 'periods']
+Score: 193035
+Sense:  Synset('sidereal_day.n.01')
+Overlap: ['time', 'means', 'periods']
+Score: 209611
+Sense:  Synset('day.n.09')
+Overlap: ['possibly', 'periods', 'opportunity']
+Score: 35802
+Sense:  Synset('day.n.10')
+Overlap: ['work']
+Score: 305267
+day.40295; predicted_sense: [803569, Synset('day.n.05')]; correct_sense: day-1;
+
+Accuracy: 0.1487603305785124 ; 18 / 121
+__________________________________________________________________________________
+day.40296
+Sense:  Synset('day.n.01')
+Overlap: ['set', 'period']
+Score: 535547
+Sense:  Synset('day.n.02')
+Overlap: ['years', 'ended', 'period']
+Score: 510979
+Sense:  Synset('day.n.03')
+Overlap: ['American', 'Victory', 'years', 'years', 'set', 'national']
+Score: 151264
+Sense:  Synset('day.n.04')
+Overlap: ['park', 'years', 'period']
+Score: 470320
+Sense:  Synset('day.n.05')
+Overlap: ['began', 'period']
+Score: 563169
+Sense:  Synset('day.n.06')
+Overlap: ['period']
+Score: 461268
+Sense:  Synset('day.n.07')
+Overlap: ['years', 'period']
+Score: 468961
+Sense:  Synset('sidereal_day.n.01')
+Overlap: ['period']
+Score: 461268
+Sense:  Synset('day.n.09')
+Overlap: ['period']
+Score: 461268
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40296; predicted_sense: [563169, Synset('day.n.05')]; correct_sense: day-3;
+
+Accuracy: 0.14754098360655737 ; 18 / 122
+__________________________________________________________________________________
+day.40299
+Sense:  Synset('day.n.01')
+Overlap: ['including', 'make', 'times']
+Score: 73920
+Sense:  Synset('day.n.02')
+Overlap: ['live', 'times']
+Score: 28465
+Sense:  Synset('day.n.03')
+Overlap: ['plot', 'work', 'laundry', 'Americans', 'comes', 'people']
+Score: 485621
+Sense:  Synset('day.n.04')
+Overlap: ['make', 'times']
+Score: 57640
+Sense:  Synset('day.n.05')
+Overlap: ['wages', 'work', 'work', 'times']
+Score: 628489
+Sense:  Synset('day.n.06')
+Overlap: ['ship']
+Score: 1819
+Sense:  Synset('day.n.07')
+Overlap: ['make', 'times']
+Score: 57640
+Sense:  Synset('sidereal_day.n.01')
+Overlap: ['meaning', 'times']
+Score: 10863
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: ['work']
+Score: 305267
+day.40299; predicted_sense: [628489, Synset('day.n.05')]; correct_sense: day-1;
+
+Accuracy: 0.15447154471544716 ; 19 / 123
+__________________________________________________________________________________
+day.40304
+Sense:  Synset('day.n.01')
+Overlap: ['left', 'set']
+Score: 97769
+Sense:  Synset('day.n.02')
+Overlap: ['individual']
+Score: 5379
+Sense:  Synset('day.n.03')
+Overlap: ['come', 'received', 'delivered', 'set']
+Score: 202974
+Sense:  Synset('day.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.05')
+Overlap: ['called', 'went']
+Score: 142717
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: []
+Score: 0
+Sense:  Synset('sidereal_day.n.01')
+Overlap: ['motion']
+Score: 3946
+Sense:  Synset('day.n.09')
+Overlap: ['court', 'gave', 'Court']
+Score: 52782
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40304; predicted_sense: [202974, Synset('day.n.03')]; correct_sense: day-0;
+
+Accuracy: 0.1532258064516129 ; 19 / 124
+__________________________________________________________________________________
+day.40310
+Sense:  Synset('day.n.01')
+Overlap: ['making', 'set', 'periods']
+Score: 139092
+Sense:  Synset('day.n.02')
+Overlap: ['ended', 'periods']
+Score: 75096
+Sense:  Synset('day.n.03')
+Overlap: ['week', 'aside', 'pay', 'set']
+Score: 287180
+Sense:  Synset('day.n.04')
+Overlap: ['making', 'periods']
+Score: 64813
+Sense:  Synset('day.n.05')
+Overlap: ['morning', 'periods', 'began']
+Score: 161121
+Sense:  Synset('day.n.06')
+Overlap: ['periods']
+Score: 33078
+Sense:  Synset('day.n.07')
+Overlap: ['making', 'periods']
+Score: 64813
+Sense:  Synset('sidereal_day.n.01')
+Overlap: ['periods']
+Score: 33078
+Sense:  Synset('day.n.09')
+Overlap: ['periods']
+Score: 33078
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40310; predicted_sense: [287180, Synset('day.n.03')]; correct_sense: day-0;
+
+Accuracy: 0.152 ; 19 / 125
+__________________________________________________________________________________
+day.40313
+Sense:  Synset('day.n.01')
+Overlap: ['arrived', 'arrive', 'make', 'set']
+Score: 231384
+Sense:  Synset('day.n.02')
+Overlap: ['arrived', 'arrive', 'following']
+Score: 3235554
+Sense:  Synset('day.n.03')
+Overlap: ['night', 'ground', 'set', 'July']
+Score: 133034
+Sense:  Synset('day.n.04')
+Overlap: ['night', 'make', 'spent']
+Score: 135177
+Sense:  Synset('day.n.05')
+Overlap: ['went']
+Score: 97120
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: ['make']
+Score: 51502
+Sense:  Synset('sidereal_day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40313; predicted_sense: [3235554, Synset('day.n.02')]; correct_sense: day-0;
+
+Accuracy: 0.15079365079365079 ; 19 / 126
+__________________________________________________________________________________
+day.40314
+Sense:  Synset('day.n.01')
+Overlap: ['performances']
+Score: 2468
+Sense:  Synset('day.n.02')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.03')
+Overlap: ['week', '6', 'affect', 'early', 'University', 'Wedding', 'second', 'school', 'school']
+Score: 2397954
+Sense:  Synset('day.n.04')
+Overlap: ['Lake']
+Score: 1907
+Sense:  Synset('day.n.05')
+Overlap: ['early']
+Score: 206809
+Sense:  Synset('day.n.06')
+Overlap: ['Empire']
+Score: 419
+Sense:  Synset('day.n.07')
+Overlap: []
+Score: 0
+Sense:  Synset('sidereal_day.n.01')
+Overlap: ['minutes']
+Score: 1314
+Sense:  Synset('day.n.09')
+Overlap: ['visit']
+Score: 65830
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40314; predicted_sense: [2397954, Synset('day.n.03')]; correct_sense: day-0;
+
+Accuracy: 0.14960629921259844 ; 19 / 127
+__________________________________________________________________________________
+day.40319
+Sense:  Synset('day.n.01')
+Overlap: ['particularly', 'time']
+Score: 163504
+Sense:  Synset('day.n.02')
+Overlap: ['living', 'live', 'time']
+Score: 255590
+Sense:  Synset('day.n.03')
+Overlap: ['particularly', 'exercise', 'works', 'people']
+Score: 62250
+Sense:  Synset('day.n.04')
+Overlap: ['time']
+Score: 159957
+Sense:  Synset('day.n.05')
+Overlap: ['hour', 'hour', 'time', 'works', 'works', 'agree']
+Score: 980057
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: ['particularly', 'time', '3']
+Score: 232752
+Sense:  Synset('sidereal_day.n.01')
+Overlap: ['4', 'minutes', 'particularly', 'time']
+Score: 214412
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: ['works']
+Score: 7841
+day.40319; predicted_sense: [980057, Synset('day.n.05')]; correct_sense: day-0;
+
+Accuracy: 0.1484375 ; 19 / 128
+__________________________________________________________________________________
+day.40322
+Sense:  Synset('day.n.01')
+Overlap: ['makes', 'immediately']
+Score: 45392
+Sense:  Synset('day.n.02')
+Overlap: ['point']
+Score: 4779
+Sense:  Synset('day.n.03')
+Overlap: ['practically', 'relation', 'second']
+Score: 1054623
+Sense:  Synset('day.n.04')
+Overlap: ['makes']
+Score: 26771
+Sense:  Synset('day.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.06')
+Overlap: ['point']
+Score: 4779
+Sense:  Synset('day.n.07')
+Overlap: ['makes']
+Score: 26771
+Sense:  Synset('sidereal_day.n.01')
+Overlap: ['relation']
+Score: 493
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40322; predicted_sense: [1054623, Synset('day.n.03')]; correct_sense: day-3;
+
+Accuracy: 0.14728682170542637 ; 19 / 129
+__________________________________________________________________________________
+day.40325
+Sense:  Synset('day.n.01')
+Overlap: ['leaves', 'law', 'elections']
+Score: 17248
+Sense:  Synset('day.n.02')
+Overlap: ['according', 'new']
+Score: 384900
+Sense:  Synset('day.n.03')
+Overlap: ['week', '6', 'union', 'People', 'law', 'peoples', 'working', 'May', 'new', 'elections', 'country']
+Score: 1177225
+Sense:  Synset('day.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.05')
+Overlap: ['working', 'working']
+Score: 1139108
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: []
+Score: 0
+Sense:  Synset('sidereal_day.n.01')
+Overlap: ['means']
+Score: 16576
+Sense:  Synset('day.n.09')
+Overlap: ['possibility']
+Score: 337
+Sense:  Synset('day.n.10')
+Overlap: ['working']
+Score: 569554
+day.40325; predicted_sense: [1177225, Synset('day.n.03')]; correct_sense: day-0;
+
+Accuracy: 0.14615384615384616 ; 19 / 130
+__________________________________________________________________________________
+day.40326
+Sense:  Synset('day.n.01')
+Overlap: ['today', 'today', 'United']
+Score: 78896
+Sense:  Synset('day.n.02')
+Overlap: ['years', 'end']
+Score: 17191
+Sense:  Synset('day.n.03')
+Overlap: ['15th', 'played', 'played', 'exercise', 'years', 'years', 'United', 'Conference']
+Score: 42005
+Sense:  Synset('day.n.04')
+Overlap: ['quietly', 'years']
+Score: 12342
+Sense:  Synset('day.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: ['years']
+Score: 7693
+Sense:  Synset('sidereal_day.n.01')
+Overlap: ['United']
+Score: 7852
+Sense:  Synset('day.n.09')
+Overlap: ['chances']
+Score: 301
+Sense:  Synset('day.n.10')
+Overlap: ['best', 'United']
+Score: 63293
+day.40326; predicted_sense: [78896, Synset('day.n.01')]; correct_sense: day-3;
+
+Accuracy: 0.1450381679389313 ; 19 / 131
+__________________________________________________________________________________
+day.40331
+Sense:  Synset('day.n.01')
+Overlap: ['make', 'particular']
+Score: 297564
+Sense:  Synset('day.n.02')
+Overlap: ['year']
+Score: 31977
+Sense:  Synset('day.n.03')
+Overlap: ['year', 'year', 'worked', 'joking', 'second', 'particular']
+Score: 1401464
+Sense:  Synset('day.n.04')
+Overlap: ['year', 'make', 'turned']
+Score: 106154
+Sense:  Synset('day.n.05')
+Overlap: ['worked', 'worked', 'went']
+Score: 183434
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: ['year', 'make', 'particular']
+Score: 329541
+Sense:  Synset('sidereal_day.n.01')
+Overlap: ['particular']
+Score: 246062
+Sense:  Synset('day.n.09')
+Overlap: ['chance']
+Score: 1124
+Sense:  Synset('day.n.10')
+Overlap: ['worked']
+Score: 43157
+day.40331; predicted_sense: [1401464, Synset('day.n.03')]; correct_sense: day-0;
+
+Accuracy: 0.14393939393939395 ; 19 / 132
+__________________________________________________________________________________
+day.40334
+Sense:  Synset('day.n.01')
+Overlap: ['includes', 'monthly', 'make', 'measured']
+Score: 65390
+Sense:  Synset('day.n.02')
+Overlap: ['new']
+Score: 355185
+Sense:  Synset('day.n.03')
+Overlap: ['monthly', 'work', 'October', 'new', 'purposes', 'receiving', 'national', 'people']
+Score: 784064
+Sense:  Synset('day.n.04')
+Overlap: ['make']
+Score: 51502
+Sense:  Synset('day.n.05')
+Overlap: ['wages', 'work', 'work']
+Score: 622351
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: ['make', 'taken']
+Score: 66778
+Sense:  Synset('sidereal_day.n.01')
+Overlap: ['measured', 'measured']
+Score: 9740
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: ['work']
+Score: 305267
+day.40334; predicted_sense: [784064, Synset('day.n.03')]; correct_sense: day-0;
+
+Accuracy: 0.14285714285714285 ; 19 / 133
+__________________________________________________________________________________
+day.40340
+Sense:  Synset('day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.02')
+Overlap: ['Mark', 'new']
+Score: 358100
+Sense:  Synset('day.n.03')
+Overlap: ['January', 'Come', '13th', 'Mark', 'new']
+Score: 386496
+Sense:  Synset('day.n.04')
+Overlap: ['Lake']
+Score: 1907
+Sense:  Synset('day.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.06')
+Overlap: ['Mark']
+Score: 2915
+Sense:  Synset('day.n.07')
+Overlap: []
+Score: 0
+Sense:  Synset('sidereal_day.n.01')
+Overlap: ['star', 'star']
+Score: 14816
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40340; predicted_sense: [386496, Synset('day.n.03')]; correct_sense: day-1;
+
+Accuracy: 0.1417910447761194 ; 19 / 134
+__________________________________________________________________________________
+day.40341
+Sense:  Synset('day.n.01')
+Overlap: ['arrived', 'set', 'earth']
+Score: 175393
+Sense:  Synset('day.n.02')
+Overlap: ['according', 'arrived', 'plant', 'earth', 'end', 'planted']
+Score: 158253
+Sense:  Synset('day.n.03')
+Overlap: ['American', 'plant', 'shadow', 'set', 'people', 'planted']
+Score: 165065
+Sense:  Synset('day.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: []
+Score: 0
+Sense:  Synset('sidereal_day.n.01')
+Overlap: ['earth']
+Score: 2926
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40341; predicted_sense: [175393, Synset('day.n.01')]; correct_sense: day-1;
+
+Accuracy: 0.14074074074074075 ; 19 / 135
+__________________________________________________________________________________
+day.40343
+Sense:  Synset('day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.02')
+Overlap: ['long']
+Score: 1304082
+Sense:  Synset('day.n.03')
+Overlap: ['happy', 'household', 'holds', 'holds']
+Score: 151213
+Sense:  Synset('day.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: ['long']
+Score: 1304082
+Sense:  Synset('sidereal_day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.09')
+Overlap: ['possible']
+Score: 15083
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40343; predicted_sense: [1304082, Synset('day.n.02')]; correct_sense: day-3;
+
+Accuracy: 0.14705882352941177 ; 20 / 136
+__________________________________________________________________________________
+day.40344
+Sense:  Synset('day.n.01')
+Overlap: ['makes']
+Score: 26771
+Sense:  Synset('day.n.02')
+Overlap: ['live', 'years']
+Score: 30020
+Sense:  Synset('day.n.03')
+Overlap: ['seeing', 'holidays', 'holidays', 'years', 'years']
+Score: 28695
+Sense:  Synset('day.n.04')
+Overlap: ['makes', 'years']
+Score: 34464
+Sense:  Synset('day.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: ['makes', 'years']
+Score: 34464
+Sense:  Synset('sidereal_day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.09')
+Overlap: ['holidays', 'chance']
+Score: 2854
+Sense:  Synset('day.n.10')
+Overlap: ['best']
+Score: 55441
+day.40344; predicted_sense: [55441, Synset('day.n.10')]; correct_sense: day-0;
+
+Accuracy: 0.145985401459854 ; 20 / 137
+__________________________________________________________________________________
+day.40346
+Sense:  Synset('day.n.01')
+Overlap: ['time']
+Score: 159957
+Sense:  Synset('day.n.02')
+Overlap: ['activities', 'time']
+Score: 261477
+Sense:  Synset('day.n.03')
+Overlap: ['holiday', 'holiday', 'young', 'work', 'playing', 'playing', 'people']
+Score: 417662
+Sense:  Synset('day.n.04')
+Overlap: ['outside', 'spent', 'time']
+Score: 260599
+Sense:  Synset('day.n.05')
+Overlap: ['work', 'work', 'time']
+Score: 770491
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: ['time']
+Score: 159957
+Sense:  Synset('sidereal_day.n.01')
+Overlap: ['time']
+Score: 159957
+Sense:  Synset('day.n.09')
+Overlap: ['holiday']
+Score: 14168
+Sense:  Synset('day.n.10')
+Overlap: ['work']
+Score: 305267
+day.40346; predicted_sense: [770491, Synset('day.n.05')]; correct_sense: day-3;
+
+Accuracy: 0.14492753623188406 ; 20 / 138
+__________________________________________________________________________________
+day.40347
+Sense:  Synset('day.n.01')
+Overlap: ['time']
+Score: 159957
+Sense:  Synset('day.n.02')
+Overlap: ['time', 'new', 'good']
+Score: 890369
+Sense:  Synset('day.n.03')
+Overlap: ['occurred', 'church', 'new', 'good', 'event']
+Score: 781623
+Sense:  Synset('day.n.04')
+Overlap: ['time', 'quiet']
+Score: 201427
+Sense:  Synset('day.n.05')
+Overlap: ['hour', 'hour', 'time']
+Score: 962439
+Sense:  Synset('day.n.06')
+Overlap: ['event']
+Score: 33778
+Sense:  Synset('day.n.07')
+Overlap: ['time']
+Score: 159957
+Sense:  Synset('sidereal_day.n.01')
+Overlap: ['time']
+Score: 159957
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40347; predicted_sense: [962439, Synset('day.n.05')]; correct_sense: day-0;
+
+Accuracy: 0.14388489208633093 ; 20 / 139
+__________________________________________________________________________________
+day.40349
+Sense:  Synset('day.n.01')
+Overlap: ['setting', 'set']
+Score: 80868
+Sense:  Synset('day.n.02')
+Overlap: ['Testament', 'new']
+Score: 355507
+Sense:  Synset('day.n.03')
+Overlap: ['come', 'setting', 'new', 'set', 'events']
+Score: 545377
+Sense:  Synset('day.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.06')
+Overlap: ['events']
+Score: 28942
+Sense:  Synset('day.n.07')
+Overlap: []
+Score: 0
+Sense:  Synset('sidereal_day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.09')
+Overlap: ['combining']
+Score: 437
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40349; predicted_sense: [545377, Synset('day.n.03')]; correct_sense: day-3;
+
+Accuracy: 0.14285714285714285 ; 20 / 140
+__________________________________________________________________________________
+day.40350
+Sense:  Synset('day.n.01')
+Overlap: ['left', 'arrived', 'happened', 'arrival']
+Score: 133811
+Sense:  Synset('day.n.02')
+Overlap: ['arrived', 'arrival']
+Score: 100104
+Sense:  Synset('day.n.03')
+Overlap: ['previous', 'stating', 'stating', 'stating', 'early', 'reckoned', 'adopted']
+Score: 934710
+Sense:  Synset('day.n.04')
+Overlap: ['hastened']
+Score: 617
+Sense:  Synset('day.n.05')
+Overlap: ['early']
+Score: 206809
+Sense:  Synset('day.n.06')
+Overlap: ['reckoned']
+Score: 874
+Sense:  Synset('day.n.07')
+Overlap: ['hastened']
+Score: 617
+Sense:  Synset('sidereal_day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: ['stating']
+Score: 1190
+day.40350; predicted_sense: [934710, Synset('day.n.03')]; correct_sense: day-0;
+
+Accuracy: 0.14184397163120568 ; 20 / 141
+__________________________________________________________________________________
+day.40353
+Sense:  Synset('day.n.01')
+Overlap: ['000', 'make', 'particularly', 'later']
+Score: 330545
+Sense:  Synset('day.n.02')
+Overlap: ['live', 'Great', 'lives']
+Score: 79776
+Sense:  Synset('day.n.03')
+Overlap: ['particularly', 'people']
+Score: 46670
+Sense:  Synset('day.n.04')
+Overlap: ['make']
+Score: 51502
+Sense:  Synset('day.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: ['make', 'particularly']
+Score: 55049
+Sense:  Synset('sidereal_day.n.01')
+Overlap: ['particularly']
+Score: 3547
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40353; predicted_sense: [330545, Synset('day.n.01')]; correct_sense: day-1;
+
+Accuracy: 0.14084507042253522 ; 20 / 142
+__________________________________________________________________________________
+day.40356
+Sense:  Synset('day.n.01')
+Overlap: ['Later', 'time', 'months']
+Score: 167906
+Sense:  Synset('day.n.02')
+Overlap: ['year', 'time', 'new', 'end']
+Score: 556617
+Sense:  Synset('day.n.03')
+Overlap: ['year', 'year', 'early', 'spring', 'new', 'months', 'events']
+Score: 807782
+Sense:  Synset('day.n.04')
+Overlap: ['year', 'time']
+Score: 191934
+Sense:  Synset('day.n.05')
+Overlap: ['early', 'time', 'required']
+Score: 377859
+Sense:  Synset('day.n.06')
+Overlap: ['events']
+Score: 28942
+Sense:  Synset('day.n.07')
+Overlap: ['year', 'time', '3']
+Score: 261182
+Sense:  Synset('sidereal_day.n.01')
+Overlap: ['time']
+Score: 159957
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40356; predicted_sense: [807782, Synset('day.n.03')]; correct_sense: day-0;
+
+Accuracy: 0.13986013986013987 ; 20 / 143
+__________________________________________________________________________________
+day.40358
+Sense:  Synset('day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.02')
+Overlap: ['follow']
+Score: 0
+Sense:  Synset('day.n.03')
+Overlap: ['main', 'public']
+Score: 0
+Sense:  Synset('day.n.04')
+Overlap: ['Lakes', 'Lake']
+Score: 0
+Sense:  Synset('day.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: []
+Score: 0
+Sense:  Synset('sidereal_day.n.01')
+Overlap: ['4']
+Score: 7030
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40358; predicted_sense: [7030, Synset('sidereal_day.n.01')]; correct_sense: day-0;
+
+Accuracy: 0.1388888888888889 ; 20 / 144
+__________________________________________________________________________________
+day.40359
+Sense:  Synset('day.n.01')
+Overlap: ['laws', 'later', 'time']
+Score: 437286
+Sense:  Synset('day.n.02')
+Overlap: ['time', 'years']
+Score: 167650
+Sense:  Synset('day.n.03')
+Overlap: ['come', 'young', 'laws', 'years', 'years', 'remembered']
+Score: 114437
+Sense:  Synset('day.n.04')
+Overlap: ['middle', 'time', 'years']
+Score: 172926
+Sense:  Synset('day.n.05')
+Overlap: ['time']
+Score: 159957
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: ['time', 'years']
+Score: 167650
+Sense:  Synset('sidereal_day.n.01')
+Overlap: ['time']
+Score: 159957
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40359; predicted_sense: [437286, Synset('day.n.01')]; correct_sense: day-0;
+
+Accuracy: 0.14482758620689656 ; 21 / 145
+__________________________________________________________________________________
+day.40361
+Sense:  Synset('day.n.01')
+Overlap: ['making']
+Score: 31735
+Sense:  Synset('day.n.02')
+Overlap: ['good', 'lived']
+Score: 385110
+Sense:  Synset('day.n.03')
+Overlap: ['6', 'evening', 'church', 'main', 'good']
+Score: 435355
+Sense:  Synset('day.n.04')
+Overlap: ['evening', 'making', 'enjoyable']
+Score: 53174
+Sense:  Synset('day.n.05')
+Overlap: ['required']
+Score: 11093
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: ['making']
+Score: 31735
+Sense:  Synset('sidereal_day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40361; predicted_sense: [435355, Synset('day.n.03')]; correct_sense: day-0;
+
+Accuracy: 0.14383561643835616 ; 21 / 146
+__________________________________________________________________________________
+day.40362
+Sense:  Synset('day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.02')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.03')
+Overlap: ['night', 'work', 'Friday', 'bed']
+Score: 339725
+Sense:  Synset('day.n.04')
+Overlap: ['night']
+Score: 12610
+Sense:  Synset('day.n.05')
+Overlap: ['work', 'work', 'bed']
+Score: 624527
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: []
+Score: 0
+Sense:  Synset('sidereal_day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: ['work']
+Score: 305267
+day.40362; predicted_sense: [624527, Synset('day.n.05')]; correct_sense: day-0;
+
+Accuracy: 0.14285714285714285 ; 21 / 147
+__________________________________________________________________________________
+day.40369
+Sense:  Synset('day.n.01')
+Overlap: ['arrived']
+Score: 98188
+Sense:  Synset('day.n.02')
+Overlap: ['living', 'arrived', 'long', 'marked', 'God', 'lives']
+Score: 1585964
+Sense:  Synset('day.n.03')
+Overlap: ['devoted', 'spring', 'Saturday', 'May', 'marked', 'April', 'public', 'Appointed']
+Score: 298152
+Sense:  Synset('day.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.05')
+Overlap: ['especially']
+Score: 8426
+Sense:  Synset('day.n.06')
+Overlap: ['marked']
+Score: 13747
+Sense:  Synset('day.n.07')
+Overlap: ['long']
+Score: 1304082
+Sense:  Synset('sidereal_day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40369; predicted_sense: [1585964, Synset('day.n.02')]; correct_sense: day-0;
+
+Accuracy: 0.14189189189189189 ; 21 / 148
+__________________________________________________________________________________
+day.40372
+Sense:  Synset('day.n.01')
+Overlap: ['Moments', 'later', 'time']
+Score: 435311
+Sense:  Synset('day.n.02')
+Overlap: ['time', 'years']
+Score: 167650
+Sense:  Synset('day.n.03')
+Overlap: ['ground', 'play', 'play', 'years', 'years', 'second']
+Score: 1089783
+Sense:  Synset('day.n.04')
+Overlap: ['time', 'years']
+Score: 167650
+Sense:  Synset('day.n.05')
+Overlap: ['agreed', 'time', 'began']
+Score: 270529
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: ['taken', 'time', 'years']
+Score: 182926
+Sense:  Synset('sidereal_day.n.01')
+Overlap: ['time']
+Score: 159957
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40372; predicted_sense: [1089783, Synset('day.n.03')]; correct_sense: day-3;
+
+Accuracy: 0.14093959731543623 ; 21 / 149
+__________________________________________________________________________________
+day.40374
+Sense:  Synset('day.n.01')
+Overlap: ['task', 'Newspapers', 'Newspapers']
+Score: 5927
+Sense:  Synset('day.n.02')
+Overlap: ['year', 'following', 'long']
+Score: 4466010
+Sense:  Synset('day.n.03')
+Overlap: ['victory', 'inaugural', 'night', 'year', 'year', 'played', 'played', 'national', 'event', 'March', 'French']
+Score: 189258
+Sense:  Synset('day.n.04')
+Overlap: ['noon', 'night', 'year']
+Score: 59151
+Sense:  Synset('day.n.05')
+Overlap: ['Daily']
+Score: 1060
+Sense:  Synset('day.n.06')
+Overlap: ['event']
+Score: 33778
+Sense:  Synset('day.n.07')
+Overlap: ['year', 'long']
+Score: 1336059
+Sense:  Synset('sidereal_day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40374; predicted_sense: [4466010, Synset('day.n.02')]; correct_sense: day-0;
+
+Accuracy: 0.14 ; 21 / 150
+__________________________________________________________________________________
+day.40376
+Sense:  Synset('day.n.01')
+Overlap: ['date', 'later', 'months']
+Score: 285697
+Sense:  Synset('day.n.02')
+Overlap: ['new']
+Score: 355185
+Sense:  Synset('day.n.03')
+Overlap: ['date', 'new', 'months']
+Score: 365528
+Sense:  Synset('day.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: []
+Score: 0
+Sense:  Synset('sidereal_day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40376; predicted_sense: [365528, Synset('day.n.03')]; correct_sense: day-0;
+
+Accuracy: 0.1390728476821192 ; 21 / 151
+__________________________________________________________________________________
+day.40378
+Sense:  Synset('day.n.01')
+Overlap: ['immediately']
+Score: 18621
+Sense:  Synset('day.n.02')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.03')
+Overlap: ['night', 'pay']
+Score: 63023
+Sense:  Synset('day.n.04')
+Overlap: ['night', 'turned']
+Score: 35285
+Sense:  Synset('day.n.05')
+Overlap: ['went']
+Score: 97120
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: []
+Score: 0
+Sense:  Synset('sidereal_day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40378; predicted_sense: [97120, Synset('day.n.05')]; correct_sense: day-0;
+
+Accuracy: 0.13815789473684212 ; 21 / 152
+__________________________________________________________________________________
+day.40379
+Sense:  Synset('day.n.01')
+Overlap: ['Make']
+Score: 131
+Sense:  Synset('day.n.02')
+Overlap: ['Mark']
+Score: 106
+Sense:  Synset('day.n.03')
+Overlap: ['Mark', 'ground']
+Score: 106
+Sense:  Synset('day.n.04')
+Overlap: ['Make']
+Score: 131
+Sense:  Synset('day.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.06')
+Overlap: ['Mark']
+Score: 106
+Sense:  Synset('day.n.07')
+Overlap: ['Make']
+Score: 131
+Sense:  Synset('sidereal_day.n.01')
+Overlap: ['minutes']
+Score: 0
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40379; predicted_sense: [131, Synset('day.n.01')]; correct_sense: day-0;
+
+Accuracy: 0.1437908496732026 ; 22 / 153
+__________________________________________________________________________________
+day.40381
+Sense:  Synset('day.n.01')
+Overlap: ['30']
+Score: 15245
+Sense:  Synset('day.n.02')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.03')
+Overlap: ['play', 'play', 'early']
+Score: 229729
+Sense:  Synset('day.n.04')
+Overlap: ['late', '30', 'turn']
+Score: 110022
+Sense:  Synset('day.n.05')
+Overlap: ['early']
+Score: 206809
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: ['taken', '30', '3']
+Score: 99769
+Sense:  Synset('sidereal_day.n.01')
+Overlap: ['4', 'means']
+Score: 66170
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40381; predicted_sense: [229729, Synset('day.n.03')]; correct_sense: day-0;
+
+Accuracy: 0.14285714285714285 ; 22 / 154
+__________________________________________________________________________________
+day.40382
+Sense:  Synset('day.n.01')
+Overlap: ['make']
+Score: 51502
+Sense:  Synset('day.n.02')
+Overlap: ['Good', 'year', 'good']
+Score: 547862
+Sense:  Synset('day.n.03')
+Overlap: ['Good', 'year', 'year', 'emergence', 'work', 'fifth', 'good']
+Score: 1254804
+Sense:  Synset('day.n.04')
+Overlap: ['year', 'make']
+Score: 83479
+Sense:  Synset('day.n.05')
+Overlap: ['work', 'work']
+Score: 610534
+Sense:  Synset('day.n.06')
+Overlap: ['successes']
+Score: 436
+Sense:  Synset('day.n.07')
+Overlap: ['year', 'make']
+Score: 83479
+Sense:  Synset('sidereal_day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.09')
+Overlap: ['opportunities']
+Score: 1377
+Sense:  Synset('day.n.10')
+Overlap: ['work']
+Score: 305267
+day.40382; predicted_sense: [1254804, Synset('day.n.03')]; correct_sense: day-3;
+
+Accuracy: 0.14193548387096774 ; 22 / 155
+__________________________________________________________________________________
+day.40384
+Sense:  Synset('day.n.01')
+Overlap: ['election']
+Score: 276681
+Sense:  Synset('day.n.02')
+Overlap: ['trusted']
+Score: 170
+Sense:  Synset('day.n.03')
+Overlap: ['come', 'election', 'University', 'Irish']
+Score: 360763
+Sense:  Synset('day.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: []
+Score: 0
+Sense:  Synset('sidereal_day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.09')
+Overlap: ['chances']
+Score: 301
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40384; predicted_sense: [360763, Synset('day.n.03')]; correct_sense: day-3;
+
+Accuracy: 0.14102564102564102 ; 22 / 156
+__________________________________________________________________________________
+day.40385
+Sense:  Synset('day.n.01')
+Overlap: ['left', 'arrived', 'later']
+Score: 397032
+Sense:  Synset('day.n.02')
+Overlap: ['point', 'arrived', 'Mark', 'ends']
+Score: 122928
+Sense:  Synset('day.n.03')
+Overlap: ['Mark', 'weeks']
+Score: 14507
+Sense:  Synset('day.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.06')
+Overlap: ['point', 'Mark']
+Score: 7694
+Sense:  Synset('day.n.07')
+Overlap: []
+Score: 0
+Sense:  Synset('sidereal_day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40385; predicted_sense: [397032, Synset('day.n.01')]; correct_sense: day-0;
+
+Accuracy: 0.1464968152866242 ; 23 / 157
+__________________________________________________________________________________
+day.40387
+Sense:  Synset('day.n.01')
+Overlap: ['dated']
+Score: 1383
+Sense:  Synset('day.n.02')
+Overlap: ['human', 'year', 'Great']
+Score: 52880
+Sense:  Synset('day.n.03')
+Overlap: ['week', 'dated', 'year', 'year', 'June']
+Score: 278559
+Sense:  Synset('day.n.04')
+Overlap: ['year']
+Score: 31977
+Sense:  Synset('day.n.05')
+Overlap: ['began']
+Score: 101901
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: ['year']
+Score: 31977
+Sense:  Synset('sidereal_day.n.01')
+Overlap: ['shorter']
+Score: 12736
+Sense:  Synset('day.n.09')
+Overlap: ['possible']
+Score: 15083
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40387; predicted_sense: [278559, Synset('day.n.03')]; correct_sense: day-0;
+
+Accuracy: 0.14556962025316456 ; 23 / 158
+__________________________________________________________________________________
+day.40388
+Sense:  Synset('day.n.01')
+Overlap: ['left', 'time']
+Score: 183447
+Sense:  Synset('day.n.02')
+Overlap: ['humanity', 'time']
+Score: 163552
+Sense:  Synset('day.n.03')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.04')
+Overlap: ['time', 'turned']
+Score: 182632
+Sense:  Synset('day.n.05')
+Overlap: ['time']
+Score: 159957
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: ['time']
+Score: 159957
+Sense:  Synset('sidereal_day.n.01')
+Overlap: ['time']
+Score: 159957
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40388; predicted_sense: [183447, Synset('day.n.01')]; correct_sense: day-0;
+
+Accuracy: 0.1509433962264151 ; 24 / 159
+__________________________________________________________________________________
+day.40390
+Sense:  Synset('day.n.01')
+Overlap: ['makes', 'set']
+Score: 101050
+Sense:  Synset('day.n.02')
+Overlap: ['end']
+Score: 9498
+Sense:  Synset('day.n.03')
+Overlap: ['September', 'American', 'market', 'related', 'playing', 'playing', 'set', 'Americans', 'hold', 'hold']
+Score: 293275
+Sense:  Synset('day.n.04')
+Overlap: ['Park', 'makes']
+Score: 27691
+Sense:  Synset('day.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: ['makes']
+Score: 26771
+Sense:  Synset('sidereal_day.n.01')
+Overlap: ['related']
+Score: 2394
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40390; predicted_sense: [293275, Synset('day.n.03')]; correct_sense: day-0;
+
+Accuracy: 0.15 ; 24 / 160
+__________________________________________________________________________________
+day.40391
+Sense:  Synset('day.n.01')
+Overlap: ['time']
+Score: 159957
+Sense:  Synset('day.n.02')
+Overlap: ['follow', 'time', 'ends']
+Score: 188927
+Sense:  Synset('day.n.03')
+Overlap: ['occurred', 'week', 'seeing', 'Mother', 'mother', 'playing', 'playing', 'schools', 'schools', 'Tuesday', 'Monday']
+Score: 477229
+Sense:  Synset('day.n.04')
+Overlap: ['time']
+Score: 159957
+Sense:  Synset('day.n.05')
+Overlap: ['time']
+Score: 159957
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: ['time']
+Score: 159957
+Sense:  Synset('sidereal_day.n.01')
+Overlap: ['time']
+Score: 159957
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: ['best']
+Score: 55441
+day.40391; predicted_sense: [477229, Synset('day.n.03')]; correct_sense: day-0;
+
+Accuracy: 0.14906832298136646 ; 24 / 161
+__________________________________________________________________________________
+day.40393
+Sense:  Synset('day.n.01')
+Overlap: ['newspapers', 'newspapers', 'particularly', 'times']
+Score: 16513
+Sense:  Synset('day.n.02')
+Overlap: ['specifically', 'times']
+Score: 6916
+Sense:  Synset('day.n.03')
+Overlap: ['week', 'remember', 'particularly', 'public']
+Score: 196083
+Sense:  Synset('day.n.04')
+Overlap: ['times']
+Score: 6138
+Sense:  Synset('day.n.05')
+Overlap: ['times', 'required']
+Score: 17231
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: ['particularly', 'times']
+Score: 9685
+Sense:  Synset('sidereal_day.n.01')
+Overlap: ['particularly', 'times']
+Score: 9685
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40393; predicted_sense: [196083, Synset('day.n.03')]; correct_sense: day-0;
+
+Accuracy: 0.14814814814814814 ; 24 / 162
+__________________________________________________________________________________
+day.40394
+Sense:  Synset('day.n.01')
+Overlap: ['left', 'performers', 'completely']
+Score: 28731
+Sense:  Synset('day.n.02')
+Overlap: ['point', 'new', 'thing']
+Score: 363070
+Sense:  Synset('day.n.03')
+Overlap: ['new', 'sessions', 'students', 'thing']
+Score: 415076
+Sense:  Synset('day.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.05')
+Overlap: ['busy']
+Score: 134642
+Sense:  Synset('day.n.06')
+Overlap: ['point']
+Score: 4779
+Sense:  Synset('day.n.07')
+Overlap: ['completely']
+Score: 4587
+Sense:  Synset('sidereal_day.n.01')
+Overlap: ['completely']
+Score: 4587
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40394; predicted_sense: [415076, Synset('day.n.03')]; correct_sense: day-0;
+
+Accuracy: 0.147239263803681 ; 24 / 163
+__________________________________________________________________________________
+day.40396
+Sense:  Synset('day.n.01')
+Overlap: ['leave', 'moment']
+Score: 24052
+Sense:  Synset('day.n.02')
+Overlap: ['long']
+Score: 1304082
+Sense:  Synset('day.n.03')
+Overlap: ['declared', 'observer', 'observer', 'Church', 'happiness']
+Score: 15574
+Sense:  Synset('day.n.04')
+Overlap: ['outside']
+Score: 29577
+Sense:  Synset('day.n.05')
+Overlap: ['agree']
+Score: 1936
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: ['long']
+Score: 1304082
+Sense:  Synset('sidereal_day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40396; predicted_sense: [1304082, Synset('day.n.02')]; correct_sense: day-0;
+
+Accuracy: 0.14634146341463414 ; 24 / 164
+__________________________________________________________________________________
+day.40397
+Sense:  Synset('day.n.01')
+Overlap: ['periods']
+Score: 33078
+Sense:  Synset('day.n.02')
+Overlap: ['new', 'periods']
+Score: 388263
+Sense:  Synset('day.n.03')
+Overlap: ['work', 'main', 'new', 'works', 'June']
+Score: 725039
+Sense:  Synset('day.n.04')
+Overlap: ['periods']
+Score: 33078
+Sense:  Synset('day.n.05')
+Overlap: ['require', 'requirements', 'work', 'work', 'hours', 'hours', 'works', 'works', 'periods', 'required']
+Score: 741006
+Sense:  Synset('day.n.06')
+Overlap: ['periods']
+Score: 33078
+Sense:  Synset('day.n.07')
+Overlap: ['periods']
+Score: 33078
+Sense:  Synset('sidereal_day.n.01')
+Overlap: ['periods']
+Score: 33078
+Sense:  Synset('day.n.09')
+Overlap: ['periods']
+Score: 33078
+Sense:  Synset('day.n.10')
+Overlap: ['work', 'works']
+Score: 313108
+day.40397; predicted_sense: [741006, Synset('day.n.05')]; correct_sense: day-0;
+
+Accuracy: 0.14545454545454545 ; 24 / 165
+__________________________________________________________________________________
+day.40399
+Sense:  Synset('day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.02')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.03')
+Overlap: ['remember', 'rags']
+Score: 4345
+Sense:  Synset('day.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: []
+Score: 0
+Sense:  Synset('sidereal_day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40399; predicted_sense: [4345, Synset('day.n.03')]; correct_sense: day-3;
+
+Accuracy: 0.14457831325301204 ; 24 / 166
+__________________________________________________________________________________
+day.40400
+Sense:  Synset('day.n.01')
+Overlap: ['time', 'moment']
+Score: 161132
+Sense:  Synset('day.n.02')
+Overlap: ['time']
+Score: 159957
+Sense:  Synset('day.n.03')
+Overlap: ['bedding', 'night', 'trees']
+Score: 13533
+Sense:  Synset('day.n.04')
+Overlap: ['night', 'time']
+Score: 172567
+Sense:  Synset('day.n.05')
+Overlap: ['bedding', 'time', 'hours', 'hours']
+Score: 212974
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: ['time']
+Score: 159957
+Sense:  Synset('sidereal_day.n.01')
+Overlap: ['time']
+Score: 159957
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40400; predicted_sense: [212974, Synset('day.n.05')]; correct_sense: day-0;
+
+Accuracy: 0.1437125748502994 ; 24 / 167
+__________________________________________________________________________________
+day.40402
+Sense:  Synset('day.n.01')
+Overlap: ['make']
+Score: 51502
+Sense:  Synset('day.n.02')
+Overlap: ['year', 'following', 'end']
+Score: 3171426
+Sense:  Synset('day.n.03')
+Overlap: ['remembers', 'year', 'year', 'playing', 'playing', 'Saturday']
+Score: 113801
+Sense:  Synset('day.n.04')
+Overlap: ['year', 'make']
+Score: 83479
+Sense:  Synset('day.n.05')
+Overlap: ['morning']
+Score: 26142
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: ['year', 'make']
+Score: 83479
+Sense:  Synset('sidereal_day.n.01')
+Overlap: ['minutes']
+Score: 1314
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40402; predicted_sense: [3171426, Synset('day.n.02')]; correct_sense: day-0;
+
+Accuracy: 0.14285714285714285 ; 24 / 168
+__________________________________________________________________________________
+day.40403
+Sense:  Synset('day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.02')
+Overlap: ['living']
+Score: 0
+Sense:  Synset('day.n.03')
+Overlap: ['See', 'designed']
+Score: 738
+Sense:  Synset('day.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.05')
+Overlap: ['hour', 'hour', '8', 'daily']
+Score: 1964
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: ['27']
+Score: 754
+Sense:  Synset('sidereal_day.n.01')
+Overlap: ['4', 'minutes']
+Score: 7030
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40403; predicted_sense: [7030, Synset('sidereal_day.n.01')]; correct_sense: day-0;
+
+Accuracy: 0.14201183431952663 ; 24 / 169
+__________________________________________________________________________________
+day.40405
+Sense:  Synset('day.n.01')
+Overlap: ['Time', 'election', 'happen', 'time']
+Score: 443739
+Sense:  Synset('day.n.02')
+Overlap: ['Time', 'year', 'following', 'time', 'thing']
+Score: 3327403
+Sense:  Synset('day.n.03')
+Overlap: ['political', 'Young', 'market', 'election', 'year', 'year', 'practical', 'thing', 'George', 'public']
+Score: 521267
+Sense:  Synset('day.n.04')
+Overlap: ['Time', 'year', 'time']
+Score: 194346
+Sense:  Synset('day.n.05')
+Overlap: ['Time', 'calls', 'time']
+Score: 168912
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: ['Time', 'year', 'time']
+Score: 194346
+Sense:  Synset('sidereal_day.n.01')
+Overlap: ['Time', 'time']
+Score: 162369
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: ['1935']
+Score: 0
+day.40405; predicted_sense: [3327403, Synset('day.n.02')]; correct_sense: day-3;
+
+Accuracy: 0.14705882352941177 ; 25 / 170
+__________________________________________________________________________________
+day.40408
+Sense:  Synset('day.n.01')
+Overlap: ['left', 'leaving']
+Score: 28682
+Sense:  Synset('day.n.02')
+Overlap: ['point', 'year']
+Score: 36756
+Sense:  Synset('day.n.03')
+Overlap: ['Young', 'evening', 'YOUNG', 'night', 'year', 'year']
+Score: 90007
+Sense:  Synset('day.n.04')
+Overlap: ['evening', 'night', 'year']
+Score: 57034
+Sense:  Synset('day.n.05')
+Overlap: ['went']
+Score: 97120
+Sense:  Synset('day.n.06')
+Overlap: ['point']
+Score: 4779
+Sense:  Synset('day.n.07')
+Overlap: ['year']
+Score: 31977
+Sense:  Synset('sidereal_day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40408; predicted_sense: [97120, Synset('day.n.05')]; correct_sense: day-0;
+
+Accuracy: 0.14619883040935672 ; 25 / 171
+__________________________________________________________________________________
+day.40409
+Sense:  Synset('day.n.01')
+Overlap: ['000']
+Score: 142
+Sense:  Synset('day.n.02')
+Overlap: ['good']
+Score: 375227
+Sense:  Synset('day.n.03')
+Overlap: ['work', 'good']
+Score: 680494
+Sense:  Synset('day.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.05')
+Overlap: ['work', 'work']
+Score: 610534
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: []
+Score: 0
+Sense:  Synset('sidereal_day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: ['work']
+Score: 305267
+day.40409; predicted_sense: [680494, Synset('day.n.03')]; correct_sense: day-0;
+
+Accuracy: 0.14534883720930233 ; 25 / 172
+__________________________________________________________________________________
+day.40412
+Sense:  Synset('day.n.01')
+Overlap: ['time', 'set']
+Score: 234236
+Sense:  Synset('day.n.02')
+Overlap: ['time']
+Score: 159957
+Sense:  Synset('day.n.03')
+Overlap: ['set']
+Score: 74279
+Sense:  Synset('day.n.04')
+Overlap: ['time', 'light']
+Score: 209058
+Sense:  Synset('day.n.05')
+Overlap: ['time', 'morning', 'went']
+Score: 283219
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: ['time']
+Score: 159957
+Sense:  Synset('sidereal_day.n.01')
+Overlap: ['time']
+Score: 159957
+Sense:  Synset('day.n.09')
+Overlap: ['gave']
+Score: 30508
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40412; predicted_sense: [283219, Synset('day.n.05')]; correct_sense: day-1;
+
+Accuracy: 0.15028901734104047 ; 26 / 173
+__________________________________________________________________________________
+day.40415
+Sense:  Synset('day.n.01')
+Overlap: ['include', 'completed']
+Score: 12430
+Sense:  Synset('day.n.02')
+Overlap: ['things', 'great', 'Great']
+Score: 384715
+Sense:  Synset('day.n.03')
+Overlap: ['Night', 'Universal', 'things', 'playing', 'playing', 'school', 'school']
+Score: 987739
+Sense:  Synset('day.n.04')
+Overlap: ['Night']
+Score: 1040
+Sense:  Synset('day.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: ['completed']
+Score: 3657
+Sense:  Synset('sidereal_day.n.01')
+Overlap: ['completed']
+Score: 3657
+Sense:  Synset('day.n.09')
+Overlap: ['opportunities']
+Score: 1377
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.40415; predicted_sense: [987739, Synset('day.n.03')]; correct_sense: day-3;
+
+Accuracy: 0.14942528735632185 ; 26 / 174
+__________________________________________________________________________________
+day.30008
+Sense:  Synset('day.n.01')
+Overlap: ['yesterday', 'newspaper', 'newspaper', 'making']
+Score: 73281
+Sense:  Synset('day.n.02')
+Overlap: ['lived']
+Score: 9883
+Sense:  Synset('day.n.03')
+Overlap: ['state', 'state', 'state', 'emergency']
+Score: 52908
+Sense:  Synset('day.n.04')
+Overlap: ['making']
+Score: 31735
+Sense:  Synset('day.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: ['making']
+Score: 31735
+Sense:  Synset('sidereal_day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: ['state', 'known']
+Score: 27327
+day.30008; predicted_sense: [73281, Synset('day.n.01')]; correct_sense: day-0;
+
+Accuracy: 0.15428571428571428 ; 27 / 175
+__________________________________________________________________________________
+day.30026
+Sense:  Synset('day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.02')
+Overlap: ['year', 'new', 'years', 'end']
+Score: 404353
+Sense:  Synset('day.n.03')
+Overlap: ['practices', 'year', 'year', 'November', 'new', 'years', 'years', 'marketing', 'previously']
+Score: 497619
+Sense:  Synset('day.n.04')
+Overlap: ['year', 'years']
+Score: 39670
+Sense:  Synset('day.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: ['year', 'years']
+Score: 39670
+Sense:  Synset('sidereal_day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.30026; predicted_sense: [497619, Synset('day.n.03')]; correct_sense: day-0;
+
+Accuracy: 0.1534090909090909 ; 27 / 176
+__________________________________________________________________________________
+day.30030
+Sense:  Synset('day.n.01')
+Overlap: ['makes', '000']
+Score: 26913
+Sense:  Synset('day.n.02')
+Overlap: ['great']
+Score: 358896
+Sense:  Synset('day.n.03')
+Overlap: ['previous', 'admits', 'ground']
+Score: 724899
+Sense:  Synset('day.n.04')
+Overlap: ['outside', 'makes']
+Score: 56348
+Sense:  Synset('day.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: ['makes']
+Score: 26771
+Sense:  Synset('sidereal_day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.30030; predicted_sense: [724899, Synset('day.n.03')]; correct_sense: day-0;
+
+Accuracy: 0.15254237288135594 ; 27 / 177
+__________________________________________________________________________________
+day.30033
+Sense:  Synset('day.n.01')
+Overlap: ['set', 'later', 'leaving']
+Score: 354825
+Sense:  Synset('day.n.02')
+Overlap: ['points', 'end', 'ended']
+Score: 53215
+Sense:  Synset('day.n.03')
+Overlap: ['set', 'market', 'session', 'Friday', 'Monday']
+Score: 223368
+Sense:  Synset('day.n.04')
+Overlap: ['turned']
+Score: 22675
+Sense:  Synset('day.n.05')
+Overlap: ['hour', 'hour', 'stock', 'stocks', 'morning']
+Score: 831951
+Sense:  Synset('day.n.06')
+Overlap: ['points']
+Score: 1699
+Sense:  Synset('day.n.07')
+Overlap: []
+Score: 0
+Sense:  Synset('sidereal_day.n.01')
+Overlap: ['minutes']
+Score: 1314
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.30033; predicted_sense: [831951, Synset('day.n.05')]; correct_sense: day-1;
+
+Accuracy: 0.15730337078651685 ; 28 / 178
+__________________________________________________________________________________
+day.30034
+Sense:  Synset('day.n.01')
+Overlap: ['election']
+Score: 276681
+Sense:  Synset('day.n.02')
+Overlap: ['new']
+Score: 355185
+Sense:  Synset('day.n.03')
+Overlap: ['state', 'state', 'state', 'election', '6', 'economics', 'new']
+Score: 719308
+Sense:  Synset('day.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: []
+Score: 0
+Sense:  Synset('sidereal_day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.09')
+Overlap: ['circumstances']
+Score: 7098
+Sense:  Synset('day.n.10')
+Overlap: ['state']
+Score: 16818
+day.30034; predicted_sense: [719308, Synset('day.n.03')]; correct_sense: day-0;
+
+Accuracy: 0.1564245810055866 ; 28 / 179
+__________________________________________________________________________________
+day.30037
+Sense:  Synset('day.n.01')
+Overlap: ['month', '000']
+Score: 21994
+Sense:  Synset('day.n.02')
+Overlap: ['activity', 'things', 'years', 'good']
+Score: 421155
+Sense:  Synset('day.n.03')
+Overlap: ['things', 'deliver', 'month', 'economics', 'Mexico', 'years', 'years', 'good', 'previously', 'June', 'George']
+Score: 512738
+Sense:  Synset('day.n.04')
+Overlap: ['years']
+Score: 7693
+Sense:  Synset('day.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: ['years', '3']
+Score: 76941
+Sense:  Synset('sidereal_day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.30037; predicted_sense: [512738, Synset('day.n.03')]; correct_sense: day-0;
+
+Accuracy: 0.15555555555555556 ; 28 / 180
+__________________________________________________________________________________
+day.30039
+Sense:  Synset('day.n.01')
+Overlap: ['months', 'period']
+Score: 468729
+Sense:  Synset('day.n.02')
+Overlap: ['according', 'period']
+Score: 490983
+Sense:  Synset('day.n.03')
+Overlap: ['months', 'emergency', 'federal', 'state', 'state', 'state']
+Score: 63064
+Sense:  Synset('day.n.04')
+Overlap: ['repairs', 'period']
+Score: 461845
+Sense:  Synset('day.n.05')
+Overlap: ['period', 'hours', 'hours']
+Score: 514192
+Sense:  Synset('day.n.06')
+Overlap: ['period']
+Score: 461268
+Sense:  Synset('day.n.07')
+Overlap: ['period']
+Score: 461268
+Sense:  Synset('sidereal_day.n.01')
+Overlap: ['period']
+Score: 461268
+Sense:  Synset('day.n.09')
+Overlap: ['period']
+Score: 461268
+Sense:  Synset('day.n.10')
+Overlap: ['state']
+Score: 16818
+day.30039; predicted_sense: [514192, Synset('day.n.05')]; correct_sense: day-0;
+
+Accuracy: 0.15469613259668508 ; 28 / 181
+__________________________________________________________________________________
+day.30040
+Sense:  Synset('day.n.01')
+Overlap: ['month', 'months']
+Score: 29313
+Sense:  Synset('day.n.02')
+Overlap: ['year', 'New']
+Score: 49858
+Sense:  Synset('day.n.03')
+Overlap: ['Exchange', 'year', 'year', 'New', 'month', 'months']
+Score: 111445
+Sense:  Synset('day.n.04')
+Overlap: ['year']
+Score: 31977
+Sense:  Synset('day.n.05')
+Overlap: ['stocks', 'Stock', 'Exchange', '8', 'stock', 'daily']
+Score: 35583
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: ['year']
+Score: 31977
+Sense:  Synset('sidereal_day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.30040; predicted_sense: [111445, Synset('day.n.03')]; correct_sense: day-0;
+
+Accuracy: 0.15384615384615385 ; 28 / 182
+__________________________________________________________________________________
+day.30043
+Sense:  Synset('day.n.01')
+Overlap: ['performance']
+Score: 11135
+Sense:  Synset('day.n.02')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.03')
+Overlap: ['market', 'exchange', 'Friday', 'related', 'See', 'community']
+Score: 124858
+Sense:  Synset('day.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.05')
+Overlap: ['exchange', 'stocks', 'stock']
+Score: 6439
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: []
+Score: 0
+Sense:  Synset('sidereal_day.n.01')
+Overlap: ['related']
+Score: 2394
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.30043; predicted_sense: [124858, Synset('day.n.03')]; correct_sense: day-0;
+
+Accuracy: 0.15300546448087432 ; 28 / 183
+__________________________________________________________________________________
+day.30044
+Sense:  Synset('day.n.01')
+Overlap: ['Date', 'date', 'month', 'immediately', 'time', 'specify']
+Score: 204469
+Sense:  Synset('day.n.02')
+Overlap: ['time', 'following', 'year']
+Score: 3321885
+Sense:  Synset('day.n.03')
+Overlap: ['Date', 'date', 'month', 'assigns', 'year', 'year']
+Score: 89679
+Sense:  Synset('day.n.04')
+Overlap: ['time', 'year']
+Score: 191934
+Sense:  Synset('day.n.05')
+Overlap: ['time']
+Score: 159957
+Sense:  Synset('day.n.06')
+Overlap: ['character']
+Score: 3141
+Sense:  Synset('day.n.07')
+Overlap: ['time', 'year']
+Score: 191934
+Sense:  Synset('sidereal_day.n.01')
+Overlap: ['time']
+Score: 159957
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.30044; predicted_sense: [3321885, Synset('day.n.02')]; correct_sense: day-0;
+
+Accuracy: 0.15217391304347827 ; 28 / 184
+__________________________________________________________________________________
+day.30046
+Sense:  Synset('day.n.01')
+Overlap: ['includes', 'today', 'today', 'unit']
+Score: 84120
+Sense:  Synset('day.n.02')
+Overlap: ['year', 'plant', 'end', 'Long']
+Score: 65447
+Sense:  Synset('day.n.03')
+Overlap: ['week', 'unit', 'market', 'year', 'year', 'Friday', 'session', 'plant']
+Score: 387532
+Sense:  Synset('day.n.04')
+Overlap: ['Park', 'year']
+Score: 32897
+Sense:  Synset('day.n.05')
+Overlap: ['businesses', '8', 'agreed']
+Score: 38788
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: ['year', 'Long']
+Score: 38564
+Sense:  Synset('sidereal_day.n.01')
+Overlap: ['unit']
+Score: 6328
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: ['unit']
+Score: 6328
+day.30046; predicted_sense: [387532, Synset('day.n.03')]; correct_sense: day-1;
+
+Accuracy: 0.15135135135135136 ; 28 / 185
+__________________________________________________________________________________
+day.30050
+Sense:  Synset('day.n.01')
+Overlap: ['law', 'time']
+Score: 171117
+Sense:  Synset('day.n.02')
+Overlap: ['time', 'years', 'According']
+Score: 167943
+Sense:  Synset('day.n.03')
+Overlap: ['Lincoln', 'American', 'Federal', 'law', 'federal', 'May', 'years', 'years', 'April', 'federally']
+Score: 140662
+Sense:  Synset('day.n.04')
+Overlap: ['time', 'years']
+Score: 167650
+Sense:  Synset('day.n.05')
+Overlap: ['called', 'time']
+Score: 205554
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: ['taken', 'time', 'years']
+Score: 182926
+Sense:  Synset('sidereal_day.n.01')
+Overlap: ['time']
+Score: 159957
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.30050; predicted_sense: [205554, Synset('day.n.05')]; correct_sense: day-0;
+
+Accuracy: 0.15053763440860216 ; 28 / 186
+__________________________________________________________________________________
+day.30051
+Sense:  Synset('day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.02')
+Overlap: ['point', 'active', 'new']
+Score: 370447
+Sense:  Synset('day.n.03')
+Overlap: ['6', 'session', 'new', 'markets', 'Massachusetts', 'National']
+Score: 427779
+Sense:  Synset('day.n.04')
+Overlap: ['late']
+Score: 78966
+Sense:  Synset('day.n.05')
+Overlap: ['8']
+Score: 29658
+Sense:  Synset('day.n.06')
+Overlap: ['point']
+Score: 4779
+Sense:  Synset('day.n.07')
+Overlap: ['3']
+Score: 69248
+Sense:  Synset('sidereal_day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.30051; predicted_sense: [427779, Synset('day.n.03')]; correct_sense: day-0;
+
+Accuracy: 0.1497326203208556 ; 28 / 187
+__________________________________________________________________________________
+day.30053
+Sense:  Synset('day.n.01')
+Overlap: ['newspaper', 'newspaper', 'law']
+Score: 17140
+Sense:  Synset('day.n.02')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.03')
+Overlap: ['people', 'law']
+Score: 54283
+Sense:  Synset('day.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: []
+Score: 0
+Sense:  Synset('sidereal_day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.30053; predicted_sense: [54283, Synset('day.n.03')]; correct_sense: day-0;
+
+Accuracy: 0.14893617021276595 ; 28 / 188
+__________________________________________________________________________________
+day.30058
+Sense:  Synset('day.n.01')
+Overlap: ['laws', 'yesterday', 'law', '000']
+Score: 48843
+Sense:  Synset('day.n.02')
+Overlap: ['waited', 'following', 'new']
+Score: 3489428
+Sense:  Synset('day.n.03')
+Overlap: ['state', 'state', 'state', 'laws', 'law', 'new', 'Tuesday', 'customer']
+Score: 424215
+Sense:  Synset('day.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.05')
+Overlap: ['businesses', 'business']
+Score: 214504
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: []
+Score: 0
+Sense:  Synset('sidereal_day.n.01')
+Overlap: ['4']
+Score: 49594
+Sense:  Synset('day.n.09')
+Overlap: ['favor']
+Score: 407
+Sense:  Synset('day.n.10')
+Overlap: ['state']
+Score: 16818
+day.30058; predicted_sense: [3489428, Synset('day.n.02')]; correct_sense: day-0;
+
+Accuracy: 0.14814814814814814 ; 28 / 189
+__________________________________________________________________________________
+day.30062
+Sense:  Synset('day.n.01')
+Overlap: ['month', 'set', 'United']
+Score: 103983
+Sense:  Synset('day.n.02')
+Overlap: ['things', 'year', 'end']
+Score: 59205
+Sense:  Synset('day.n.03')
+Overlap: ['union', 'things', 'year', 'year', 'labor', 'month', 'Labor', 'April', 'set', 'national', 'United', 'Previous']
+Score: 305114
+Sense:  Synset('day.n.04')
+Overlap: ['year']
+Score: 31977
+Sense:  Synset('day.n.05')
+Overlap: ['business', 'Workers', 'stock', 'called']
+Score: 262537
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: ['year']
+Score: 31977
+Sense:  Synset('sidereal_day.n.01')
+Overlap: ['United']
+Score: 7852
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: ['United']
+Score: 7852
+day.30062; predicted_sense: [305114, Synset('day.n.03')]; correct_sense: day-0;
+
+Accuracy: 0.14736842105263157 ; 28 / 190
+__________________________________________________________________________________
+day.30064
+Sense:  Synset('day.n.01')
+Overlap: ['opposing']
+Score: 212
+Sense:  Synset('day.n.02')
+Overlap: ['years']
+Score: 7693
+Sense:  Synset('day.n.03')
+Overlap: ['6', 'union', 'Federal', 'battled', 'battled', 'unions', 'work', 'worked', 'years', 'years']
+Score: 402483
+Sense:  Synset('day.n.04')
+Overlap: ['years']
+Score: 7693
+Sense:  Synset('day.n.05')
+Overlap: ['workers', 'work', 'work', 'called', 'worked', 'worked']
+Score: 763981
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: ['years']
+Score: 7693
+Sense:  Synset('sidereal_day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: ['work', 'worked']
+Score: 348424
+day.30064; predicted_sense: [763981, Synset('day.n.05')]; correct_sense: day-0;
+
+Accuracy: 0.14659685863874344 ; 28 / 191
+__________________________________________________________________________________
+day.30065
+Sense:  Synset('day.n.01')
+Overlap: ['left', 'completely']
+Score: 28077
+Sense:  Synset('day.n.02')
+Overlap: ['point', 'New']
+Score: 22660
+Sense:  Synset('day.n.03')
+Overlap: ['Exchange', 'market', 'New', 'exchange']
+Score: 122668
+Sense:  Synset('day.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.05')
+Overlap: ['stocks', 'Stock', 'Exchange', '8', 'exchange']
+Score: 33798
+Sense:  Synset('day.n.06')
+Overlap: ['point']
+Score: 4779
+Sense:  Synset('day.n.07')
+Overlap: ['completely']
+Score: 4587
+Sense:  Synset('sidereal_day.n.01')
+Overlap: ['4', 'completely']
+Score: 54181
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.30065; predicted_sense: [122668, Synset('day.n.03')]; correct_sense: day-1;
+
+Accuracy: 0.14583333333333334 ; 28 / 192
+__________________________________________________________________________________
+day.30067
+Sense:  Synset('day.n.01')
+Overlap: ['yesterday', 'months', 'opposed', '000']
+Score: 44099
+Sense:  Synset('day.n.02')
+Overlap: ['year', 'fate', 'new', 'years']
+Score: 395889
+Sense:  Synset('day.n.03')
+Overlap: ['Lincoln', 'Federal', 'declared', 'market', 'year', 'year', 'marketed', 'new', 'years', 'years', 'delivered', 'months']
+Score: 567526
+Sense:  Synset('day.n.04')
+Overlap: ['year', 'years']
+Score: 39670
+Sense:  Synset('day.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.06')
+Overlap: ['existing']
+Score: 2603
+Sense:  Synset('day.n.07')
+Overlap: ['year', 'years']
+Score: 39670
+Sense:  Synset('sidereal_day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.30067; predicted_sense: [567526, Synset('day.n.03')]; correct_sense: day-0;
+
+Accuracy: 0.14507772020725387 ; 28 / 193
+__________________________________________________________________________________
+day.30070
+Sense:  Synset('day.n.01')
+Overlap: ['30']
+Score: 15245
+Sense:  Synset('day.n.02')
+Overlap: ['according', 'Activity', 'year', 'points', 'followed']
+Score: 98014
+Sense:  Synset('day.n.03')
+Overlap: ['6', 'seeing', 'market', 'Markets', 'year', 'year', 'Friday', 'March', 'Market']
+Score: 248901
+Sense:  Synset('day.n.04')
+Overlap: ['year', '30', 'late']
+Score: 126188
+Sense:  Synset('day.n.05')
+Overlap: ['stock', 'began']
+Score: 104684
+Sense:  Synset('day.n.06')
+Overlap: ['points']
+Score: 1699
+Sense:  Synset('day.n.07')
+Overlap: ['27', 'year', '30']
+Score: 50983
+Sense:  Synset('sidereal_day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.30070; predicted_sense: [248901, Synset('day.n.03')]; correct_sense: day-3;
+
+Accuracy: 0.14432989690721648 ; 28 / 194
+__________________________________________________________________________________
+day.30071
+Sense:  Synset('day.n.01')
+Overlap: ['yesterday', 'month', 'leaving', 'Times']
+Score: 63129
+Sense:  Synset('day.n.02')
+Overlap: ['marks', 'New', 'points', 'Times']
+Score: 25446
+Sense:  Synset('day.n.03')
+Overlap: ['6', 'Exchange', 'market', 'early', 'marks', 'November', 'New', 'month']
+Score: 431433
+Sense:  Synset('day.n.04')
+Overlap: ['Times']
+Score: 519
+Sense:  Synset('day.n.05')
+Overlap: ['especially', 'Stock', 'Exchange', 'early', 'stock', 'Times']
+Score: 219021
+Sense:  Synset('day.n.06')
+Overlap: ['marks', 'points']
+Score: 7046
+Sense:  Synset('day.n.07')
+Overlap: ['Times', '3']
+Score: 69767
+Sense:  Synset('sidereal_day.n.01')
+Overlap: ['4', 'Times']
+Score: 50113
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.30071; predicted_sense: [431433, Synset('day.n.03')]; correct_sense: day-0;
+
+Accuracy: 0.14358974358974358 ; 28 / 195
+__________________________________________________________________________________
+day.30073
+Sense:  Synset('day.n.01')
+Overlap: ['period', '000']
+Score: 461410
+Sense:  Synset('day.n.02')
+Overlap: ['period']
+Score: 461268
+Sense:  Synset('day.n.03')
+Overlap: ['6', 'work', 'working']
+Score: 909792
+Sense:  Synset('day.n.04')
+Overlap: ['period']
+Score: 461268
+Sense:  Synset('day.n.05')
+Overlap: ['8', 'work', 'work', 'hour', 'hour', 'working', 'working', 'hours', 'hours', 'period']
+Score: 3095974
+Sense:  Synset('day.n.06')
+Overlap: ['period']
+Score: 461268
+Sense:  Synset('day.n.07')
+Overlap: ['E', 'period']
+Score: 462840
+Sense:  Synset('sidereal_day.n.01')
+Overlap: ['4', 'period']
+Score: 510862
+Sense:  Synset('day.n.09')
+Overlap: ['period']
+Score: 461268
+Sense:  Synset('day.n.10')
+Overlap: ['work', 'working']
+Score: 874821
+day.30073; predicted_sense: [3095974, Synset('day.n.05')]; correct_sense: day-0;
+
+Accuracy: 0.14285714285714285 ; 28 / 196
+__________________________________________________________________________________
+day.30074
+Sense:  Synset('day.n.01')
+Overlap: ['task']
+Score: 5825
+Sense:  Synset('day.n.02')
+Overlap: ['actively', 'new', 'years']
+Score: 363509
+Sense:  Synset('day.n.03')
+Overlap: ['market', 'new', 'years', 'years', 'markets', 'exchange']
+Score: 477347
+Sense:  Synset('day.n.04')
+Overlap: ['years']
+Score: 7693
+Sense:  Synset('day.n.05')
+Overlap: ['business', 'hours', 'hours', 'exchange']
+Score: 270081
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: ['years']
+Score: 7693
+Sense:  Synset('sidereal_day.n.01')
+Overlap: ['4', 'means']
+Score: 66170
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.30074; predicted_sense: [477347, Synset('day.n.03')]; correct_sense: day-0;
+
+Accuracy: 0.14213197969543148 ; 28 / 197
+__________________________________________________________________________________
+day.30076
+Sense:  Synset('day.n.01')
+Overlap: ['unit', 'included', 'months']
+Score: 25523
+Sense:  Synset('day.n.02')
+Overlap: ['year', 'New']
+Score: 49858
+Sense:  Synset('day.n.03')
+Overlap: ['unit', 'Exchange', 'related', 'year', 'year', 'New', 'pay', 'months']
+Score: 148728
+Sense:  Synset('day.n.04')
+Overlap: ['year']
+Score: 31977
+Sense:  Synset('day.n.05')
+Overlap: ['Stock', 'Exchange']
+Score: 484
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: ['year']
+Score: 31977
+Sense:  Synset('sidereal_day.n.01')
+Overlap: ['unit', 'related']
+Score: 8722
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: ['unit']
+Score: 6328
+day.30076; predicted_sense: [148728, Synset('day.n.03')]; correct_sense: day-0;
+
+Accuracy: 0.1414141414141414 ; 28 / 198
+__________________________________________________________________________________
+day.30077
+Sense:  Synset('day.n.01')
+Overlap: ['left']
+Score: 23490
+Sense:  Synset('day.n.02')
+Overlap: ['point', 'end', 'year']
+Score: 46254
+Sense:  Synset('day.n.03')
+Overlap: ['market', 'Friday', '6', 'degree', 'year', 'year', 'early']
+Score: 425765
+Sense:  Synset('day.n.04')
+Overlap: ['quiet', 'afternoon', 'year']
+Score: 80281
+Sense:  Synset('day.n.05')
+Overlap: ['hour', 'hour', 'stock', 'early', 'calling']
+Score: 1017331
+Sense:  Synset('day.n.06')
+Overlap: ['point']
+Score: 4779
+Sense:  Synset('day.n.07')
+Overlap: ['year']
+Score: 31977
+Sense:  Synset('sidereal_day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.30077; predicted_sense: [1017331, Synset('day.n.05')]; correct_sense: day-1;
+
+Accuracy: 0.1457286432160804 ; 29 / 199
+__________________________________________________________________________________
+day.30079
+Sense:  Synset('day.n.01')
+Overlap: ['including', 'yesterday']
+Score: 51846
+Sense:  Synset('day.n.02')
+Overlap: ['year', 'thing']
+Score: 35083
+Sense:  Synset('day.n.03')
+Overlap: ['6', 'political', 'market', 'year', 'year', 'exchanges', 'thing', 'people']
+Score: 271842
+Sense:  Synset('day.n.04')
+Overlap: ['year']
+Score: 31977
+Sense:  Synset('day.n.05')
+Overlap: ['exchanges', 'stock', 'daily']
+Score: 5899
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: ['year']
+Score: 31977
+Sense:  Synset('sidereal_day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.30079; predicted_sense: [271842, Synset('day.n.03')]; correct_sense: day-0;
+
+Accuracy: 0.145 ; 29 / 200
+__________________________________________________________________________________
+day.30082
+Sense:  Synset('day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.02')
+Overlap: ['point', 'ended']
+Score: 46797
+Sense:  Synset('day.n.03')
+Overlap: ['October', '6']
+Score: 72496
+Sense:  Synset('day.n.04')
+Overlap: ['light']
+Score: 49101
+Sense:  Synset('day.n.05')
+Overlap: ['8']
+Score: 29658
+Sense:  Synset('day.n.06')
+Overlap: ['point']
+Score: 4779
+Sense:  Synset('day.n.07')
+Overlap: ['3']
+Score: 69248
+Sense:  Synset('sidereal_day.n.01')
+Overlap: ['4']
+Score: 49594
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.30082; predicted_sense: [72496, Synset('day.n.03')]; correct_sense: day-1;
+
+Accuracy: 0.14427860696517414 ; 29 / 201
+__________________________________________________________________________________
+day.30083
+Sense:  Synset('day.n.01')
+Overlap: ['Time', 'specified', 'date', 'time']
+Score: 190726
+Sense:  Synset('day.n.02')
+Overlap: ['Time', 'Specific', 'time', 'active', 'end', 'good']
+Score: 557997
+Sense:  Synset('day.n.03')
+Overlap: ['market', 'exchange', 'added', 'date', 'good']
+Score: 495885
+Sense:  Synset('day.n.04')
+Overlap: ['Time', 'time']
+Score: 162369
+Sense:  Synset('day.n.05')
+Overlap: ['Time', 'exchange', 'time']
+Score: 165481
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: ['Time', 'time']
+Score: 162369
+Sense:  Synset('sidereal_day.n.01')
+Overlap: ['Time', 'minutes', 'time']
+Score: 163683
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.30083; predicted_sense: [557997, Synset('day.n.02')]; correct_sense: day-0;
+
+Accuracy: 0.14356435643564355 ; 29 / 202
+__________________________________________________________________________________
+day.30086
+Sense:  Synset('day.n.01')
+Overlap: ['including', 'passengers', '000']
+Score: 17342
+Sense:  Synset('day.n.02')
+Overlap: ['new']
+Score: 355185
+Sense:  Synset('day.n.03')
+Overlap: ['president', 'union', '13th', 'work', 'Friday', 'new', 'delivered', 'receiving']
+Score: 686031
+Sense:  Synset('day.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.05')
+Overlap: ['work', 'work', 'daily']
+Score: 612648
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: []
+Score: 0
+Sense:  Synset('sidereal_day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: ['work']
+Score: 305267
+day.30086; predicted_sense: [686031, Synset('day.n.03')]; correct_sense: day-0;
+
+Accuracy: 0.14285714285714285 ; 29 / 203
+__________________________________________________________________________________
+day.30088
+Sense:  Synset('day.n.01')
+Overlap: ['month', '000']
+Score: 21994
+Sense:  Synset('day.n.02')
+Overlap: ['year', 'years']
+Score: 39670
+Sense:  Synset('day.n.03')
+Overlap: ['come', 'annual', 'year', 'year', 'month', 'years', 'years']
+Score: 191407
+Sense:  Synset('day.n.04')
+Overlap: ['year', 'years']
+Score: 39670
+Sense:  Synset('day.n.05')
+Overlap: ['businesses']
+Score: 459
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: ['year', 'years']
+Score: 39670
+Sense:  Synset('sidereal_day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.30088; predicted_sense: [191407, Synset('day.n.03')]; correct_sense: day-0;
+
+Accuracy: 0.14215686274509803 ; 29 / 204
+__________________________________________________________________________________
+day.30089
+Sense:  Synset('day.n.01')
+Overlap: ['later', 'performer']
+Score: 275670
+Sense:  Synset('day.n.02')
+Overlap: ['years', 'thing']
+Score: 10799
+Sense:  Synset('day.n.03')
+Overlap: ['market', 'early', 'Friday', 'October', 'years', 'years', 'Monday', 'markets', 'thing', 'March']
+Score: 409339
+Sense:  Synset('day.n.04')
+Overlap: ['years', 'late']
+Score: 86659
+Sense:  Synset('day.n.05')
+Overlap: ['8', 'early', 'stock', 'went']
+Score: 336370
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: ['years']
+Score: 7693
+Sense:  Synset('sidereal_day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.09')
+Overlap: ['possible']
+Score: 15083
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.30089; predicted_sense: [409339, Synset('day.n.03')]; correct_sense: day-0;
+
+Accuracy: 0.14146341463414633 ; 29 / 205
+__________________________________________________________________________________
+day.30092
+Sense:  Synset('day.n.01')
+Overlap: ['unit', 'including']
+Score: 22608
+Sense:  Synset('day.n.02')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.03')
+Overlap: ['president', 'unit', 'market']
+Score: 108329
+Sense:  Synset('day.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: []
+Score: 0
+Sense:  Synset('sidereal_day.n.01')
+Overlap: ['unit']
+Score: 6328
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: ['unit']
+Score: 6328
+day.30092; predicted_sense: [108329, Synset('day.n.03')]; correct_sense: day-0;
+
+Accuracy: 0.1407766990291262 ; 29 / 206
+__________________________________________________________________________________
+day.30093
+Sense:  Synset('day.n.01')
+Overlap: ['000']
+Score: 142
+Sense:  Synset('day.n.02')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.03')
+Overlap: ['state', 'state', 'state', 'Friday', 'week', 'weeks', 'National']
+Score: 234948
+Sense:  Synset('day.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.05')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: []
+Score: 0
+Sense:  Synset('sidereal_day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: ['state']
+Score: 16818
+day.30093; predicted_sense: [234948, Synset('day.n.03')]; correct_sense: day-0;
+
+Accuracy: 0.14009661835748793 ; 29 / 207
+__________________________________________________________________________________
+day.30098
+Sense:  Synset('day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.02')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.03')
+Overlap: ['work', 'community', 'national']
+Score: 345612
+Sense:  Synset('day.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.05')
+Overlap: ['businesses', 'work', 'work', 'morning']
+Score: 637135
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: []
+Score: 0
+Sense:  Synset('sidereal_day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: ['work']
+Score: 305267
+day.30098; predicted_sense: [637135, Synset('day.n.05')]; correct_sense: day-0;
+
+Accuracy: 0.13942307692307693 ; 29 / 208
+__________________________________________________________________________________
+day.30101
+Sense:  Synset('day.n.01')
+Overlap: ['month', 'law']
+Score: 33012
+Sense:  Synset('day.n.02')
+Overlap: ['points']
+Score: 1699
+Sense:  Synset('day.n.03')
+Overlap: ['state', 'state', 'state', 'month', 'Texas', '6', 'law']
+Score: 121767
+Sense:  Synset('day.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.05')
+Overlap: ['went']
+Score: 97120
+Sense:  Synset('day.n.06')
+Overlap: ['points']
+Score: 1699
+Sense:  Synset('day.n.07')
+Overlap: ['3']
+Score: 69248
+Sense:  Synset('sidereal_day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: ['state']
+Score: 16818
+day.30101; predicted_sense: [121767, Synset('day.n.03')]; correct_sense: day-0;
+
+Accuracy: 0.13875598086124402 ; 29 / 209
+__________________________________________________________________________________
+day.30102
+Sense:  Synset('day.n.01')
+Overlap: ['000']
+Score: 142
+Sense:  Synset('day.n.02')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.03')
+Overlap: ['market', 'exchange']
+Score: 104490
+Sense:  Synset('day.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.05')
+Overlap: ['exchange']
+Score: 3112
+Sense:  Synset('day.n.06')
+Overlap: ['success']
+Score: 2206
+Sense:  Synset('day.n.07')
+Overlap: []
+Score: 0
+Sense:  Synset('sidereal_day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.30102; predicted_sense: [104490, Synset('day.n.03')]; correct_sense: day-0;
+
+Accuracy: 0.1380952380952381 ; 29 / 210
+__________________________________________________________________________________
+day.30105
+Sense:  Synset('day.n.01')
+Overlap: ['yesterday', 'month']
+Score: 57418
+Sense:  Synset('day.n.02')
+Overlap: ['end']
+Score: 9498
+Sense:  Synset('day.n.03')
+Overlap: ['practically', 'November', 'month', 'military', 'pays', 'March', 'receive']
+Score: 110333
+Sense:  Synset('day.n.04')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.05')
+Overlap: ['called']
+Score: 45597
+Sense:  Synset('day.n.06')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.07')
+Overlap: []
+Score: 0
+Sense:  Synset('sidereal_day.n.01')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.09')
+Overlap: []
+Score: 0
+Sense:  Synset('day.n.10')
+Overlap: []
+Score: 0
+day.30105; predicted_sense: [110333, Synset('day.n.03')]; correct_sense: day-0;
+
+Accuracy: 0.13744075829383887 ; 29 / 211
+__________________________________________________________________________________

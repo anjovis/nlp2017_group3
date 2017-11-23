@@ -1,0 +1,400 @@
+Description about the run
+day.40002; predicted_sense: [461268, Synset('day.n.02')]; correct_sense: day-0;
+
+day.40002; predicted_sense: [461268, Synset('day.n.02')]; correct_sense: day-0;
+
+day.40002; predicted_sense: [461268, Synset('day.n.02')]; correct_sense: day-0;
+
+day.40003; predicted_sense: [16576, Synset('sidereal_day.n.01')]; correct_sense: day-0;
+
+day.40006; predicted_sense: [99903, Synset('day.n.05')]; correct_sense: day-3;
+
+day.40011; predicted_sense: [175768, Synset('day.n.04')]; correct_sense: day-3;
+
+day.40014; predicted_sense: [15276, Synset('day.n.07')]; correct_sense: day-0;
+
+day.40016; predicted_sense: [97120, Synset('day.n.05')]; correct_sense: day-0;
+
+day.40017; predicted_sense: [52716, Synset('day.n.04')]; correct_sense: day-3;
+
+day.40020; predicted_sense: [1304082, Synset('day.n.07')]; correct_sense: day-0;
+
+day.40028; predicted_sense: [66778, Synset('day.n.07')]; correct_sense: day-1;
+
+day.40032; predicted_sense: [49101, Synset('day.n.04')]; correct_sense: day-0;
+
+day.40034; predicted_sense: [97120, Synset('day.n.05')]; correct_sense: day-0;
+
+day.40037; predicted_sense: [11145, Synset('day.n.03')]; correct_sense: day-0;
+
+day.40041; predicted_sense: [275354, Synset('day.n.01')]; correct_sense: day-3;
+
+day.40044; predicted_sense: [776363, Synset('day.n.05')]; correct_sense: day-1;
+
+day.40046; predicted_sense: [275354, Synset('day.n.01')]; correct_sense: day-0;
+
+day.40049; predicted_sense: [35715, Synset('day.n.04')]; correct_sense: day-0;
+
+day.40050; predicted_sense: [38628, Synset('day.n.06')]; correct_sense: day-3;
+
+day.40053; predicted_sense: [2482, Synset('day.n.04')]; correct_sense: day-0;
+
+day.40055; predicted_sense: [406019, Synset('day.n.07')]; correct_sense: day-0;
+
+day.40058; predicted_sense: [7030, Synset('sidereal_day.n.01')]; correct_sense: day-0;
+
+day.40059; predicted_sense: [175202, Synset('day.n.01')]; correct_sense: day-0;
+
+day.40062; predicted_sense: [101901, Synset('day.n.05')]; correct_sense: day-0;
+
+day.40065; predicted_sense: [214045, Synset('day.n.05')]; correct_sense: day-0;
+
+day.40068; predicted_sense: [1304082, Synset('day.n.07')]; correct_sense: day-0;
+
+day.40069; predicted_sense: [776363, Synset('day.n.05')]; correct_sense: day-0;
+
+day.40072; predicted_sense: [23490, Synset('day.n.01')]; correct_sense: day-0;
+
+day.40074; predicted_sense: [461268, Synset('day.n.02')]; correct_sense: day-0;
+
+day.40076; predicted_sense: [305267, Synset('day.n.05')]; correct_sense: day-3;
+
+day.40079; predicted_sense: [26142, Synset('day.n.05')]; correct_sense: day-1;
+
+day.40080; predicted_sense: [26142, Synset('day.n.05')]; correct_sense: day-1;
+
+day.40083; predicted_sense: [275354, Synset('day.n.01')]; correct_sense: day-0;
+
+day.40084; predicted_sense: [16818, Synset('day.n.10')]; correct_sense: day-0;
+
+day.40090; predicted_sense: [49101, Synset('day.n.04')]; correct_sense: day-0;
+
+day.40096; predicted_sense: [175233, Synset('day.n.07')]; correct_sense: day-0;
+
+day.40098; predicted_sense: [1304082, Synset('day.n.07')]; correct_sense: day-3;
+
+day.40100; predicted_sense: [141358, Synset('day.n.05')]; correct_sense: day-0;
+
+day.40107; predicted_sense: [1319358, Synset('day.n.07')]; correct_sense: day-0;
+
+day.40109; predicted_sense: [3657, Synset('day.n.01')]; correct_sense: day-0;
+
+day.40111; predicted_sense: [452765, Synset('day.n.05')]; correct_sense: day-3;
+
+day.40114; predicted_sense: [23490, Synset('day.n.01')]; correct_sense: day-1;
+
+day.40116; predicted_sense: [1304082, Synset('day.n.07')]; correct_sense: day-0;
+
+day.40117; predicted_sense: [446838, Synset('day.n.05')]; correct_sense: day-0;
+
+day.40122; predicted_sense: [212704, Synset('day.n.05')]; correct_sense: day-0;
+
+day.40125; predicted_sense: [12610, Synset('day.n.04')]; correct_sense: day-0;
+
+day.40129; predicted_sense: [1304082, Synset('day.n.07')]; correct_sense: day-1;
+
+day.40136; predicted_sense: [275354, Synset('day.n.01')]; correct_sense: day-3;
+
+day.40139; predicted_sense: [23490, Synset('day.n.01')]; correct_sense: day-0;
+
+day.40144; predicted_sense: [275354, Synset('day.n.01')]; correct_sense: day-3;
+
+day.40146; predicted_sense: [214045, Synset('day.n.05')]; correct_sense: day-0;
+
+day.40148; predicted_sense: [13993, Synset('day.n.05')]; correct_sense: day-0;
+
+day.40149; predicted_sense: [1141352, Synset('day.n.05')]; correct_sense: day-1;
+
+day.40156; predicted_sense: [97120, Synset('day.n.05')]; correct_sense: day-3;
+
+day.40157; predicted_sense: [55441, Synset('day.n.10')]; correct_sense: day-3;
+
+day.40160; predicted_sense: [208677, Synset('day.n.04')]; correct_sense: day-1;
+
+day.40163; predicted_sense: [98188, Synset('day.n.02')]; correct_sense: day-0;
+
+day.40165; predicted_sense: [101901, Synset('day.n.05')]; correct_sense: day-0;
+
+day.40168; predicted_sense: [176766, Synset('sidereal_day.n.01')]; correct_sense: day-1;
+
+day.40169; predicted_sense: [15811, Synset('day.n.04')]; correct_sense: day-3;
+
+day.40172; predicted_sense: [45597, Synset('day.n.05')]; correct_sense: day-0;
+
+day.40177; predicted_sense: [1497117, Synset('day.n.07')]; correct_sense: day-1;
+
+day.40178; predicted_sense: [683, Synset('day.n.10')]; correct_sense: day-0;
+
+day.40181; predicted_sense: [183447, Synset('day.n.01')]; correct_sense: day-3;
+
+day.40182; predicted_sense: [305267, Synset('day.n.05')]; correct_sense: day-0;
+
+day.40185; predicted_sense: [461268, Synset('day.n.02')]; correct_sense: day-0;
+
+day.40186; predicted_sense: [435311, Synset('day.n.01')]; correct_sense: day-0;
+
+day.40189; predicted_sense: [1002, Synset('day.n.05')]; correct_sense: day-0;
+
+day.40192; predicted_sense: [303702, Synset('day.n.07')]; correct_sense: day-3;
+
+day.40195; predicted_sense: [21414, Synset('day.n.07')]; correct_sense: day-0;
+
+day.40199; predicted_sense: [189534, Synset('day.n.04')]; correct_sense: day-0;
+
+day.40202; predicted_sense: [254023, Synset('sidereal_day.n.01')]; correct_sense: day-0;
+
+day.40204; predicted_sense: [1470177, Synset('day.n.07')]; correct_sense: day-0;
+
+day.40206; predicted_sense: [371217, Synset('day.n.10')]; correct_sense: day-3;
+
+day.40208; predicted_sense: [305267, Synset('day.n.05')]; correct_sense: day-0;
+
+day.40211; predicted_sense: [33078, Synset('day.n.02')]; correct_sense: day-0;
+
+day.40212; predicted_sense: [55441, Synset('day.n.10')]; correct_sense: day-1;
+
+day.40215; predicted_sense: [10216, Synset('day.n.05')]; correct_sense: day-0;
+
+day.40216; predicted_sense: [123262, Synset('day.n.05')]; correct_sense: day-0;
+
+day.40220; predicted_sense: [298844, Synset('day.n.01')]; correct_sense: day-0;
+
+day.40222; predicted_sense: [206809, Synset('day.n.05')]; correct_sense: day-0;
+
+day.40223; predicted_sense: [142, Synset('day.n.01')]; correct_sense: day-0;
+
+day.40225; predicted_sense: [305267, Synset('day.n.05')]; correct_sense: day-3;
+
+day.40228; predicted_sense: [175202, Synset('day.n.01')]; correct_sense: day-0;
+
+day.40231; predicted_sense: [2206, Synset('day.n.06')]; correct_sense: day-0;
+
+day.40232; predicted_sense: [182632, Synset('day.n.04')]; correct_sense: day-3;
+
+day.40234; predicted_sense: [435311, Synset('day.n.01')]; correct_sense: day-0;
+
+day.40237; predicted_sense: [371217, Synset('day.n.10')]; correct_sense: day-0;
+
+day.40240; predicted_sense: [55441, Synset('day.n.10')]; correct_sense: day-3;
+
+day.40242; predicted_sense: [305267, Synset('day.n.05')]; correct_sense: day-3;
+
+day.40244; predicted_sense: [305267, Synset('day.n.05')]; correct_sense: day-0;
+
+day.40246; predicted_sense: [64057, Synset('sidereal_day.n.01')]; correct_sense: day-0;
+
+day.40250; predicted_sense: [49594, Synset('sidereal_day.n.01')]; correct_sense: day-1;
+
+day.40255; predicted_sense: [101901, Synset('day.n.05')]; correct_sense: day-3;
+
+day.40259; predicted_sense: [246062, Synset('day.n.03')]; correct_sense: day-0;
+
+day.40261; predicted_sense: [489995, Synset('day.n.05')]; correct_sense: day-0;
+
+day.40262; predicted_sense: [6138, Synset('day.n.01')]; correct_sense: day-0;
+
+day.40265; predicted_sense: [97120, Synset('day.n.05')]; correct_sense: day-3;
+
+day.40266; predicted_sense: [435311, Synset('day.n.01')]; correct_sense: day-1;
+
+day.40268; predicted_sense: [303929, Synset('day.n.05')]; correct_sense: day-1;
+
+day.40269; predicted_sense: [192866, Synset('day.n.01')]; correct_sense: day-3;
+
+day.40271; predicted_sense: [246744, Synset('day.n.04')]; correct_sense: day-0;
+
+day.40274; predicted_sense: [1464039, Synset('day.n.07')]; correct_sense: day-0;
+
+day.40275; predicted_sense: [1304302, Synset('day.n.07')]; correct_sense: day-3;
+
+day.40278; predicted_sense: [66170, Synset('sidereal_day.n.01')]; correct_sense: day-0;
+
+day.40280; predicted_sense: [15245, Synset('day.n.01')]; correct_sense: day-0;
+
+day.40281; predicted_sense: [401241, Synset('day.n.05')]; correct_sense: day-0;
+
+day.40283; predicted_sense: [16234, Synset('day.n.04')]; correct_sense: day-0;
+
+day.40287; predicted_sense: [55441, Synset('day.n.10')]; correct_sense: day-3;
+
+day.40289; predicted_sense: [305267, Synset('day.n.05')]; correct_sense: day-0;
+
+day.40290; predicted_sense: [326856, Synset('day.n.01')]; correct_sense: day-0;
+
+day.40293; predicted_sense: [16576, Synset('sidereal_day.n.01')]; correct_sense: day-1;
+
+day.40295; predicted_sense: [305267, Synset('day.n.05')]; correct_sense: day-1;
+
+day.40296; predicted_sense: [461268, Synset('day.n.02')]; correct_sense: day-3;
+
+day.40299; predicted_sense: [305267, Synset('day.n.05')]; correct_sense: day-1;
+
+day.40304; predicted_sense: [142717, Synset('day.n.05')]; correct_sense: day-0;
+
+day.40310; predicted_sense: [128043, Synset('day.n.05')]; correct_sense: day-0;
+
+day.40313; predicted_sense: [105603, Synset('day.n.02')]; correct_sense: day-0;
+
+day.40314; predicted_sense: [206809, Synset('day.n.05')]; correct_sense: day-0;
+
+day.40319; predicted_sense: [409082, Synset('day.n.05')]; correct_sense: day-0;
+
+day.40322; predicted_sense: [26771, Synset('day.n.01')]; correct_sense: day-3;
+
+day.40325; predicted_sense: [569554, Synset('day.n.05')]; correct_sense: day-0;
+
+day.40326; predicted_sense: [63293, Synset('day.n.10')]; correct_sense: day-3;
+
+day.40331; predicted_sense: [297564, Synset('day.n.07')]; correct_sense: day-0;
+
+day.40334; predicted_sense: [305267, Synset('day.n.05')]; correct_sense: day-0;
+
+day.40340; predicted_sense: [7408, Synset('sidereal_day.n.01')]; correct_sense: day-1;
+
+day.40341; predicted_sense: [98188, Synset('day.n.02')]; correct_sense: day-1;
+
+day.40343; predicted_sense: [1304082, Synset('day.n.07')]; correct_sense: day-3;
+
+day.40344; predicted_sense: [55441, Synset('day.n.10')]; correct_sense: day-0;
+
+day.40346; predicted_sense: [305267, Synset('day.n.05')]; correct_sense: day-3;
+
+day.40347; predicted_sense: [401241, Synset('day.n.05')]; correct_sense: day-0;
+
+day.40350; predicted_sense: [206809, Synset('day.n.05')]; correct_sense: day-0;
+
+day.40353; predicted_sense: [326998, Synset('day.n.01')]; correct_sense: day-1;
+
+day.40356; predicted_sense: [206809, Synset('day.n.05')]; correct_sense: day-0;
+
+day.40358; predicted_sense: [7030, Synset('sidereal_day.n.01')]; correct_sense: day-0;
+
+day.40359; predicted_sense: [435311, Synset('day.n.01')]; correct_sense: day-0;
+
+day.40361; predicted_sense: [31735, Synset('day.n.01')]; correct_sense: day-0;
+
+day.40362; predicted_sense: [319260, Synset('day.n.05')]; correct_sense: day-0;
+
+day.40369; predicted_sense: [1304082, Synset('day.n.07')]; correct_sense: day-0;
+
+day.40372; predicted_sense: [435311, Synset('day.n.01')]; correct_sense: day-3;
+
+day.40374; predicted_sense: [1304082, Synset('day.n.07')]; correct_sense: day-0;
+
+day.40376; predicted_sense: [275354, Synset('day.n.01')]; correct_sense: day-0;
+
+day.40378; predicted_sense: [97120, Synset('day.n.05')]; correct_sense: day-0;
+
+day.40379; predicted_sense: [131, Synset('day.n.01')]; correct_sense: day-0;
+
+day.40381; predicted_sense: [206809, Synset('day.n.05')]; correct_sense: day-0;
+
+day.40382; predicted_sense: [305267, Synset('day.n.05')]; correct_sense: day-3;
+
+day.40384; predicted_sense: [170, Synset('day.n.02')]; correct_sense: day-3;
+
+day.40385; predicted_sense: [298844, Synset('day.n.01')]; correct_sense: day-0;
+
+day.40387; predicted_sense: [101901, Synset('day.n.05')]; correct_sense: day-0;
+
+day.40388; predicted_sense: [183447, Synset('day.n.01')]; correct_sense: day-0;
+
+day.40390; predicted_sense: [26771, Synset('day.n.01')]; correct_sense: day-0;
+
+day.40391; predicted_sense: [159957, Synset('day.n.01')]; correct_sense: day-0;
+
+day.40393; predicted_sense: [9685, Synset('day.n.07')]; correct_sense: day-0;
+
+day.40394; predicted_sense: [134642, Synset('day.n.05')]; correct_sense: day-0;
+
+day.40396; predicted_sense: [1304082, Synset('day.n.07')]; correct_sense: day-0;
+
+day.40397; predicted_sense: [339570, Synset('day.n.05')]; correct_sense: day-0;
+
+day.40400; predicted_sense: [172567, Synset('day.n.04')]; correct_sense: day-0;
+
+day.40402; predicted_sense: [51502, Synset('day.n.01')]; correct_sense: day-0;
+
+day.40403; predicted_sense: [7030, Synset('sidereal_day.n.01')]; correct_sense: day-0;
+
+day.40405; predicted_sense: [162369, Synset('day.n.01')]; correct_sense: day-3;
+
+day.40408; predicted_sense: [97120, Synset('day.n.05')]; correct_sense: day-0;
+
+day.40409; predicted_sense: [305267, Synset('day.n.05')]; correct_sense: day-0;
+
+day.40412; predicted_sense: [209058, Synset('day.n.04')]; correct_sense: day-1;
+
+day.40415; predicted_sense: [3657, Synset('day.n.01')]; correct_sense: day-3;
+
+day.30008; predicted_sense: [31735, Synset('day.n.01')]; correct_sense: day-0;
+
+day.30030; predicted_sense: [56348, Synset('day.n.04')]; correct_sense: day-0;
+
+day.30033; predicted_sense: [430710, Synset('day.n.05')]; correct_sense: day-1;
+
+day.30034; predicted_sense: [16818, Synset('day.n.10')]; correct_sense: day-0;
+
+day.30037; predicted_sense: [142, Synset('day.n.01')]; correct_sense: day-0;
+
+day.30039; predicted_sense: [461268, Synset('day.n.02')]; correct_sense: day-0;
+
+day.30040; predicted_sense: [3811, Synset('day.n.05')]; correct_sense: day-0;
+
+day.30043; predicted_sense: [11135, Synset('day.n.01')]; correct_sense: day-0;
+
+day.30044; predicted_sense: [159957, Synset('day.n.01')]; correct_sense: day-0;
+
+day.30046; predicted_sense: [6587, Synset('day.n.07')]; correct_sense: day-1;
+
+day.30050; predicted_sense: [175233, Synset('day.n.07')]; correct_sense: day-0;
+
+day.30051; predicted_sense: [4779, Synset('day.n.02')]; correct_sense: day-0;
+
+day.30058; predicted_sense: [214504, Synset('day.n.05')]; correct_sense: day-0;
+
+day.30062; predicted_sense: [262425, Synset('day.n.05')]; correct_sense: day-0;
+
+day.30064; predicted_sense: [394021, Synset('day.n.05')]; correct_sense: day-0;
+
+day.30065; predicted_sense: [54181, Synset('sidereal_day.n.01')]; correct_sense: day-1;
+
+day.30067; predicted_sense: [2603, Synset('day.n.06')]; correct_sense: day-0;
+
+day.30070; predicted_sense: [104684, Synset('day.n.05')]; correct_sense: day-3;
+
+day.30071; predicted_sense: [218502, Synset('day.n.05')]; correct_sense: day-0;
+
+day.30073; predicted_sense: [1302524, Synset('day.n.05')]; correct_sense: day-0;
+
+day.30074; predicted_sense: [243619, Synset('day.n.05')]; correct_sense: day-0;
+
+day.30076; predicted_sense: [6328, Synset('day.n.10')]; correct_sense: day-0;
+
+day.30077; predicted_sense: [616090, Synset('day.n.05')]; correct_sense: day-1;
+
+day.30079; predicted_sense: [3785, Synset('day.n.05')]; correct_sense: day-0;
+
+day.30082; predicted_sense: [49594, Synset('sidereal_day.n.01')]; correct_sense: day-1;
+
+day.30083; predicted_sense: [163683, Synset('sidereal_day.n.01')]; correct_sense: day-0;
+
+day.30086; predicted_sense: [305267, Synset('day.n.05')]; correct_sense: day-0;
+
+day.30088; predicted_sense: [459, Synset('day.n.05')]; correct_sense: day-0;
+
+day.30089; predicted_sense: [306712, Synset('day.n.05')]; correct_sense: day-0;
+
+day.30092; predicted_sense: [6328, Synset('day.n.10')]; correct_sense: day-0;
+
+day.30093; predicted_sense: [16818, Synset('day.n.10')]; correct_sense: day-0;
+
+day.30098; predicted_sense: [331868, Synset('day.n.05')]; correct_sense: day-0;
+
+day.30101; predicted_sense: [97120, Synset('day.n.05')]; correct_sense: day-0;
+
+day.30102; predicted_sense: [3112, Synset('day.n.05')]; correct_sense: day-0;
+
+day.30105; predicted_sense: [45597, Synset('day.n.05')]; correct_sense: day-0;
+
+Accuracy: 0.18009478672985782 ; 38 / 211The amount of no_overlap: 12

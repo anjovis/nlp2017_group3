@@ -3,7 +3,7 @@
   "lexical-sample.dtd">
   <corpus lang='english'>
 
-
+<!--
   <lexelt item="bar.n">
 
 <instance id="bar.40001" docsrc="bnc_CGC_62">
@@ -6269,7 +6269,7 @@ a closet, and a secretary escorts him past security.
 </instance>
 
 </lexelt>
-
+  -->
   <lexelt item="day.n">
 
 <instance id="day.40002" docsrc="bnc_CGJ_861">
